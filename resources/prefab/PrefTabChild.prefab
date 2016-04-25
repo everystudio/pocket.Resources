@@ -26,7 +26,7 @@ GameObject:
   - 4: {fileID: 421852}
   - 114: {fileID: 11411012}
   - 65: {fileID: 6525466}
-  - 114: {fileID: 11472680}
+  - 114: {fileID: 11485124}
   m_Layer: 8
   m_Name: sprImage
   m_TagString: Untagged
@@ -53,7 +53,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 117100}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 728, y: -33, z: 0}
+  m_LocalPosition: {x: 169, y: 96, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 421852}
@@ -128,7 +128,7 @@ MonoBehaviour:
   mFixedAspect: 0
   mPixelSize: 1
   nextSprite: {fileID: 0}
---- !u!114 &11472680
+--- !u!114 &11485124
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -136,27 +136,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 133350}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1fdca5042b1d12a4890ec1bd4f04290d, type: 3}
+  m_Script: {fileID: 11500000, guid: e4c4ff40739c7904ca26c14ffbdc4176, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tweenTarget: {fileID: 133350}
-  hover: {r: 0.88235295, g: 0.78431374, b: 0.5882353, a: 1}
-  pressed: {r: 0.7176471, g: 0.6392157, b: 0.48235294, a: 1}
-  disabledColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
-  duration: 0.2
-  dragHighlight: 0
-  hoverSprite: 
-  pressedSprite: 
-  disabledSprite: 
-  hoverSprite2D: {fileID: 0}
-  pressedSprite2D: {fileID: 0}
-  disabledSprite2D: {fileID: 0}
-  pixelSnap: 0
-  onClick:
-  - mTarget: {fileID: 11491784}
-    mMethodName: OnClickButton
-    mParameters: []
-    oneShot: 0
+  target: {fileID: 117100}
+  functionName: OnClickButton
+  trigger: 0
+  includeChildren: 0
 --- !u!114 &11491784
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -171,7 +157,6 @@ MonoBehaviour:
   m_intIndex: 0
   m_bButtonClicked: 0
   m_sprImage: {fileID: 11411012}
-  m_uiButton: {fileID: 11472680}
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1
@@ -182,7 +167,7 @@ Prefab:
     - target: {fileID: 0}
       propertyPath: m_uiButton
       value: 
-      objectReference: {fileID: 11472680}
+      objectReference: {fileID: 0}
     - target: {fileID: 0}
       propertyPath: m_sprImage
       value: 
