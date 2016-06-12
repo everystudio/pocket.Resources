@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 74d384de79f28554cafd246fd5472cc9
+timeCreated: 1465565632
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bg_list.png
+    21300002: bg_main.png
+    21300004: bg_table.png
+    21300006: bg_zukan1.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bg_list.png
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 908
+        width: 640
+        height: 1136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -320, y: 568}
+        - {x: -320, y: -568}
+        - {x: 320, y: -568}
+        - {x: 320, y: 568}
+    - name: bg_main.png
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 908
+        width: 640
+        height: 1136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -320, y: 568}
+        - {x: -320, y: -568}
+        - {x: 320, y: -568}
+        - {x: 320, y: 568}
+    - name: bg_table.png
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 94
+        width: 640
+        height: 810
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -320, y: 405}
+        - {x: -320, y: -405}
+        - {x: 320, y: -405}
+        - {x: 320, y: 405}
+    - name: bg_zukan1.png
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 908
+        width: 640
+        height: 1136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -320, y: 568}
+        - {x: -320, y: -568}
+        - {x: 320, y: -568}
+        - {x: 320, y: 568}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

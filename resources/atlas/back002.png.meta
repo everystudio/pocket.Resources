@@ -1,15 +1,15 @@
 fileFormatVersion: 2
-guid: 20e63e60d3d506e4f9b9757425b7b7cf
-timeCreated: 1465560227
+guid: 28091e7665c28294b88dd3fc8f60f3c6
+timeCreated: 1465565619
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: PR.png
-    21300002: PR2.png
+    21300000: bg001.png
+    21300002: bg002.png
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     linearTexture: 0
     correctGamma: 0
     fadeOut: 0
@@ -29,13 +29,13 @@ TextureImporter:
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -2
-  maxTextureSize: 4096
+  maxTextureSize: 2048
   textureSettings:
-    filterMode: 2
-    aniso: 16
+    filterMode: -1
+    aniso: 1
     mipBias: -1
     wrapMode: 1
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
@@ -52,46 +52,36 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: PR.png
+    - name: bg001.png
       rect:
         serializedVersion: 2
         x: 4
-        y: 869
-        width: 224
-        height: 151
+        y: 908
+        width: 640
+        height: 1136
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 83, y: 75.5}
-        - {x: 81, y: 72.5}
-        - {x: -89, y: 72.5}
-        - {x: -94, y: 67.5}
-        - {x: -98, y: 15.5}
-        - {x: -112, y: 5.5}
-        - {x: -112, y: -70.5}
-        - {x: -105, y: -75.5}
-        - {x: 110, y: -75.5}
-        - {x: 112, y: -73.5}
-        - {x: 112, y: 70.5}
-        - {x: 110, y: 75.5}
-    - name: PR2.png
+      - - {x: -320, y: 568}
+        - {x: -320, y: -568}
+        - {x: 320, y: -568}
+        - {x: 320, y: 568}
+    - name: bg002.png
       rect:
         serializedVersion: 2
-        x: 232
-        y: 882
-        width: 133
-        height: 138
+        x: 648
+        y: 908
+        width: 640
+        height: 1136
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -60.5, y: 69}
-        - {x: -66.5, y: 63}
-        - {x: -66.5, y: -60}
-        - {x: -62.5, y: -69}
-        - {x: 66.5, y: -69}
-        - {x: 66.5, y: 69}
+      - - {x: -320, y: 568}
+        - {x: -320, y: -568}
+        - {x: 320, y: -568}
+        - {x: 320, y: 568}
     outline: []
   spritePackingTag: 
   userData: 
