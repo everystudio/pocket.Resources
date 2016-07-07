@@ -58,7 +58,7 @@ MonoBehaviour:
   pivot: 1
   maxPerLine: 2
   cellWidth: 300
-  cellHeight: 350
+  cellHeight: 280
   animateSmoothly: 0
   hideInactive: 0
   keepWithinPanel: 0
@@ -98,6 +98,10 @@ Prefab:
     - target: {fileID: 0}
       propertyPath: m_Enabled
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: cellHeight
+      value: 280
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
