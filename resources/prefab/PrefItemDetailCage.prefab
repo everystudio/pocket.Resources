@@ -225,7 +225,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 121260}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 69, y: 144, z: 0}
+  m_LocalPosition: {x: -62, y: 105, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 458240}
@@ -318,7 +318,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 145234}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -265, y: -342, z: 0}
+  m_LocalPosition: {x: -265, y: -220, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 409702}
@@ -342,7 +342,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 188266}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 265, y: -342, z: 0}
+  m_LocalPosition: {x: 265, y: -220, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 409702}
@@ -752,6 +752,7 @@ MonoBehaviour:
   m_eStepPre: 0
   m_sprite: {fileID: 0}
   m_sprite2D: {fileID: 0}
+  m_spriteImage: {fileID: 0}
   m_strSpriteName: 
 --- !u!114 &11439794
 MonoBehaviour:
@@ -924,6 +925,7 @@ MonoBehaviour:
   m_eStepPre: 0
   m_sprite: {fileID: 0}
   m_sprite2D: {fileID: 0}
+  m_spriteImage: {fileID: 0}
   m_strSpriteName: 
 --- !u!114 &11453910
 MonoBehaviour:
@@ -1000,6 +1002,7 @@ MonoBehaviour:
   m_eStepPre: 0
   m_sprite: {fileID: 0}
   m_sprite2D: {fileID: 0}
+  m_spriteImage: {fileID: 0}
   m_strSpriteName: 
 --- !u!114 &11457902
 MonoBehaviour:
