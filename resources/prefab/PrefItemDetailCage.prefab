@@ -369,7 +369,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 100, y: 100, z: 0}
+  m_Size: {x: 80, y: 100, z: 0}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!65 &6584114
 BoxCollider:
@@ -381,7 +381,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 100, y: 100, z: 0}
+  m_Size: {x: 86, y: 100, z: 0}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &11407752
 MonoBehaviour:
@@ -569,7 +569,7 @@ MonoBehaviour:
   rightType: 1
   bottomType: 1
   topType: 1
-  mSprite: {fileID: 21300000, guid: d1e69c5544bb1b847bd8929c1ff9258f, type: 3}
+  mSprite: {fileID: 21300004, guid: 911697bd0d748df4ab7ca0f2d030bf9f, type: 3}
   mMat: {fileID: 0}
   mShader: {fileID: 4800000, guid: e75727d9555d9d14ca51d91908c681bc, type: 3}
   mBorder: {x: 0, y: 0, z: 0, w: 0}
@@ -670,7 +670,7 @@ MonoBehaviour:
   rightType: 1
   bottomType: 1
   topType: 1
-  mSprite: {fileID: 21300000, guid: 58aa6e88a1d933341835f5d085483903, type: 3}
+  mSprite: {fileID: 21300006, guid: 911697bd0d748df4ab7ca0f2d030bf9f, type: 3}
   mMat: {fileID: 0}
   mShader: {fileID: 4800000, guid: e75727d9555d9d14ca51d91908c681bc, type: 3}
   mBorder: {x: 0, y: 0, z: 0, w: 0}
@@ -753,6 +753,7 @@ MonoBehaviour:
   m_sprite: {fileID: 0}
   m_sprite2D: {fileID: 0}
   m_spriteImage: {fileID: 0}
+  m_sprRenderer: {fileID: 0}
   m_strSpriteName: 
 --- !u!114 &11439794
 MonoBehaviour:
@@ -905,6 +906,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6bd161639bec4b77b23c230ae3ca388, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ClickButtonEvent:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
   m_intIndex: 0
   m_bButtonClicked: 0
 --- !u!114 &11447404
@@ -926,6 +932,7 @@ MonoBehaviour:
   m_sprite: {fileID: 0}
   m_sprite2D: {fileID: 0}
   m_spriteImage: {fileID: 0}
+  m_sprRenderer: {fileID: 0}
   m_strSpriteName: 
 --- !u!114 &11453910
 MonoBehaviour:
@@ -1003,6 +1010,7 @@ MonoBehaviour:
   m_sprite: {fileID: 0}
   m_sprite2D: {fileID: 0}
   m_spriteImage: {fileID: 0}
+  m_sprRenderer: {fileID: 0}
   m_strSpriteName: 
 --- !u!114 &11457902
 MonoBehaviour:
@@ -1081,6 +1089,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6bd161639bec4b77b23c230ae3ca388, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ClickButtonEvent:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
   m_intIndex: 0
   m_bButtonClicked: 0
 --- !u!114 &11479950
@@ -1113,13 +1126,13 @@ MonoBehaviour:
   updateAnchors: 1
   mColor: {r: 1, g: 1, b: 1, a: 1}
   mPivot: 4
-  mWidth: 100
+  mWidth: 80
   mHeight: 100
   mDepth: 0
   autoResizeBoxCollider: 1
   hideIfOffScreen: 0
   keepAspectRatio: 0
-  aspectRatio: 1
+  aspectRatio: 0.8
   mType: 0
   mFillDirection: 4
   mFillAmount: 1
@@ -1133,7 +1146,7 @@ MonoBehaviour:
   rightType: 1
   bottomType: 1
   topType: 1
-  mSprite: {fileID: 21300000, guid: 949f10131a4957d44a16fcfb09104e5d, type: 3}
+  mSprite: {fileID: 21300042, guid: 911697bd0d748df4ab7ca0f2d030bf9f, type: 3}
   mMat: {fileID: 0}
   mShader: {fileID: 4800000, guid: e75727d9555d9d14ca51d91908c681bc, type: 3}
   mBorder: {x: 0, y: 0, z: 0, w: 0}
@@ -1170,13 +1183,13 @@ MonoBehaviour:
   updateAnchors: 1
   mColor: {r: 1, g: 1, b: 1, a: 1}
   mPivot: 4
-  mWidth: 100
+  mWidth: 86
   mHeight: 100
   mDepth: 2
   autoResizeBoxCollider: 1
   hideIfOffScreen: 0
   keepAspectRatio: 0
-  aspectRatio: 1
+  aspectRatio: 0.86
   mType: 0
   mFillDirection: 4
   mFillAmount: 1
@@ -1190,7 +1203,7 @@ MonoBehaviour:
   rightType: 1
   bottomType: 1
   topType: 1
-  mSprite: {fileID: 21300000, guid: dbdcce3445c34db428402cb0683677c5, type: 3}
+  mSprite: {fileID: 21300016, guid: 911697bd0d748df4ab7ca0f2d030bf9f, type: 3}
   mMat: {fileID: 0}
   mShader: {fileID: 4800000, guid: e75727d9555d9d14ca51d91908c681bc, type: 3}
   mBorder: {x: 0, y: 0, z: 0, w: 0}
