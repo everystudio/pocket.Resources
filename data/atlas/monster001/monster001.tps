@@ -86,9 +86,9 @@
         <key>maxTextureSize</key>
         <QSize>
             <key>width</key>
-            <int>4096</int>
+            <int>2048</int>
             <key>height</key>
-            <int>4096</int>
+            <int>2048</int>
         </QSize>
         <key>fixedTextureSize</key>
         <QSize>
@@ -207,10 +207,12 @@
             <key type="filename">parts/chara04_eat2.png</key>
             <key type="filename">parts/chara04_move1.png</key>
             <key type="filename">parts/chara04_move2.png</key>
+            <key type="filename">parts/chara04_scare.png</key>
             <key type="filename">parts/chara05_eat1.png</key>
             <key type="filename">parts/chara05_eat2.png</key>
             <key type="filename">parts/chara05_move1.png</key>
             <key type="filename">parts/chara05_move2.png</key>
+            <key type="filename">parts/chara05_scare.png</key>
             <key type="filename">parts/chara06_eat1.png</key>
             <key type="filename">parts/chara06_eat2.png</key>
             <key type="filename">parts/chara06_move1.png</key>
@@ -220,6 +222,7 @@
             <key type="filename">parts/chara07_eat2.png</key>
             <key type="filename">parts/chara07_move1.png</key>
             <key type="filename">parts/chara07_move2.png</key>
+            <key type="filename">parts/chara07_scare.png</key>
             <key type="filename">parts/chara08_eat1.png</key>
             <key type="filename">parts/chara08_eat2.png</key>
             <key type="filename">parts/chara08_move1.png</key>
@@ -233,14 +236,17 @@
             <key type="filename">parts/chara10_eat2.png</key>
             <key type="filename">parts/chara10_move1.png</key>
             <key type="filename">parts/chara10_move2.png</key>
+            <key type="filename">parts/chara10_scare.png</key>
             <key type="filename">parts/chara11_eat1.png</key>
             <key type="filename">parts/chara11_eat2.png</key>
             <key type="filename">parts/chara11_move1.png</key>
             <key type="filename">parts/chara11_move2.png</key>
+            <key type="filename">parts/chara11_scare.png</key>
             <key type="filename">parts/chara12_eat1.png</key>
             <key type="filename">parts/chara12_eat2.png</key>
             <key type="filename">parts/chara12_move1.png</key>
             <key type="filename">parts/chara12_move2.png</key>
+            <key type="filename">parts/chara12_scare.png</key>
             <key type="filename">parts/chara13_eat1.png</key>
             <key type="filename">parts/chara13_eat2.png</key>
             <key type="filename">parts/chara13_move1.png</key>
@@ -250,6 +256,7 @@
             <key type="filename">parts/chara14_eat2.png</key>
             <key type="filename">parts/chara14_move1.png</key>
             <key type="filename">parts/chara14_move2.png</key>
+            <key type="filename">parts/chara14_scare.png</key>
             <key type="filename">parts/chara15_eat1.png</key>
             <key type="filename">parts/chara15_eat2.png</key>
             <key type="filename">parts/chara15_move1.png</key>
@@ -258,26 +265,32 @@
             <key type="filename">parts/chara16_eat2.png</key>
             <key type="filename">parts/chara16_move1.png</key>
             <key type="filename">parts/chara16_move2.png</key>
+            <key type="filename">parts/chara16_scare.png</key>
             <key type="filename">parts/chara17_eat1.png</key>
             <key type="filename">parts/chara17_eat2.png</key>
             <key type="filename">parts/chara17_move1.png</key>
             <key type="filename">parts/chara17_move2.png</key>
+            <key type="filename">parts/chara17_scare.png</key>
             <key type="filename">parts/chara18_eat1.png</key>
             <key type="filename">parts/chara18_eat2.png</key>
             <key type="filename">parts/chara18_move1.png</key>
             <key type="filename">parts/chara18_move2.png</key>
+            <key type="filename">parts/chara18_scare.png</key>
             <key type="filename">parts/chara19_eat1.png</key>
             <key type="filename">parts/chara19_eat2.png</key>
             <key type="filename">parts/chara19_move1.png</key>
             <key type="filename">parts/chara19_move2.png</key>
+            <key type="filename">parts/chara19_scare.png</key>
             <key type="filename">parts/chara20_eat1.png</key>
             <key type="filename">parts/chara20_eat2.png</key>
             <key type="filename">parts/chara20_move1.png</key>
             <key type="filename">parts/chara20_move2.png</key>
+            <key type="filename">parts/chara20_scare.png</key>
             <key type="filename">parts/chara21_eat1.png</key>
             <key type="filename">parts/chara21_eat2.png</key>
             <key type="filename">parts/chara21_move1.png</key>
             <key type="filename">parts/chara21_move2.png</key>
+            <key type="filename">parts/chara21_scare.png</key>
             <key type="filename">parts/chara22_eat1.png</key>
             <key type="filename">parts/chara22_eat2.png</key>
             <key type="filename">parts/chara22_move1.png</key>
@@ -292,10 +305,12 @@
             <key type="filename">parts/chara24_eat2.png</key>
             <key type="filename">parts/chara24_move1.png</key>
             <key type="filename">parts/chara24_move2.png</key>
+            <key type="filename">parts/chara24_scare.png</key>
             <key type="filename">parts/chara25_eat1.png</key>
             <key type="filename">parts/chara25_eat2.png</key>
             <key type="filename">parts/chara25_move1.png</key>
             <key type="filename">parts/chara25_move2.png</key>
+            <key type="filename">parts/chara25_scare.png</key>
             <key type="filename">parts/chara26_eat1.png</key>
             <key type="filename">parts/chara26_eat2.png</key>
             <key type="filename">parts/chara26_move1.png</key>
@@ -305,6 +320,7 @@
             <key type="filename">parts/chara27_eat2.png</key>
             <key type="filename">parts/chara27_move1.png</key>
             <key type="filename">parts/chara27_move2.png</key>
+            <key type="filename">parts/chara27_scare.png</key>
             <key type="filename">parts/chara28_eat1.png</key>
             <key type="filename">parts/chara28_eat2.png</key>
             <key type="filename">parts/chara28_move1.png</key>
@@ -318,18 +334,22 @@
             <key type="filename">parts/chara30_eat2.png</key>
             <key type="filename">parts/chara30_move1.png</key>
             <key type="filename">parts/chara30_move2.png</key>
+            <key type="filename">parts/chara30_scare.png</key>
             <key type="filename">parts/chara31_eat1.png</key>
             <key type="filename">parts/chara31_eat2.png</key>
             <key type="filename">parts/chara31_move1.png</key>
             <key type="filename">parts/chara31_move2.png</key>
+            <key type="filename">parts/chara31_scare.png</key>
             <key type="filename">parts/chara32_eat1.png</key>
             <key type="filename">parts/chara32_eat2.png</key>
             <key type="filename">parts/chara32_move1.png</key>
             <key type="filename">parts/chara32_move2.png</key>
+            <key type="filename">parts/chara32_scare.png</key>
             <key type="filename">parts/chara33_eat1.png</key>
             <key type="filename">parts/chara33_eat2.png</key>
             <key type="filename">parts/chara33_move1.png</key>
             <key type="filename">parts/chara33_move2.png</key>
+            <key type="filename">parts/chara33_scare.png</key>
             <key type="filename">parts/chara34_eat1.png</key>
             <key type="filename">parts/chara34_eat2.png</key>
             <key type="filename">parts/chara34_move1.png</key>
@@ -342,10 +362,12 @@
             <key type="filename">parts/chara36_eat2.png</key>
             <key type="filename">parts/chara36_move1.png</key>
             <key type="filename">parts/chara36_move2.png</key>
+            <key type="filename">parts/chara36_scare.png</key>
             <key type="filename">parts/chara37_eat1.png</key>
             <key type="filename">parts/chara37_eat2.png</key>
             <key type="filename">parts/chara37_move1.png</key>
             <key type="filename">parts/chara37_move2.png</key>
+            <key type="filename">parts/chara37_scare.png</key>
             <key type="filename">parts/chara38_eat1.png</key>
             <key type="filename">parts/chara38_eat2.png</key>
             <key type="filename">parts/chara38_move1.png</key>
@@ -354,10 +376,12 @@
             <key type="filename">parts/chara39_eat2.png</key>
             <key type="filename">parts/chara39_move1.png</key>
             <key type="filename">parts/chara39_move2.png</key>
+            <key type="filename">parts/chara39_scare.png</key>
             <key type="filename">parts/chara40_eat1.png</key>
             <key type="filename">parts/chara40_eat2.png</key>
             <key type="filename">parts/chara40_move1.png</key>
             <key type="filename">parts/chara40_move2.png</key>
+            <key type="filename">parts/chara40_scare.png</key>
             <key type="filename">parts/chara41_eat1.png</key>
             <key type="filename">parts/chara41_eat2.png</key>
             <key type="filename">parts/chara41_move1.png</key>
@@ -378,6 +402,7 @@
             <key type="filename">parts/chara45_eat2.png</key>
             <key type="filename">parts/chara45_move1.png</key>
             <key type="filename">parts/chara45_move2.png</key>
+            <key type="filename">parts/chara45_scare.png</key>
             <key type="filename">parts/chara46_eat1.png</key>
             <key type="filename">parts/chara46_eat2.png</key>
             <key type="filename">parts/chara46_move1.png</key>
@@ -390,6 +415,7 @@
             <key type="filename">parts/chara48_eat2.png</key>
             <key type="filename">parts/chara48_move1.png</key>
             <key type="filename">parts/chara48_move2.png</key>
+            <key type="filename">parts/chara48_scare.png</key>
             <key type="filename">parts/chara49_eat1.png</key>
             <key type="filename">parts/chara49_eat2.png</key>
             <key type="filename">parts/chara49_move1.png</key>
@@ -410,10 +436,12 @@
             <key type="filename">parts/chara53_eat2.png</key>
             <key type="filename">parts/chara53_move1.png</key>
             <key type="filename">parts/chara53_move2.png</key>
+            <key type="filename">parts/chara53_scare.png</key>
             <key type="filename">parts/chara54_eat1.png</key>
             <key type="filename">parts/chara54_eat2.png</key>
             <key type="filename">parts/chara54_move1.png</key>
             <key type="filename">parts/chara54_move2.png</key>
+            <key type="filename">parts/chara54_scare.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>

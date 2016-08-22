@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 911697bd0d748df4ab7ca0f2d030bf9f
-timeCreated: 1470838676
+timeCreated: 1471850878
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -243,11 +243,14 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: bar_userex.png
+    - serializedVersion: 2
+      name: bar_userex.png
       rect:
         serializedVersion: 2
         x: 1133
@@ -258,7 +261,9 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: bar_userexframe.png
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bar_userexframe.png
       rect:
         serializedVersion: 2
         x: 1133
@@ -269,7 +274,9 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: bord_cost.png
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bord_cost.png
       rect:
         serializedVersion: 2
         x: 1788
@@ -279,16 +286,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 49.5, y: 48.5}
-        - {x: 22.5, y: 72.5}
-        - {x: -120.5, y: 72.5}
-        - {x: -120.5, y: -65.5}
-        - {x: -108.5, y: -72.5}
-        - {x: 120.5, y: -72.5}
-        - {x: 120.5, y: 27.5}
-        - {x: 111.5, y: 38.5}
-    - name: bord_sell.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bord_sell.png
       rect:
         serializedVersion: 2
         x: 1688
@@ -298,20 +299,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -119, y: 44.5}
-        - {x: -119, y: 13.5}
-        - {x: -113, y: 10.5}
-        - {x: -96, y: 10.5}
-        - {x: -96, y: 8.5}
-        - {x: -100, y: 10.5}
-        - {x: -105, y: 10.5}
-        - {x: -111, y: 7.5}
-        - {x: -119, y: -9.5}
-        - {x: -119, y: -44.5}
-        - {x: 119, y: -44.5}
-        - {x: 119, y: 44.5}
-    - name: bord_sell2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bord_sell2.png
       rect:
         serializedVersion: 2
         x: 1688
@@ -321,39 +312,23 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -120, y: 46.5}
-        - {x: -120, y: 18.5}
-        - {x: -113, y: 11.5}
-        - {x: -102, y: 11.5}
-        - {x: -98, y: 12.5}
-        - {x: -97, y: 9.5}
-        - {x: -100, y: 11.5}
-        - {x: -107, y: 11.5}
-        - {x: -113, y: 7.5}
-        - {x: -120, y: -15.5}
-        - {x: -120, y: -39.5}
-        - {x: -112, y: -46.5}
-        - {x: 116, y: -46.5}
-        - {x: 120, y: -40.5}
-        - {x: 120, y: 13.5}
-        - {x: 106, y: 46.5}
-    - name: bt_center.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bt_center.png
       rect:
         serializedVersion: 2
         x: 1918
-        y: 573
-        width: 125
-        height: 72
+        y: 587
+        width: 107
+        height: 58
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -62.5, y: 36}
-        - {x: -62.5, y: -36}
-        - {x: 62.5, y: -36}
-        - {x: 62.5, y: 36}
-    - name: btn_back_highlighted.png
+      border: {x: 15, y: 0, z: 0, w: 15}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_back_highlighted.png
       rect:
         serializedVersion: 2
         x: 941
@@ -363,13 +338,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -74.5, y: 35}
-        - {x: -74.5, y: -32}
-        - {x: -72.5, y: -35}
-        - {x: 74.5, y: -35}
-        - {x: 74.5, y: 35}
-    - name: btn_check.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_check.png
       rect:
         serializedVersion: 2
         x: 629
@@ -379,14 +351,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -40, y: 20}
-        - {x: -40, y: -18}
-        - {x: -39, y: -20}
-        - {x: 38, y: -20}
-        - {x: 40, y: -19}
-        - {x: 40, y: 20}
-    - name: btn_clean.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_clean.png
       rect:
         serializedVersion: 2
         x: 451
@@ -396,25 +364,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 32, y: -27}
-        - {x: 29, y: -25}
-        - {x: 24, y: -25}
-        - {x: 31, y: -25}
-        - {x: 35, y: -26}
-        - {x: 43, y: -24}
-        - {x: 43, y: 44}
-        - {x: 38, y: 50}
-        - {x: -24, y: 50}
-        - {x: -43, y: 38}
-        - {x: -43, y: 3}
-        - {x: -31, y: -13}
-        - {x: -28, y: -48}
-        - {x: -26, y: -50}
-        - {x: 30, y: -50}
-        - {x: 36, y: -44}
-        - {x: 37, y: -36}
-    - name: btn_footer_book.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_footer_book.png
       rect:
         serializedVersion: 2
         x: 629
@@ -424,17 +377,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -3, y: 50}
-        - {x: -18, y: 50}
-        - {x: -43, y: 30}
-        - {x: -43, y: 9}
-        - {x: -18, y: -50}
-        - {x: 30, y: -50}
-        - {x: 28, y: -29}
-        - {x: 43, y: -12}
-        - {x: 43, y: 9}
-    - name: btn_footer_close.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_footer_close.png
       rect:
         serializedVersion: 2
         x: 4
@@ -444,12 +390,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -568, y: 25}
-        - {x: -568, y: -25}
-        - {x: 568, y: -25}
-        - {x: 568, y: 25}
-    - name: btn_footer_item.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_footer_item.png
       rect:
         serializedVersion: 2
         x: 1918
@@ -459,20 +403,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 40, y: 49.5}
-        - {x: 0, y: 49.5}
-        - {x: -32, y: 39.5}
-        - {x: -44, y: 27.5}
-        - {x: -44, y: -19.5}
-        - {x: -38, y: -46.5}
-        - {x: -37, y: -49.5}
-        - {x: 44, y: -49.5}
-        - {x: 44, y: -33.5}
-        - {x: 43, y: -24.5}
-        - {x: 44, y: -12.5}
-        - {x: 44, y: 42.5}
-    - name: btn_footer_work.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_footer_work.png
       rect:
         serializedVersion: 2
         x: 1918
@@ -482,13 +416,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -30.5, y: 49.5}
-        - {x: -43.5, y: 43.5}
-        - {x: -43.5, y: -49.5}
-        - {x: 43.5, y: -49.5}
-        - {x: 43.5, y: 49.5}
-    - name: btn_footer_yameru.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_footer_yameru.png
       rect:
         serializedVersion: 2
         x: 4
@@ -498,12 +429,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -568, y: 25}
-        - {x: -568, y: -25}
-        - {x: 568, y: -25}
-        - {x: 568, y: 25}
-    - name: btn_gamestart.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_gamestart.png
       rect:
         serializedVersion: 2
         x: 1133
@@ -513,19 +442,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 196, y: 36}
-        - {x: 181, y: 40}
-        - {x: -187, y: 40}
-        - {x: -209, y: 27}
-        - {x: -210, y: 21}
-        - {x: -210, y: -20}
-        - {x: -195, y: -40}
-        - {x: 192, y: -40}
-        - {x: 196, y: -39}
-        - {x: 210, y: -23}
-        - {x: 210, y: 18}
-    - name: btn_gobackoffice.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_gobackoffice.png
       rect:
         serializedVersion: 2
         x: 1557
@@ -535,14 +455,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -70, y: 30}
-        - {x: -70, y: -26}
-        - {x: -67, y: -30}
-        - {x: 68, y: -30}
-        - {x: 70, y: -29}
-        - {x: 70, y: 30}
-    - name: btn_infopopup_meal.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_infopopup_meal.png
       rect:
         serializedVersion: 2
         x: 956
@@ -552,14 +468,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -82, y: 22.5}
-        - {x: -83, y: 21.5}
-        - {x: -83, y: -22.5}
-        - {x: 83, y: -22.5}
-        - {x: 83, y: 21.5}
-        - {x: 79, y: 22.5}
-    - name: btn_katazuke.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_katazuke.png
       rect:
         serializedVersion: 2
         x: 1557
@@ -569,12 +481,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -65, y: 17.5}
-        - {x: -65, y: -17.5}
-        - {x: 65, y: -17.5}
-        - {x: 65, y: 17.5}
-    - name: btn_kusuri.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_kusuri.png
       rect:
         serializedVersion: 2
         x: 867
@@ -584,15 +494,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -101, y: 30}
-        - {x: -107, y: 25}
-        - {x: -107, y: -30}
-        - {x: 97, y: -30}
-        - {x: 107, y: -25}
-        - {x: 107, y: 24}
-        - {x: 98, y: 30}
-    - name: btn_main_getmoney.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_main_getmoney.png
       rect:
         serializedVersion: 2
         x: 1133
@@ -602,16 +507,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -121, y: 23}
-        - {x: -130, y: 14}
-        - {x: -130, y: -15}
-        - {x: -123, y: -23}
-        - {x: 124, y: -23}
-        - {x: 130, y: -16}
-        - {x: 130, y: 17}
-        - {x: 120, y: 23}
-    - name: btn_max.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_max.png
       rect:
         serializedVersion: 2
         x: 1781
@@ -622,7 +521,9 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: btn_meal.png
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_meal.png
       rect:
         serializedVersion: 2
         x: 719
@@ -632,16 +533,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 33, y: 50}
-        - {x: -40, y: 50}
-        - {x: -40, y: -20}
-        - {x: -34, y: -50}
-        - {x: 33, y: -50}
-        - {x: 35, y: -49}
-        - {x: 40, y: -23}
-        - {x: 40, y: 30}
-    - name: btn_next_highlighted.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_next_highlighted.png
       rect:
         serializedVersion: 2
         x: 775
@@ -651,13 +546,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -74.5, y: 35}
-        - {x: -74.5, y: -32}
-        - {x: -72.5, y: -35}
-        - {x: 74.5, y: -35}
-        - {x: 74.5, y: 35}
-    - name: btn_no.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_no.png
       rect:
         serializedVersion: 2
         x: 917
@@ -667,16 +559,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -98, y: 42}
-        - {x: -102, y: 36}
-        - {x: -102, y: -38}
-        - {x: -96, y: -42}
-        - {x: 98, y: -42}
-        - {x: 102, y: -36}
-        - {x: 102, y: 38}
-        - {x: 96, y: 42}
-    - name: btn_powerup.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_powerup.png
       rect:
         serializedVersion: 2
         x: 1133
@@ -686,19 +572,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 196, y: 36}
-        - {x: 181, y: 40}
-        - {x: -187, y: 40}
-        - {x: -209, y: 27}
-        - {x: -210, y: 21}
-        - {x: -210, y: -20}
-        - {x: -195, y: -40}
-        - {x: 192, y: -40}
-        - {x: 196, y: -39}
-        - {x: 210, y: -23}
-        - {x: 210, y: 18}
-    - name: btn_testread.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_testread.png
       rect:
         serializedVersion: 2
         x: 956
@@ -709,7 +586,9 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: btn_testsave.png
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_testsave.png
       rect:
         serializedVersion: 2
         x: 775
@@ -720,7 +599,9 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: btn_yes.png
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_yes.png
       rect:
         serializedVersion: 2
         x: 917
@@ -730,16 +611,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -98, y: 42}
-        - {x: -102, y: 36}
-        - {x: -102, y: -38}
-        - {x: -96, y: -42}
-        - {x: 98, y: -42}
-        - {x: 102, y: -36}
-        - {x: 102, y: 38}
-        - {x: 96, y: 42}
-    - name: coin.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: coin.png
       rect:
         serializedVersion: 2
         x: 2010
@@ -750,7 +625,9 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: coin1000.png
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: coin1000.png
       rect:
         serializedVersion: 2
         x: 1557
@@ -760,41 +637,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -47.5, y: -26}
-        - {x: -55.5, y: -30}
-        - {x: -55.5, y: -71}
-        - {x: -46.5, y: -75}
-        - {x: 17.5, y: -75}
-        - {x: 56.5, y: -66}
-        - {x: 56.5, y: -26}
-      - - {x: -44.5, y: 59}
-        - {x: -64.5, y: 47}
-        - {x: -64.5, y: -22}
-        - {x: -63.5, y: -26}
-        - {x: 41.5, y: -26}
-        - {x: 54.5, y: -20}
-        - {x: 54.5, y: 52}
-        - {x: 20.5, y: 59}
-      - - {x: 49.5, y: 47}
-        - {x: 43.5, y: 44}
-        - {x: 43.5, y: 31}
-        - {x: 47.5, y: 25}
-        - {x: 60.5, y: 25}
-        - {x: 64.5, y: 27}
-        - {x: 64.5, y: 42}
-        - {x: 61.5, y: 47}
-      - - {x: 26.5, y: 75}
-        - {x: 14.5, y: 62}
-        - {x: 13.5, y: 60}
-        - {x: 13.5, y: 54}
-        - {x: 27.5, y: 41}
-        - {x: 29.5, y: 40}
-        - {x: 36.5, y: 40}
-        - {x: 49.5, y: 49}
-        - {x: 49.5, y: 66}
-        - {x: 41.5, y: 75}
-    - name: coin5500.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: coin5500.png
       rect:
         serializedVersion: 2
         x: 1555
@@ -804,47 +650,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 25.5, y: -26.5}
-        - {x: -17.5, y: -28.5}
-        - {x: -19.5, y: -34.5}
-        - {x: -27.5, y: -30.5}
-        - {x: -47.5, y: -26.5}
-        - {x: -54.5, y: -26.5}
-        - {x: -57.5, y: -34.5}
-        - {x: -57.5, y: -69.5}
-        - {x: -54.5, y: -74.5}
-        - {x: 54.5, y: -74.5}
-        - {x: 56.5, y: -63.5}
-        - {x: 56.5, y: -29.5}
-        - {x: 48.5, y: -26.5}
-      - - {x: -44.5, y: 58.5}
-        - {x: -64.5, y: 46.5}
-        - {x: -64.5, y: -22.5}
-        - {x: -63.5, y: -26.5}
-        - {x: 41.5, y: -26.5}
-        - {x: 54.5, y: -20.5}
-        - {x: 54.5, y: 51.5}
-        - {x: 20.5, y: 58.5}
-      - - {x: 49.5, y: 46.5}
-        - {x: 43.5, y: 43.5}
-        - {x: 43.5, y: 30.5}
-        - {x: 47.5, y: 24.5}
-        - {x: 60.5, y: 24.5}
-        - {x: 64.5, y: 26.5}
-        - {x: 64.5, y: 41.5}
-        - {x: 61.5, y: 46.5}
-      - - {x: 26.5, y: 74.5}
-        - {x: 14.5, y: 61.5}
-        - {x: 13.5, y: 59.5}
-        - {x: 13.5, y: 53.5}
-        - {x: 27.5, y: 40.5}
-        - {x: 29.5, y: 39.5}
-        - {x: 36.5, y: 39.5}
-        - {x: 49.5, y: 48.5}
-        - {x: 49.5, y: 65.5}
-        - {x: 41.5, y: 74.5}
-    - name: coin125000.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: coin125000.png
       rect:
         serializedVersion: 2
         x: 166
@@ -854,64 +663,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 59.5, y: -34.5}
-        - {x: 58.5, y: -35.5}
-        - {x: 56.5, y: -35.5}
-        - {x: 51.5, y: -40.5}
-        - {x: 54.5, y: -36.5}
-        - {x: 61.5, y: -33.5}
-        - {x: 70.5, y: -26.5}
-        - {x: 77.5, y: -12.5}
-        - {x: 77.5, y: 30.5}
-        - {x: 54.5, y: 69.5}
-        - {x: 43.5, y: 74.5}
-        - {x: -12.5, y: 74.5}
-        - {x: -77.5, y: 46.5}
-        - {x: -77.5, y: -23.5}
-        - {x: -73.5, y: -32.5}
-        - {x: -51.5, y: -26.5}
-        - {x: -58.5, y: -43.5}
-        - {x: -58.5, y: -52.5}
-        - {x: -54.5, y: -57.5}
-        - {x: -58.5, y: -55.5}
-        - {x: -58.5, y: -41.5}
-        - {x: -61.5, y: -38.5}
-        - {x: -70.5, y: -34.5}
-        - {x: -77.5, y: -41.5}
-        - {x: -77.5, y: -78.5}
-        - {x: -71.5, y: -79.5}
-        - {x: 50.5, y: -79.5}
-        - {x: 77.5, y: -71.5}
-        - {x: 77.5, y: -40.5}
-        - {x: 66.5, y: -32.5}
-      - - {x: -77.5, y: 45.5}
-        - {x: -70.5, y: 36.5}
-        - {x: -60.5, y: 36.5}
-        - {x: -52.5, y: 44.5}
-        - {x: -52.5, y: 53.5}
-        - {x: -59.5, y: 62.5}
-        - {x: -67.5, y: 62.5}
-        - {x: -77.5, y: 55.5}
-      - - {x: -44.5, y: 79.5}
-        - {x: -54.5, y: 79.5}
-        - {x: -61.5, y: 70.5}
-        - {x: -61.5, y: 61.5}
-        - {x: -52.5, y: 53.5}
-        - {x: -43.5, y: 53.5}
-        - {x: -33.5, y: 65.5}
-        - {x: -33.5, y: 69.5}
-        - {x: -34.5, y: 70.5}
-      - - {x: 52.5, y: 77.5}
-        - {x: 48.5, y: 67.5}
-        - {x: 48.5, y: 59.5}
-        - {x: 57.5, y: 54.5}
-        - {x: 60.5, y: 54.5}
-        - {x: 70.5, y: 62.5}
-        - {x: 71.5, y: 63.5}
-        - {x: 71.5, y: 67.5}
-        - {x: 62.5, y: 77.5}
-    - name: coin500000.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: coin500000.png
       rect:
         serializedVersion: 2
         x: 4
@@ -921,51 +676,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 61, y: -34.5}
-        - {x: 60, y: -35.5}
-        - {x: 58, y: -35.5}
-        - {x: 53, y: -40.5}
-        - {x: 56, y: -36.5}
-        - {x: 63, y: -33.5}
-        - {x: 72, y: -26.5}
-        - {x: 79, y: -19.5}
-        - {x: 79, y: 45.5}
-        - {x: 54, y: 74.5}
-        - {x: -50, y: 74.5}
-        - {x: -79, y: 26.5}
-        - {x: -79, y: -79.5}
-        - {x: 75, y: -79.5}
-        - {x: 79, y: -66.5}
-        - {x: 79, y: -38.5}
-        - {x: 68, y: -32.5}
-      - - {x: -77, y: 46.5}
-        - {x: -69, y: 36.5}
-        - {x: -59, y: 36.5}
-        - {x: -51, y: 44.5}
-        - {x: -51, y: 53.5}
-        - {x: -58, y: 62.5}
-        - {x: -66, y: 62.5}
-        - {x: -77, y: 54.5}
-      - - {x: -43, y: 79.5}
-        - {x: -53, y: 79.5}
-        - {x: -60, y: 70.5}
-        - {x: -60, y: 61.5}
-        - {x: -51, y: 53.5}
-        - {x: -42, y: 53.5}
-        - {x: -32, y: 65.5}
-        - {x: -32, y: 69.5}
-        - {x: -33, y: 70.5}
-      - - {x: 62, y: 77.5}
-        - {x: 58, y: 76.5}
-        - {x: 50, y: 68.5}
-        - {x: 50, y: 63.5}
-        - {x: 57, y: 54.5}
-        - {x: 65, y: 54.5}
-        - {x: 73, y: 61.5}
-        - {x: 73, y: 68.5}
-        - {x: 67, y: 77.5}
-    - name: coin550000.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: coin550000.png
       rect:
         serializedVersion: 2
         x: 4
@@ -975,34 +689,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 77.5, y: -61.5}
-        - {x: 77.5, y: 75.5}
-        - {x: -57.5, y: 75.5}
-        - {x: -77.5, y: 31.5}
-        - {x: -77.5, y: 30.5}
-        - {x: -68.5, y: 24.5}
-        - {x: -63.5, y: 22.5}
-        - {x: -57.5, y: 30.5}
-        - {x: -51.5, y: 28.5}
-        - {x: -70.5, y: 18.5}
-        - {x: -77.5, y: 10.5}
-        - {x: -77.5, y: -15.5}
-        - {x: -72.5, y: -22.5}
-        - {x: -56.5, y: -29.5}
-        - {x: -38.5, y: -31.5}
-        - {x: -27.5, y: -31.5}
-        - {x: -38.5, y: -31.5}
-        - {x: -48.5, y: -32.5}
-        - {x: -70.5, y: -34.5}
-        - {x: -77.5, y: -39.5}
-        - {x: -77.5, y: -75.5}
-        - {x: -14.5, y: -75.5}
-        - {x: -0.5, y: -74.5}
-        - {x: 19.5, y: -68.5}
-        - {x: 33.5, y: -75.5}
-        - {x: 48.5, y: -75.5}
-    - name: empower.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: empower.png
       rect:
         serializedVersion: 2
         x: 1133
@@ -1012,36 +702,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -224, y: 24}
-        - {x: -226, y: 18}
-        - {x: -226, y: 7}
-        - {x: -220, y: 1}
-        - {x: -213, y: 1}
-        - {x: -210, y: -3}
-        - {x: -207, y: -4}
-        - {x: -202, y: -4}
-        - {x: -199, y: -2}
-        - {x: -194, y: -1}
-        - {x: -199, y: -3}
-        - {x: -203, y: -5}
-        - {x: -207, y: -4}
-        - {x: -210, y: -4}
-        - {x: -216, y: 1}
-        - {x: -221, y: 1}
-        - {x: -226, y: -3}
-        - {x: -226, y: -19}
-        - {x: -225, y: -24}
-        - {x: 192, y: -24}
-        - {x: 192, y: 24}
-      - - {x: 195, y: 23}
-        - {x: 195, y: -24}
-        - {x: 218, y: -24}
-        - {x: 225, y: -21}
-        - {x: 226, y: -17}
-        - {x: 226, y: 20}
-        - {x: 220, y: 23}
-    - name: empower2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: empower2.png
       rect:
         serializedVersion: 2
         x: 1133
@@ -1051,37 +715,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 51, y: -15}
-        - {x: 59, y: -24}
-        - {x: 205, y: -24}
-        - {x: 214, y: -21}
-        - {x: 214, y: 24}
-        - {x: -233, y: 24}
-        - {x: -248, y: 20}
-        - {x: -248, y: 6}
-        - {x: -244, y: 3}
-        - {x: -241, y: 2}
-        - {x: -231, y: -2}
-        - {x: -224, y: -4}
-        - {x: -231, y: -4}
-        - {x: -238, y: 0}
-        - {x: -244, y: 2}
-        - {x: -248, y: -3}
-        - {x: -248, y: -16}
-        - {x: -238, y: -24}
-        - {x: 47, y: -24}
-        - {x: 51, y: -19}
-        - {x: 51, y: -11}
-      - - {x: 225, y: 23}
-        - {x: 219, y: 19}
-        - {x: 219, y: -11}
-        - {x: 222, y: -23}
-        - {x: 244, y: -23}
-        - {x: 248, y: -10}
-        - {x: 248, y: 20}
-        - {x: 243, y: 23}
-    - name: empower_done.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: empower_done.png
       rect:
         serializedVersion: 2
         x: 1752
@@ -1091,22 +728,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 69.5, y: -26}
-        - {x: 74.5, y: -18}
-        - {x: 87.5, y: -26}
-        - {x: 130.5, y: -26}
-        - {x: 136.5, y: -7}
-        - {x: 136.5, y: 17}
-        - {x: 129.5, y: 26}
-        - {x: -126.5, y: 26}
-        - {x: -136.5, y: 20}
-        - {x: -136.5, y: -26}
-        - {x: 40.5, y: -26}
-        - {x: 50.5, y: -18}
-        - {x: 50.5, y: -21}
-        - {x: 57.5, y: -26}
-    - name: empower_office.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: empower_office.png
       rect:
         serializedVersion: 2
         x: 1133
@@ -1116,37 +741,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 51, y: -15}
-        - {x: 59, y: -24}
-        - {x: 205, y: -24}
-        - {x: 214, y: -21}
-        - {x: 214, y: 24}
-        - {x: -233, y: 24}
-        - {x: -248, y: 20}
-        - {x: -248, y: 6}
-        - {x: -244, y: 3}
-        - {x: -241, y: 2}
-        - {x: -231, y: -2}
-        - {x: -224, y: -4}
-        - {x: -231, y: -4}
-        - {x: -238, y: 0}
-        - {x: -244, y: 2}
-        - {x: -248, y: -3}
-        - {x: -248, y: -16}
-        - {x: -238, y: -24}
-        - {x: 47, y: -24}
-        - {x: 51, y: -19}
-        - {x: 51, y: -11}
-      - - {x: 225, y: 23}
-        - {x: 219, y: 19}
-        - {x: 219, y: -11}
-        - {x: 222, y: -23}
-        - {x: 244, y: -23}
-        - {x: 248, y: -10}
-        - {x: 248, y: 20}
-        - {x: 243, y: 23}
-    - name: food1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: food1.png
       rect:
         serializedVersion: 2
         x: 803
@@ -1156,19 +754,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 28, y: 1}
-        - {x: 24, y: 15}
-        - {x: 21, y: 12}
-        - {x: 12, y: 31}
-        - {x: -24, y: 31}
-        - {x: -30, y: 27}
-        - {x: -30, y: -24}
-        - {x: -11, y: -31}
-        - {x: 14, y: -31}
-        - {x: 30, y: -13}
-        - {x: 30, y: -7}
-    - name: food2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: food2.png
       rect:
         serializedVersion: 2
         x: 422
@@ -1178,16 +767,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -25, y: 26.5}
-        - {x: -29, y: 19.5}
-        - {x: -29, y: -16.5}
-        - {x: -22, y: -26.5}
-        - {x: 19, y: -26.5}
-        - {x: 29, y: -17.5}
-        - {x: 29, y: 19.5}
-        - {x: 8, y: 26.5}
-    - name: food3.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: food3.png
       rect:
         serializedVersion: 2
         x: 484
@@ -1197,16 +780,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -14, y: 26.5}
-        - {x: -29, y: 12.5}
-        - {x: -29, y: -20.5}
-        - {x: -20, y: -26.5}
-        - {x: 16, y: -26.5}
-        - {x: 29, y: -21.5}
-        - {x: 29, y: 15.5}
-        - {x: 10, y: 26.5}
-    - name: food4.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: food4.png
       rect:
         serializedVersion: 2
         x: 837
@@ -1216,18 +793,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 10.5, y: 23.5}
-        - {x: 7.5, y: 24.5}
-        - {x: -19.5, y: 24.5}
-        - {x: -30.5, y: 13.5}
-        - {x: -30.5, y: -18.5}
-        - {x: -24.5, y: -24.5}
-        - {x: 20.5, y: -24.5}
-        - {x: 30.5, y: -13.5}
-        - {x: 30.5, y: 8.5}
-        - {x: 28.5, y: 15.5}
-    - name: food5.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: food5.png
       rect:
         serializedVersion: 2
         x: 775
@@ -1237,16 +806,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -14, y: 23}
-        - {x: -29, y: 17}
-        - {x: -29, y: -13}
-        - {x: -24, y: -23}
-        - {x: 17, y: -23}
-        - {x: 29, y: -13}
-        - {x: 29, y: 12}
-        - {x: 23, y: 23}
-    - name: food6.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: food6.png
       rect:
         serializedVersion: 2
         x: 1054
@@ -1256,19 +819,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -22, y: 24.5}
-        - {x: -27, y: 8.5}
-        - {x: -28, y: 4.5}
-        - {x: -28, y: -11.5}
-        - {x: -27, y: -13.5}
-        - {x: -19, y: -22.5}
-        - {x: -15, y: -24.5}
-        - {x: 25, y: -24.5}
-        - {x: 28, y: -16.5}
-        - {x: 28, y: 13.5}
-        - {x: 25, y: 24.5}
-    - name: food7.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: food7.png
       rect:
         serializedVersion: 2
         x: 1114
@@ -1278,15 +832,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -27, y: 23}
-        - {x: -28, y: 14}
-        - {x: -28, y: -19}
-        - {x: -27, y: -23}
-        - {x: 28, y: -23}
-        - {x: 28, y: 10}
-        - {x: 24, y: 23}
-    - name: food8.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: food8.png
       rect:
         serializedVersion: 2
         x: 362
@@ -1296,15 +845,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8, y: 27}
-        - {x: -28, y: 18}
-        - {x: -28, y: -27}
-        - {x: 19, y: -27}
-        - {x: 28, y: -25}
-        - {x: 28, y: 10}
-        - {x: 23, y: 27}
-    - name: frame_exp.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: frame_exp.png
       rect:
         serializedVersion: 2
         x: 693
@@ -1314,13 +858,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -114, y: 25}
-        - {x: -114, y: -25}
-        - {x: 114, y: -25}
-        - {x: 114, y: 21}
-        - {x: 109, y: 25}
-    - name: frame_gold.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: frame_gold.png
       rect:
         serializedVersion: 2
         x: 783
@@ -1330,13 +871,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -114, y: 25}
-        - {x: -114, y: -25}
-        - {x: 114, y: -25}
-        - {x: 114, y: 21}
-        - {x: 109, y: 25}
-    - name: gate.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gate.png
       rect:
         serializedVersion: 2
         x: 1748
@@ -1346,16 +884,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 89.5}
-        - {x: -148, y: 67.5}
-        - {x: -148, y: -82.5}
-        - {x: -146, y: -89.5}
-        - {x: 137, y: -89.5}
-        - {x: 148, y: -79.5}
-        - {x: 148, y: 70.5}
-        - {x: 88, y: 89.5}
-    - name: haichi_txt.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: haichi_txt.png
       rect:
         serializedVersion: 2
         x: 1133
@@ -1365,14 +897,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 290, y: 4}
-        - {x: 290, y: 23}
-        - {x: 288, y: 25}
-        - {x: -290, y: 25}
-        - {x: -290, y: -25}
-        - {x: 284, y: -25}
-    - name: header_book.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: header_book.png
       rect:
         serializedVersion: 2
         x: 4
@@ -1382,12 +910,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -568, y: 25}
-        - {x: -568, y: -25}
-        - {x: 568, y: -25}
-        - {x: 568, y: 25}
-    - name: header_item.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: header_item.png
       rect:
         serializedVersion: 2
         x: 4
@@ -1397,12 +923,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -568, y: 25}
-        - {x: -568, y: -25}
-        - {x: 568, y: -25}
-        - {x: 568, y: 25}
-    - name: header_shisetsu1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: header_shisetsu1.png
       rect:
         serializedVersion: 2
         x: 4
@@ -1412,12 +936,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -568, y: 25}
-        - {x: -568, y: -25}
-        - {x: 568, y: -25}
-        - {x: 568, y: 25}
-    - name: header_shisetsu2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: header_shisetsu2.png
       rect:
         serializedVersion: 2
         x: 4
@@ -1427,12 +949,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -568, y: 25}
-        - {x: -568, y: -25}
-        - {x: 568, y: -25}
-        - {x: 568, y: 25}
-    - name: header_work.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: header_work.png
       rect:
         serializedVersion: 2
         x: 4
@@ -1442,12 +962,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -568, y: 25}
-        - {x: -568, y: -25}
-        - {x: 568, y: -25}
-        - {x: 568, y: 25}
-    - name: icon_-1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_-1.png
       rect:
         serializedVersion: 2
         x: 1681
@@ -1457,23 +975,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 116.5, y: 49.5}
-        - {x: 74.5, y: 113.5}
-        - {x: 71.5, y: 115.5}
-        - {x: -48.5, y: 115.5}
-        - {x: -108.5, y: 68.5}
-        - {x: -116.5, y: 38.5}
-        - {x: -116.5, y: -18.5}
-        - {x: -106.5, y: -45.5}
-        - {x: -68.5, y: -82.5}
-        - {x: -32.5, y: -95.5}
-        - {x: -4.5, y: -115.5}
-        - {x: 29.5, y: -115.5}
-        - {x: 62.5, y: -103.5}
-        - {x: 96.5, y: -74.5}
-        - {x: 116.5, y: -31.5}
-    - name: icon_1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_1.png
       rect:
         serializedVersion: 2
         x: 1781
@@ -1484,7 +989,9 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: icon_2.png
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_2.png
       rect:
         serializedVersion: 2
         x: 1681
@@ -1494,24 +1001,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 116.5, y: 42.5}
-        - {x: 104.5, y: 77.5}
-        - {x: 46.5, y: 115.5}
-        - {x: -25.5, y: 115.5}
-        - {x: -67.5, y: 104.5}
-        - {x: -105.5, y: 67.5}
-        - {x: -116.5, y: 41.5}
-        - {x: -116.5, y: -17.5}
-        - {x: -110.5, y: -47.5}
-        - {x: -68.5, y: -82.5}
-        - {x: -32.5, y: -95.5}
-        - {x: -4.5, y: -115.5}
-        - {x: 29.5, y: -115.5}
-        - {x: 62.5, y: -103.5}
-        - {x: 97.5, y: -75.5}
-        - {x: 116.5, y: -30.5}
-    - name: icon_3.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_3.png
       rect:
         serializedVersion: 2
         x: 546
@@ -1521,24 +1014,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 116.5, y: 42.5}
-        - {x: 104.5, y: 77.5}
-        - {x: 46.5, y: 115.5}
-        - {x: -25.5, y: 115.5}
-        - {x: -67.5, y: 104.5}
-        - {x: -105.5, y: 67.5}
-        - {x: -116.5, y: 41.5}
-        - {x: -116.5, y: -17.5}
-        - {x: -110.5, y: -47.5}
-        - {x: -68.5, y: -82.5}
-        - {x: -32.5, y: -95.5}
-        - {x: -4.5, y: -115.5}
-        - {x: 29.5, y: -115.5}
-        - {x: 62.5, y: -103.5}
-        - {x: 97.5, y: -75.5}
-        - {x: 116.5, y: -30.5}
-    - name: icon_5.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_5.png
       rect:
         serializedVersion: 2
         x: 1781
@@ -1549,7 +1028,9 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: icon_6.png
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_6.png
       rect:
         serializedVersion: 2
         x: 1125
@@ -1559,24 +1040,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 116.5, y: 42.5}
-        - {x: 104.5, y: 77.5}
-        - {x: 46.5, y: 115.5}
-        - {x: -25.5, y: 115.5}
-        - {x: -67.5, y: 104.5}
-        - {x: -105.5, y: 67.5}
-        - {x: -116.5, y: 41.5}
-        - {x: -116.5, y: -17.5}
-        - {x: -110.5, y: -47.5}
-        - {x: -68.5, y: -82.5}
-        - {x: -32.5, y: -95.5}
-        - {x: -4.5, y: -115.5}
-        - {x: 29.5, y: -115.5}
-        - {x: 62.5, y: -103.5}
-        - {x: 97.5, y: -75.5}
-        - {x: 116.5, y: -30.5}
-    - name: icon_gold.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_gold.png
       rect:
         serializedVersion: 2
         x: 1930
@@ -1586,26 +1053,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 51, y: -19.5}
-        - {x: 51, y: 31.5}
-        - {x: -34, y: 31.5}
-        - {x: -51, y: 18.5}
-        - {x: -51, y: -23.5}
-        - {x: -9, y: -46.5}
-        - {x: 9, y: -46.5}
-        - {x: 11, y: -45.5}
-        - {x: 14, y: -43.5}
-        - {x: 38, y: -32.5}
-      - - {x: 11, y: 29.5}
-        - {x: 21, y: 18.5}
-        - {x: 29, y: 18.5}
-        - {x: 40, y: 27.5}
-        - {x: 40, y: 36.5}
-        - {x: 32, y: 46.5}
-        - {x: 21, y: 46.5}
-        - {x: 11, y: 38.5}
-    - name: icon_lv.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_lv.png
       rect:
         serializedVersion: 2
         x: 1633
@@ -1615,14 +1066,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -33, y: 49.5}
-        - {x: -33, y: -49.5}
-        - {x: 29, y: -49.5}
-        - {x: 33, y: -47.5}
-        - {x: 33, y: 30.5}
-        - {x: 31, y: 49.5}
-    - name: icon_manpuku.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_manpuku.png
       rect:
         serializedVersion: 2
         x: 1997
@@ -1632,14 +1079,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -22.5, y: 22.5}
-        - {x: -22.5, y: 0.5}
-        - {x: -0.5, y: -22.5}
-        - {x: 22.5, y: -22.5}
-        - {x: 22.5, y: -2.5}
-        - {x: 1.5, y: 22.5}
-    - name: icon_manpuku2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_manpuku2.png
       rect:
         serializedVersion: 2
         x: 1997
@@ -1649,14 +1092,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -22.5, y: 22.5}
-        - {x: -22.5, y: 0.5}
-        - {x: -0.5, y: -22.5}
-        - {x: 22.5, y: -22.5}
-        - {x: 22.5, y: -2.5}
-        - {x: 1.5, y: 22.5}
-    - name: icon_manpuku3.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_manpuku3.png
       rect:
         serializedVersion: 2
         x: 1997
@@ -1666,14 +1105,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -22.5, y: 22.5}
-        - {x: -22.5, y: 0.5}
-        - {x: -0.5, y: -22.5}
-        - {x: 22.5, y: -22.5}
-        - {x: 22.5, y: -2.5}
-        - {x: 1.5, y: 22.5}
-    - name: icon_nazo.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_nazo.png
       rect:
         serializedVersion: 2
         x: 1440
@@ -1683,23 +1118,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 55.5, y: 54.5}
-        - {x: 44.5, y: 78.5}
-        - {x: -34.5, y: 78.5}
-        - {x: -55.5, y: 59.5}
-        - {x: -55.5, y: 12.5}
-        - {x: -32.5, y: 3.5}
-        - {x: -22.5, y: 20.5}
-        - {x: -21.5, y: -50.5}
-        - {x: -18.5, y: -69.5}
-        - {x: -12.5, y: -78.5}
-        - {x: 13.5, y: -78.5}
-        - {x: 22.5, y: -75.5}
-        - {x: 22.5, y: -52.5}
-        - {x: 53.5, y: -1.5}
-        - {x: 55.5, y: 4.5}
-    - name: icon_rea.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_rea.png
       rect:
         serializedVersion: 2
         x: 1752
@@ -1710,7 +1132,9 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: icon_tickets.png
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_tickets.png
       rect:
         serializedVersion: 2
         x: 1932
@@ -1720,17 +1144,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 43, y: 33}
-        - {x: -8, y: 33}
-        - {x: -53, y: 9}
-        - {x: -53, y: -28}
-        - {x: -51, y: -33}
-        - {x: 52, y: -33}
-        - {x: 53, y: -31}
-        - {x: 53, y: 12}
-        - {x: 48, y: 29}
-    - name: icon_unchi.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_unchi.png
       rect:
         serializedVersion: 2
         x: 2010
@@ -1740,16 +1157,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 6, y: 23.5}
-        - {x: 1, y: 23.5}
-        - {x: -17, y: 5.5}
-        - {x: -17, y: -17.5}
-        - {x: -16, y: -23.5}
-        - {x: 14, y: -23.5}
-        - {x: 17, y: -16.5}
-        - {x: 17, y: 13.5}
-    - name: illness.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: illness.png
       rect:
         serializedVersion: 2
         x: 1365
@@ -1759,19 +1170,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 47, y: 89}
-        - {x: -45, y: 89}
-        - {x: -88, y: 61}
-        - {x: -90, y: 48}
-        - {x: -90, y: -39}
-        - {x: -57, y: -71}
-        - {x: -4, y: -89}
-        - {x: 39, y: -89}
-        - {x: 75, y: -63}
-        - {x: 90, y: -41}
-        - {x: 90, y: 47}
-    - name: itempage_menu1_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_menu1_off.png
       rect:
         serializedVersion: 2
         x: 1737
@@ -1781,12 +1183,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -151.5, y: 25}
-        - {x: -151.5, y: -25}
-        - {x: 151.5, y: -25}
-        - {x: 151.5, y: 25}
-    - name: itempage_menu1_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_menu1_on.png
       rect:
         serializedVersion: 2
         x: 1737
@@ -1796,12 +1196,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -151.5, y: 25}
-        - {x: -151.5, y: -25}
-        - {x: 151.5, y: -25}
-        - {x: 151.5, y: 25}
-    - name: itempage_menu2_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_menu2_off.png
       rect:
         serializedVersion: 2
         x: 1717
@@ -1811,12 +1209,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -151.5, y: 25}
-        - {x: -151.5, y: -25}
-        - {x: 151.5, y: -25}
-        - {x: 151.5, y: 25}
-    - name: itempage_menu2_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_menu2_on.png
       rect:
         serializedVersion: 2
         x: 1716
@@ -1826,12 +1222,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -151.5, y: 25}
-        - {x: -151.5, y: -25}
-        - {x: 151.5, y: -25}
-        - {x: 151.5, y: 25}
-    - name: itempage_tab1_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_tab1_off.png
       rect:
         serializedVersion: 2
         x: 1549
@@ -1841,12 +1235,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: itempage_tab1_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_tab1_on.png
       rect:
         serializedVersion: 2
         x: 1549
@@ -1856,12 +1248,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: itempage_tab2_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_tab2_off.png
       rect:
         serializedVersion: 2
         x: 1549
@@ -1871,12 +1261,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: itempage_tab2_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_tab2_on.png
       rect:
         serializedVersion: 2
         x: 1549
@@ -1886,12 +1274,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: itempage_tab3_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_tab3_off.png
       rect:
         serializedVersion: 2
         x: 1549
@@ -1901,12 +1287,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: itempage_tab3_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_tab3_on.png
       rect:
         serializedVersion: 2
         x: 1549
@@ -1916,12 +1300,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: itempage_tab4_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_tab4_off.png
       rect:
         serializedVersion: 2
         x: 783
@@ -1931,12 +1313,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: itempage_tab4_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_tab4_on.png
       rect:
         serializedVersion: 2
         x: 783
@@ -1946,12 +1326,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: itempage_tab5_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_tab5_off.png
       rect:
         serializedVersion: 2
         x: 1362
@@ -1961,12 +1339,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: itempage_tab5_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_tab5_on.png
       rect:
         serializedVersion: 2
         x: 1494
@@ -1976,12 +1352,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: levelup.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: levelup.png
       rect:
         serializedVersion: 2
         x: 693
@@ -1991,24 +1365,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 25.5, y: 35.5}
-        - {x: 1.5, y: 18.5}
-        - {x: 7.5, y: 11.5}
-        - {x: 7.5, y: 8.5}
-        - {x: 7.5, y: 10.5}
-        - {x: 3.5, y: 15.5}
-        - {x: -16.5, y: 27.5}
-        - {x: -34.5, y: 41.5}
-        - {x: -100.5, y: 41.5}
-        - {x: -112.5, y: 31.5}
-        - {x: -112.5, y: -40.5}
-        - {x: -108.5, y: -41.5}
-        - {x: 37.5, y: -41.5}
-        - {x: 105.5, y: -30.5}
-        - {x: 112.5, y: -10.5}
-        - {x: 112.5, y: 31.5}
-    - name: list_buy1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: list_buy1.png
       rect:
         serializedVersion: 2
         x: 541
@@ -2018,12 +1378,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -100, y: 16.5}
-        - {x: -100, y: -16.5}
-        - {x: 100, y: -16.5}
-        - {x: 100, y: 16.5}
-    - name: list_buy2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: list_buy2.png
       rect:
         serializedVersion: 2
         x: 713
@@ -2033,12 +1391,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -100, y: 16.5}
-        - {x: -100, y: -16.5}
-        - {x: 100, y: -16.5}
-        - {x: 100, y: 16.5}
-    - name: list_buy3.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: list_buy3.png
       rect:
         serializedVersion: 2
         x: 915
@@ -2048,12 +1404,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -100, y: 16.5}
-        - {x: -100, y: -16.5}
-        - {x: 100, y: -16.5}
-        - {x: 100, y: 16.5}
-    - name: list_item_1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: list_item_1.png
       rect:
         serializedVersion: 2
         x: 4
@@ -2063,19 +1417,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 562.5, y: 52.5}
-        - {x: 558.5, y: 56.5}
-        - {x: 553.5, y: 58.5}
-        - {x: 550.5, y: 59.5}
-        - {x: -550.5, y: 59.5}
-        - {x: -557.5, y: 56.5}
-        - {x: -562.5, y: 50.5}
-        - {x: -562.5, y: -53.5}
-        - {x: -557.5, y: -59.5}
-        - {x: 558.5, y: -59.5}
-        - {x: 562.5, y: -55.5}
-    - name: list_item_2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: list_item_2.png
       rect:
         serializedVersion: 2
         x: 4
@@ -2085,19 +1430,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 562.5, y: 52.5}
-        - {x: 558.5, y: 56.5}
-        - {x: 553.5, y: 58.5}
-        - {x: 550.5, y: 59.5}
-        - {x: -550.5, y: 59.5}
-        - {x: -557.5, y: 56.5}
-        - {x: -562.5, y: 50.5}
-        - {x: -562.5, y: -53.5}
-        - {x: -557.5, y: -59.5}
-        - {x: 558.5, y: -59.5}
-        - {x: 562.5, y: -55.5}
-    - name: list_item_3.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: list_item_3.png
       rect:
         serializedVersion: 2
         x: 4
@@ -2107,19 +1443,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 562.5, y: 52.5}
-        - {x: 558.5, y: 56.5}
-        - {x: 553.5, y: 58.5}
-        - {x: 550.5, y: 59.5}
-        - {x: -550.5, y: 59.5}
-        - {x: -557.5, y: 56.5}
-        - {x: -562.5, y: 50.5}
-        - {x: -562.5, y: -53.5}
-        - {x: -557.5, y: -59.5}
-        - {x: 558.5, y: -59.5}
-        - {x: 562.5, y: -55.5}
-    - name: list_item_4.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: list_item_4.png
       rect:
         serializedVersion: 2
         x: 4
@@ -2129,19 +1456,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 562.5, y: 52.5}
-        - {x: 558.5, y: 56.5}
-        - {x: 553.5, y: 58.5}
-        - {x: 550.5, y: 59.5}
-        - {x: -550.5, y: 59.5}
-        - {x: -557.5, y: 56.5}
-        - {x: -562.5, y: 50.5}
-        - {x: -562.5, y: -53.5}
-        - {x: -557.5, y: -59.5}
-        - {x: 558.5, y: -59.5}
-        - {x: 562.5, y: -55.5}
-    - name: list_shisetsu1_1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: list_shisetsu1_1.png
       rect:
         serializedVersion: 2
         x: 4
@@ -2151,19 +1469,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 562.5, y: 52.5}
-        - {x: 558.5, y: 56.5}
-        - {x: 553.5, y: 58.5}
-        - {x: 550.5, y: 59.5}
-        - {x: -550.5, y: 59.5}
-        - {x: -557.5, y: 56.5}
-        - {x: -562.5, y: 50.5}
-        - {x: -562.5, y: -53.5}
-        - {x: -557.5, y: -59.5}
-        - {x: 558.5, y: -59.5}
-        - {x: 562.5, y: -55.5}
-    - name: list_shisetsu2_1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: list_shisetsu2_1.png
       rect:
         serializedVersion: 2
         x: 4
@@ -2173,19 +1482,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 562.5, y: 52.5}
-        - {x: 558.5, y: 56.5}
-        - {x: 553.5, y: 58.5}
-        - {x: 550.5, y: 59.5}
-        - {x: -550.5, y: 59.5}
-        - {x: -557.5, y: 56.5}
-        - {x: -562.5, y: 50.5}
-        - {x: -562.5, y: -53.5}
-        - {x: -557.5, y: -59.5}
-        - {x: 558.5, y: -59.5}
-        - {x: 562.5, y: -55.5}
-    - name: list_work_1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: list_work_1.png
       rect:
         serializedVersion: 2
         x: 4
@@ -2195,19 +1495,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 562.5, y: 52.5}
-        - {x: 558.5, y: 56.5}
-        - {x: 553.5, y: 58.5}
-        - {x: 550.5, y: 59.5}
-        - {x: -550.5, y: 59.5}
-        - {x: -557.5, y: 56.5}
-        - {x: -562.5, y: 50.5}
-        - {x: -562.5, y: -53.5}
-        - {x: -557.5, y: -59.5}
-        - {x: 558.5, y: -59.5}
-        - {x: 562.5, y: -55.5}
-    - name: main_getmoney.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: main_getmoney.png
       rect:
         serializedVersion: 2
         x: 1781
@@ -2217,15 +1508,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -116.5, y: 26}
-        - {x: -131.5, y: 10}
-        - {x: -131.5, y: -18}
-        - {x: -118.5, y: -26}
-        - {x: 131.5, y: -26}
-        - {x: 131.5, y: 21}
-        - {x: 43.5, y: 26}
-    - name: main_header.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: main_header.png
       rect:
         serializedVersion: 2
         x: 4
@@ -2235,30 +1521,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -474, y: 34}
-        - {x: -474, y: -34}
-        - {x: -30, y: -34}
-        - {x: -30, y: 34}
-      - - {x: 222, y: 25}
-        - {x: 217, y: 34}
-        - {x: -2, y: 34}
-        - {x: -8, y: 30}
-        - {x: -10, y: 27}
-        - {x: -10, y: -34}
-        - {x: 57, y: -34}
-        - {x: 58, y: -31}
-        - {x: 216, y: -31}
-        - {x: 222, y: -22}
-      - - {x: 244, y: 34}
-        - {x: 243, y: 30}
-        - {x: 243, y: -25}
-        - {x: 253, y: -31}
-        - {x: 470, y: -31}
-        - {x: 474, y: -26}
-        - {x: 474, y: 29}
-        - {x: 467, y: 34}
-    - name: main_workfukidashi.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: main_workfukidashi.png
       rect:
         serializedVersion: 2
         x: 1144
@@ -2268,28 +1534,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 302, y: -37}
-        - {x: 312, y: -31}
-        - {x: 318, y: -25}
-        - {x: 320, y: -20}
-        - {x: 320, y: 29}
-        - {x: 314, y: 41}
-        - {x: 308, y: 47}
-        - {x: 301, y: 50}
-        - {x: -299, y: 50}
-        - {x: -305, y: 48}
-        - {x: -320, y: 30}
-        - {x: -320, y: -21}
-        - {x: -311, y: -33}
-        - {x: -298, y: -38}
-        - {x: -231, y: -37}
-        - {x: -224, y: -45}
-        - {x: -213, y: -50}
-        - {x: -201, y: -50}
-        - {x: -194, y: -40}
-        - {x: -197, y: -37}
-    - name: new_alert.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: new_alert.png
       rect:
         serializedVersion: 2
         x: 362
@@ -2300,7 +1548,9 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: no_cost.png
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: no_cost.png
       rect:
         serializedVersion: 2
         x: 1589
@@ -2311,7 +1561,9 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: no_gold.png
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: no_gold.png
       rect:
         serializedVersion: 2
         x: 1932
@@ -2322,7 +1574,9 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: no_ticket.png
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: no_ticket.png
       rect:
         serializedVersion: 2
         x: 1932
@@ -2333,7 +1587,9 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: nothing_icon.png
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nothing_icon.png
       rect:
         serializedVersion: 2
         x: 451
@@ -2344,7 +1600,9 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: people_tamashii.png
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people_tamashii.png
       rect:
         serializedVersion: 2
         x: 1589
@@ -2354,15 +1612,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -15.5, y: 23}
-        - {x: -18.5, y: 11}
-        - {x: -18.5, y: -23}
-        - {x: 18.5, y: -23}
-        - {x: 18.5, y: 3}
-        - {x: 14.5, y: 15}
-        - {x: 0.5, y: 23}
-    - name: pinch.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pinch.png
       rect:
         serializedVersion: 2
         x: 1918
@@ -2372,20 +1625,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 8, y: 50}
-        - {x: -23, y: 50}
-        - {x: -46, y: 35}
-        - {x: -46, y: 9}
-        - {x: -43, y: 5}
-        - {x: -42, y: -7}
-        - {x: -31, y: -40}
-        - {x: -28, y: -50}
-        - {x: 27, y: -50}
-        - {x: 46, y: -18}
-        - {x: 46, y: 24}
-        - {x: 41, y: 36}
-    - name: popup_building.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: popup_building.png
       rect:
         serializedVersion: 2
         x: 1126
@@ -2395,25 +1638,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 117.5, y: 85.5}
-        - {x: 34.5, y: 84.5}
-        - {x: 30.5, y: 91.5}
-        - {x: 14.5, y: 96.5}
-        - {x: -15.5, y: 96.5}
-        - {x: -28.5, y: 86.5}
-        - {x: -116.5, y: 84.5}
-        - {x: -117.5, y: 83.5}
-        - {x: -117.5, y: 62.5}
-        - {x: -115.5, y: 61.5}
-        - {x: -117.5, y: -18.5}
-        - {x: -117.5, y: -81.5}
-        - {x: -112.5, y: -88.5}
-        - {x: -13.5, y: -96.5}
-        - {x: 6.5, y: -96.5}
-        - {x: 11.5, y: -88.5}
-        - {x: 117.5, y: -88.5}
-    - name: purchase_road.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: purchase_road.png
       rect:
         serializedVersion: 2
         x: 1788
@@ -2423,12 +1651,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -128, y: 41}
-        - {x: -128, y: -41}
-        - {x: 128, y: -41}
-        - {x: 128, y: 41}
-    - name: serihu_4.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: serihu_4.png
       rect:
         serializedVersion: 2
         x: 1365
@@ -2438,19 +1664,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 43, y: 89}
-        - {x: -43, y: 89}
-        - {x: -88, y: 61}
-        - {x: -90, y: 49}
-        - {x: -90, y: -39}
-        - {x: -57, y: -71}
-        - {x: -4, y: -89}
-        - {x: 39, y: -89}
-        - {x: 75, y: -63}
-        - {x: 90, y: -38}
-        - {x: 90, y: 52}
-    - name: shisetsu1_frame1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1_frame1.png
       rect:
         serializedVersion: 2
         x: 1918
@@ -2460,12 +1677,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -60, y: 35}
-        - {x: -60, y: -35}
-        - {x: 60, y: -35}
-        - {x: 60, y: 35}
-    - name: shisetsu1_frame4.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1_frame4.png
       rect:
         serializedVersion: 2
         x: 1133
@@ -2475,12 +1690,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -300, y: 30}
-        - {x: -300, y: -30}
-        - {x: 300, y: -30}
-        - {x: 300, y: 30}
-    - name: shisetsu1page_menu1_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_menu1_off.png
       rect:
         serializedVersion: 2
         x: 1737
@@ -2490,12 +1703,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -151.5, y: 25}
-        - {x: -151.5, y: -25}
-        - {x: 151.5, y: -25}
-        - {x: 151.5, y: 25}
-    - name: shisetsu1page_menu1_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_menu1_on.png
       rect:
         serializedVersion: 2
         x: 1737
@@ -2505,12 +1716,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -151.5, y: 25}
-        - {x: -151.5, y: -25}
-        - {x: 151.5, y: -25}
-        - {x: 151.5, y: 25}
-    - name: shisetsu1page_menu2_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_menu2_off.png
       rect:
         serializedVersion: 2
         x: 1716
@@ -2520,12 +1729,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -151.5, y: 25}
-        - {x: -151.5, y: -25}
-        - {x: 151.5, y: -25}
-        - {x: 151.5, y: 25}
-    - name: shisetsu1page_menu2_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_menu2_on.png
       rect:
         serializedVersion: 2
         x: 1703
@@ -2535,12 +1742,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -151.5, y: 25}
-        - {x: -151.5, y: -25}
-        - {x: 151.5, y: -25}
-        - {x: 151.5, y: 25}
-    - name: shisetsu1page_tab1_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_tab1_off.png
       rect:
         serializedVersion: 2
         x: 1362
@@ -2550,12 +1755,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: shisetsu1page_tab1_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_tab1_on.png
       rect:
         serializedVersion: 2
         x: 1494
@@ -2565,12 +1768,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: shisetsu1page_tab2_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_tab2_off.png
       rect:
         serializedVersion: 2
         x: 922
@@ -2580,12 +1781,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: shisetsu1page_tab2_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_tab2_on.png
       rect:
         serializedVersion: 2
         x: 915
@@ -2595,12 +1794,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: shisetsu1page_tab3_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_tab3_off.png
       rect:
         serializedVersion: 2
         x: 783
@@ -2610,12 +1807,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: shisetsu1page_tab3_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_tab3_on.png
       rect:
         serializedVersion: 2
         x: 1015
@@ -2625,12 +1820,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: shisetsu1page_tab4_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_tab4_off.png
       rect:
         serializedVersion: 2
         x: 1174
@@ -2640,12 +1833,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: shisetsu1page_tab4_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_tab4_on.png
       rect:
         serializedVersion: 2
         x: 1306
@@ -2655,12 +1846,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: shisetsu1page_tab5_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_tab5_off.png
       rect:
         serializedVersion: 2
         x: 1147
@@ -2670,12 +1859,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: shisetsu1page_tab5_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_tab5_on.png
       rect:
         serializedVersion: 2
         x: 925
@@ -2685,12 +1872,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: shisetsu2page_menu1_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_menu1_off.png
       rect:
         serializedVersion: 2
         x: 1703
@@ -2700,12 +1885,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -151.5, y: 25}
-        - {x: -151.5, y: -25}
-        - {x: 151.5, y: -25}
-        - {x: 151.5, y: 25}
-    - name: shisetsu2page_menu1_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_menu1_on.png
       rect:
         serializedVersion: 2
         x: 1701
@@ -2715,12 +1898,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -151.5, y: 25}
-        - {x: -151.5, y: -25}
-        - {x: 151.5, y: -25}
-        - {x: 151.5, y: 25}
-    - name: shisetsu2page_menu2_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_menu2_off.png
       rect:
         serializedVersion: 2
         x: 1701
@@ -2730,12 +1911,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -151.5, y: 25}
-        - {x: -151.5, y: -25}
-        - {x: 151.5, y: -25}
-        - {x: 151.5, y: 25}
-    - name: shisetsu2page_menu2_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_menu2_on.png
       rect:
         serializedVersion: 2
         x: 1690
@@ -2745,12 +1924,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -151.5, y: 25}
-        - {x: -151.5, y: -25}
-        - {x: 151.5, y: -25}
-        - {x: 151.5, y: 25}
-    - name: shisetsu2page_tab1_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_tab1_off.png
       rect:
         serializedVersion: 2
         x: 1362
@@ -2760,12 +1937,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: shisetsu2page_tab1_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_tab1_on.png
       rect:
         serializedVersion: 2
         x: 1494
@@ -2775,12 +1950,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: shisetsu2page_tab2_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_tab2_off.png
       rect:
         serializedVersion: 2
         x: 922
@@ -2790,12 +1963,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: shisetsu2page_tab2_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_tab2_on.png
       rect:
         serializedVersion: 2
         x: 915
@@ -2805,12 +1976,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: shisetsu2page_tab3_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_tab3_off.png
       rect:
         serializedVersion: 2
         x: 783
@@ -2820,12 +1989,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: shisetsu2page_tab3_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_tab3_on.png
       rect:
         serializedVersion: 2
         x: 1015
@@ -2835,12 +2002,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: shisetsu2page_tab4_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_tab4_off.png
       rect:
         serializedVersion: 2
         x: 1174
@@ -2850,12 +2015,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: shisetsu2page_tab4_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_tab4_on.png
       rect:
         serializedVersion: 2
         x: 1306
@@ -2865,12 +2028,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: shisetsu2page_tab5_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_tab5_off.png
       rect:
         serializedVersion: 2
         x: 1054
@@ -2880,12 +2041,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: shisetsu2page_tab5_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_tab5_on.png
       rect:
         serializedVersion: 2
         x: 1057
@@ -2895,12 +2054,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: ticket10.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ticket10.png
       rect:
         serializedVersion: 2
         x: 325
@@ -2910,34 +2067,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 20, y: -72}
-        - {x: 38, y: -72}
-        - {x: 44, y: -70}
-        - {x: 46, y: -67}
-        - {x: 46, y: -36}
-        - {x: 45, y: -31}
-        - {x: -20, y: -31}
-        - {x: -34, y: -36}
-        - {x: -34, y: -68}
-        - {x: -33, y: -70}
-        - {x: -18, y: -72}
-        - {x: 16, y: -72}
-        - {x: 17, y: -69}
-        - {x: 17, y: -66}
-        - {x: 17, y: -68}
-      - - {x: 30, y: 72}
-        - {x: -66, y: 26}
-        - {x: -74, y: 16}
-        - {x: -74, y: 5}
-        - {x: -49, y: -30}
-        - {x: -46, y: -34}
-        - {x: -33, y: -34}
-        - {x: 73, y: -26}
-        - {x: 74, y: -19}
-        - {x: 74, y: 51}
-        - {x: 40, y: 72}
-    - name: ticket010.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ticket010.png
       rect:
         serializedVersion: 2
         x: 163
@@ -2947,23 +2080,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -14, y: -35}
-        - {x: 75, y: -17}
-        - {x: 75, y: 42}
-        - {x: 69, y: 61}
-        - {x: 52, y: 74}
-        - {x: 12, y: 74}
-        - {x: -75, y: 41}
-        - {x: -75, y: 10}
-        - {x: -47, y: -70}
-        - {x: -35, y: -74}
-        - {x: 39, y: -74}
-        - {x: 47, y: -72}
-        - {x: 46, y: -42}
-        - {x: 41, y: -33}
-        - {x: 10, y: -30}
-    - name: ticket055.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ticket055.png
       rect:
         serializedVersion: 2
         x: 317
@@ -2973,22 +2093,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -4, y: -37}
-        - {x: -14, y: -35}
-        - {x: 75, y: -17}
-        - {x: 75, y: 41}
-        - {x: 68, y: 62}
-        - {x: 41, y: 74}
-        - {x: 10, y: 74}
-        - {x: -75, y: 26}
-        - {x: -75, y: 3}
-        - {x: -36, y: -74}
-        - {x: 38, y: -74}
-        - {x: 49, y: -66}
-        - {x: 45, y: -29}
-        - {x: -1, y: -34}
-    - name: ticket55.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ticket55.png
       rect:
         serializedVersion: 2
         x: 623
@@ -2998,27 +2106,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -30, y: -31}
-        - {x: -34, y: -36}
-        - {x: -34, y: -69}
-        - {x: -32, y: -70}
-        - {x: -14, y: -72}
-        - {x: 46, y: -72}
-        - {x: 46, y: -34}
-        - {x: 45, y: -31}
-      - - {x: 30, y: 72}
-        - {x: -66, y: 26}
-        - {x: -74, y: 16}
-        - {x: -74, y: 5}
-        - {x: -49, y: -30}
-        - {x: -46, y: -34}
-        - {x: -33, y: -34}
-        - {x: 73, y: -26}
-        - {x: 74, y: -19}
-        - {x: 74, y: 51}
-        - {x: 40, y: 72}
-    - name: ticket125.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ticket125.png
       rect:
         serializedVersion: 2
         x: 471
@@ -3028,32 +2119,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 5, y: -31}
-        - {x: -2, y: -38}
-        - {x: -2, y: -47}
-        - {x: -3, y: -31}
-        - {x: -19, y: -31}
-        - {x: -29, y: -39}
-        - {x: -40, y: -37}
-        - {x: -49, y: -40}
-        - {x: -49, y: -62}
-        - {x: -47, y: -68}
-        - {x: -32, y: -72}
-        - {x: 56, y: -72}
-        - {x: 56, y: -31}
-      - - {x: 30, y: 72}
-        - {x: -66, y: 26}
-        - {x: -74, y: 16}
-        - {x: -74, y: 5}
-        - {x: -49, y: -30}
-        - {x: -46, y: -34}
-        - {x: -33, y: -34}
-        - {x: 73, y: -26}
-        - {x: 74, y: -19}
-        - {x: 74, y: 51}
-        - {x: 40, y: 72}
-    - name: ticket350.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ticket350.png
       rect:
         serializedVersion: 2
         x: 477
@@ -3063,33 +2132,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 56, y: -56}
-        - {x: 56, y: -48}
-        - {x: 55, y: -40}
-        - {x: 48, y: -31}
-        - {x: -19, y: -31}
-        - {x: -22, y: -32}
-        - {x: -40, y: -37}
-        - {x: -49, y: -40}
-        - {x: -49, y: -61}
-        - {x: -46, y: -66}
-        - {x: -33, y: -72}
-        - {x: 46, y: -72}
-        - {x: 51, y: -69}
-        - {x: 55, y: -61}
-      - - {x: 30, y: 72}
-        - {x: -66, y: 26}
-        - {x: -74, y: 16}
-        - {x: -74, y: 5}
-        - {x: -49, y: -30}
-        - {x: -46, y: -34}
-        - {x: -33, y: -34}
-        - {x: 73, y: -26}
-        - {x: 74, y: -19}
-        - {x: 74, y: 51}
-        - {x: 40, y: 72}
-    - name: ticket800.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ticket800.png
       rect:
         serializedVersion: 2
         x: 541
@@ -3099,25 +2145,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -22, y: -31}
-        - {x: -49, y: -38}
-        - {x: -49, y: -72}
-        - {x: 56, y: -72}
-        - {x: 56, y: -40}
-        - {x: 54, y: -31}
-      - - {x: 30, y: 72}
-        - {x: -66, y: 26}
-        - {x: -74, y: 16}
-        - {x: -74, y: 5}
-        - {x: -49, y: -30}
-        - {x: -46, y: -34}
-        - {x: -33, y: -34}
-        - {x: 73, y: -26}
-        - {x: 74, y: -19}
-        - {x: 74, y: 51}
-        - {x: 40, y: 72}
-    - name: time_left.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: time_left.png
       rect:
         serializedVersion: 2
         x: 1144
@@ -3127,18 +2158,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 302, y: -25}
-        - {x: 302, y: 46}
-        - {x: -302, y: 46}
-        - {x: -302, y: -25}
-        - {x: -14, y: -25}
-        - {x: -13, y: -27}
-        - {x: -3, y: -46}
-        - {x: 4, y: -46}
-        - {x: 9, y: -37}
-        - {x: 15, y: -25}
-    - name: tutorial7.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tutorial7.png
       rect:
         serializedVersion: 2
         x: 362
@@ -3148,30 +2171,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 19.5, y: 23.5}
-        - {x: -10.5, y: 23.5}
-        - {x: -28.5, y: -15.5}
-        - {x: -28.5, y: -31.5}
-        - {x: -14.5, y: -53.5}
-        - {x: 12.5, y: -53.5}
-        - {x: 29.5, y: -28.5}
-        - {x: 29.5, y: 18.5}
-        - {x: 27.5, y: 22.5}
-      - - {x: -40.5, y: 53.5}
-        - {x: -42.5, y: 50.5}
-        - {x: -42.5, y: 22.5}
-        - {x: 9.5, y: 22.5}
-        - {x: 28.5, y: 29.5}
-        - {x: 28.5, y: 53.5}
-      - - {x: 35.5, y: 52.5}
-        - {x: 32.5, y: 51.5}
-        - {x: 32.5, y: 27.5}
-        - {x: 33.5, y: 24.5}
-        - {x: 40.5, y: 24.5}
-        - {x: 42.5, y: 25.5}
-        - {x: 42.5, y: 52.5}
-    - name: tutorial19.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tutorial19.png
       rect:
         serializedVersion: 2
         x: 1144
@@ -3181,19 +2184,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -307.5, y: 69}
-        - {x: -316.5, y: 54}
-        - {x: -316.5, y: -69}
-        - {x: 316.5, y: -69}
-        - {x: 316.5, y: 69}
-      - - {x: -300.5, y: -43}
-        - {x: -285.5, y: 55}
-        - {x: 287.5, y: 54}
-        - {x: 303.5, y: 39}
-        - {x: 290.5, y: -55}
-        - {x: -288.5, y: -55}
-    - name: workpage_menu1_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_menu1_off.png
       rect:
         serializedVersion: 2
         x: 1690
@@ -3203,12 +2197,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -151.5, y: 25}
-        - {x: -151.5, y: -25}
-        - {x: 151.5, y: -25}
-        - {x: 151.5, y: 25}
-    - name: workpage_menu1_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_menu1_on.png
       rect:
         serializedVersion: 2
         x: 1690
@@ -3218,12 +2210,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -151.5, y: 25}
-        - {x: -151.5, y: -25}
-        - {x: 151.5, y: -25}
-        - {x: 151.5, y: 25}
-    - name: workpage_menu2_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_menu2_off.png
       rect:
         serializedVersion: 2
         x: 1133
@@ -3233,12 +2223,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -151.5, y: 25}
-        - {x: -151.5, y: -25}
-        - {x: 151.5, y: -25}
-        - {x: 151.5, y: 25}
-    - name: workpage_menu2_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_menu2_on.png
       rect:
         serializedVersion: 2
         x: 1133
@@ -3248,12 +2236,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -151.5, y: 25}
-        - {x: -151.5, y: -25}
-        - {x: 151.5, y: -25}
-        - {x: 151.5, y: 25}
-    - name: workpage_tab1_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_tab1_off.png
       rect:
         serializedVersion: 2
         x: 1186
@@ -3263,12 +2249,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: workpage_tab1_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_tab1_on.png
       rect:
         serializedVersion: 2
         x: 1189
@@ -3278,12 +2262,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: workpage_tab2_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_tab2_off.png
       rect:
         serializedVersion: 2
         x: 1318
@@ -3293,12 +2275,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: workpage_tab2_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_tab2_on.png
       rect:
         serializedVersion: 2
         x: 1321
@@ -3308,12 +2288,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: workpage_tab3_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_tab3_off.png
       rect:
         serializedVersion: 2
         x: 1450
@@ -3323,12 +2301,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: workpage_tab3_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_tab3_on.png
       rect:
         serializedVersion: 2
         x: 1453
@@ -3338,12 +2314,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: workpage_tab4_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_tab4_off.png
       rect:
         serializedVersion: 2
         x: 1582
@@ -3353,12 +2327,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: workpage_tab4_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_tab4_on.png
       rect:
         serializedVersion: 2
         x: 1585
@@ -3368,12 +2340,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: workpage_tab5_off.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_tab5_off.png
       rect:
         serializedVersion: 2
         x: 1054
@@ -3383,12 +2353,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: workpage_tab5_on.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_tab5_on.png
       rect:
         serializedVersion: 2
         x: 1057
@@ -3398,12 +2366,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 30}
-        - {x: -64, y: -30}
-        - {x: 64, y: -30}
-        - {x: 64, y: 30}
-    - name: zooojisan.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zooojisan.png
       rect:
         serializedVersion: 2
         x: 4
@@ -3413,49 +2379,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 53.5, y: -8.5}
-        - {x: 74.5, y: 23.5}
-        - {x: 47.5, y: 92.5}
-        - {x: 42.5, y: 93.5}
-        - {x: -16.5, y: 93.5}
-        - {x: -68.5, y: 60.5}
-        - {x: -87.5, y: -41.5}
-        - {x: -87.5, y: -93.5}
-        - {x: 81.5, y: -93.5}
-        - {x: 81.5, y: -65.5}
-        - {x: 67.5, y: -19.5}
-        - {x: 38.5, y: -16.5}
-        - {x: 35.5, y: -17.5}
-      - - {x: 59.5, y: -7.5}
-        - {x: 59.5, y: -24.5}
-        - {x: 62.5, y: -27.5}
-        - {x: 81.5, y: -27.5}
-        - {x: 87.5, y: -24.5}
-        - {x: 87.5, y: -8.5}
-        - {x: 83.5, y: 1.5}
-        - {x: 73.5, y: 7.5}
-        - {x: 65.5, y: 7.5}
-        - {x: 60.5, y: -3.5}
-      - - {x: -81.5, y: 24.5}
-        - {x: -87.5, y: 2.5}
-        - {x: -87.5, y: -18.5}
-        - {x: -86.5, y: -20.5}
-        - {x: -55.5, y: -20.5}
-        - {x: -52.5, y: -19.5}
-        - {x: -52.5, y: -0.5}
-        - {x: -60.5, y: 14.5}
-        - {x: -72.5, y: 24.5}
-      - - {x: -72.5, y: 82.5}
-        - {x: -80.5, y: 82.5}
-        - {x: -86.5, y: 69.5}
-        - {x: -86.5, y: 51.5}
-        - {x: -80.5, y: 47.5}
-        - {x: -60.5, y: 47.5}
-        - {x: -58.5, y: 53.5}
-        - {x: -58.5, y: 65.5}
-        - {x: -61.5, y: 73.5}
-    - name: zooojisan2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zooojisan2.png
       rect:
         serializedVersion: 2
         x: 4
@@ -3465,49 +2392,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 53.5, y: -8.5}
-        - {x: 74.5, y: 23.5}
-        - {x: 47.5, y: 92.5}
-        - {x: 42.5, y: 93.5}
-        - {x: -16.5, y: 93.5}
-        - {x: -68.5, y: 60.5}
-        - {x: -87.5, y: -41.5}
-        - {x: -87.5, y: -93.5}
-        - {x: 81.5, y: -93.5}
-        - {x: 81.5, y: -65.5}
-        - {x: 67.5, y: -19.5}
-        - {x: 38.5, y: -16.5}
-        - {x: 35.5, y: -17.5}
-      - - {x: 59.5, y: -7.5}
-        - {x: 59.5, y: -24.5}
-        - {x: 62.5, y: -27.5}
-        - {x: 81.5, y: -27.5}
-        - {x: 87.5, y: -24.5}
-        - {x: 87.5, y: -8.5}
-        - {x: 83.5, y: 1.5}
-        - {x: 73.5, y: 7.5}
-        - {x: 65.5, y: 7.5}
-        - {x: 60.5, y: -3.5}
-      - - {x: -81.5, y: 24.5}
-        - {x: -87.5, y: 2.5}
-        - {x: -87.5, y: -18.5}
-        - {x: -86.5, y: -20.5}
-        - {x: -55.5, y: -20.5}
-        - {x: -52.5, y: -19.5}
-        - {x: -52.5, y: -0.5}
-        - {x: -60.5, y: 14.5}
-        - {x: -72.5, y: 24.5}
-      - - {x: -72.5, y: 82.5}
-        - {x: -80.5, y: 82.5}
-        - {x: -86.5, y: 69.5}
-        - {x: -86.5, y: 51.5}
-        - {x: -80.5, y: 47.5}
-        - {x: -60.5, y: 47.5}
-        - {x: -58.5, y: 53.5}
-        - {x: -58.5, y: 65.5}
-        - {x: -61.5, y: 73.5}
-    - name: zooojisan3.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zooojisan3.png
       rect:
         serializedVersion: 2
         x: 183
@@ -3517,49 +2405,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 53.5, y: -8.5}
-        - {x: 74.5, y: 23.5}
-        - {x: 47.5, y: 92.5}
-        - {x: 42.5, y: 93.5}
-        - {x: -16.5, y: 93.5}
-        - {x: -68.5, y: 60.5}
-        - {x: -87.5, y: -41.5}
-        - {x: -87.5, y: -93.5}
-        - {x: 81.5, y: -93.5}
-        - {x: 81.5, y: -65.5}
-        - {x: 67.5, y: -19.5}
-        - {x: 38.5, y: -16.5}
-        - {x: 35.5, y: -17.5}
-      - - {x: 59.5, y: -7.5}
-        - {x: 59.5, y: -24.5}
-        - {x: 62.5, y: -27.5}
-        - {x: 81.5, y: -27.5}
-        - {x: 87.5, y: -24.5}
-        - {x: 87.5, y: -8.5}
-        - {x: 83.5, y: 1.5}
-        - {x: 73.5, y: 7.5}
-        - {x: 65.5, y: 7.5}
-        - {x: 60.5, y: -3.5}
-      - - {x: -81.5, y: 24.5}
-        - {x: -87.5, y: 2.5}
-        - {x: -87.5, y: -18.5}
-        - {x: -86.5, y: -20.5}
-        - {x: -55.5, y: -20.5}
-        - {x: -52.5, y: -19.5}
-        - {x: -52.5, y: -0.5}
-        - {x: -60.5, y: 14.5}
-        - {x: -72.5, y: 24.5}
-      - - {x: -72.5, y: 82.5}
-        - {x: -80.5, y: 82.5}
-        - {x: -86.5, y: 69.5}
-        - {x: -86.5, y: 51.5}
-        - {x: -80.5, y: 47.5}
-        - {x: -60.5, y: 47.5}
-        - {x: -58.5, y: 53.5}
-        - {x: -58.5, y: 65.5}
-        - {x: -61.5, y: 73.5}
-    - name: zooojisan4.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zooojisan4.png
       rect:
         serializedVersion: 2
         x: 183
@@ -3569,49 +2418,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 53.5, y: -8.5}
-        - {x: 74.5, y: 23.5}
-        - {x: 47.5, y: 92.5}
-        - {x: 42.5, y: 93.5}
-        - {x: -16.5, y: 93.5}
-        - {x: -68.5, y: 60.5}
-        - {x: -87.5, y: -41.5}
-        - {x: -87.5, y: -93.5}
-        - {x: 81.5, y: -93.5}
-        - {x: 81.5, y: -65.5}
-        - {x: 67.5, y: -19.5}
-        - {x: 38.5, y: -16.5}
-        - {x: 35.5, y: -17.5}
-      - - {x: 59.5, y: -7.5}
-        - {x: 59.5, y: -24.5}
-        - {x: 62.5, y: -27.5}
-        - {x: 81.5, y: -27.5}
-        - {x: 87.5, y: -24.5}
-        - {x: 87.5, y: -8.5}
-        - {x: 83.5, y: 1.5}
-        - {x: 73.5, y: 7.5}
-        - {x: 65.5, y: 7.5}
-        - {x: 60.5, y: -3.5}
-      - - {x: -81.5, y: 24.5}
-        - {x: -87.5, y: 2.5}
-        - {x: -87.5, y: -18.5}
-        - {x: -86.5, y: -20.5}
-        - {x: -55.5, y: -20.5}
-        - {x: -52.5, y: -19.5}
-        - {x: -52.5, y: -0.5}
-        - {x: -60.5, y: 14.5}
-        - {x: -72.5, y: 24.5}
-      - - {x: -72.5, y: 82.5}
-        - {x: -80.5, y: 82.5}
-        - {x: -86.5, y: 69.5}
-        - {x: -86.5, y: 51.5}
-        - {x: -80.5, y: 47.5}
-        - {x: -60.5, y: 47.5}
-        - {x: -58.5, y: 53.5}
-        - {x: -58.5, y: 65.5}
-        - {x: -61.5, y: 73.5}
-    - name: zooojisan5.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zooojisan5.png
       rect:
         serializedVersion: 2
         x: 362
@@ -3621,49 +2431,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 53.5, y: -8.5}
-        - {x: 74.5, y: 23.5}
-        - {x: 47.5, y: 92.5}
-        - {x: 42.5, y: 93.5}
-        - {x: -16.5, y: 93.5}
-        - {x: -68.5, y: 60.5}
-        - {x: -87.5, y: -41.5}
-        - {x: -87.5, y: -93.5}
-        - {x: 81.5, y: -93.5}
-        - {x: 81.5, y: -65.5}
-        - {x: 67.5, y: -19.5}
-        - {x: 38.5, y: -16.5}
-        - {x: 35.5, y: -17.5}
-      - - {x: 59.5, y: -7.5}
-        - {x: 59.5, y: -24.5}
-        - {x: 62.5, y: -27.5}
-        - {x: 81.5, y: -27.5}
-        - {x: 87.5, y: -24.5}
-        - {x: 87.5, y: -8.5}
-        - {x: 83.5, y: 1.5}
-        - {x: 73.5, y: 7.5}
-        - {x: 65.5, y: 7.5}
-        - {x: 60.5, y: -3.5}
-      - - {x: -81.5, y: 24.5}
-        - {x: -87.5, y: 2.5}
-        - {x: -87.5, y: -18.5}
-        - {x: -86.5, y: -20.5}
-        - {x: -55.5, y: -20.5}
-        - {x: -52.5, y: -19.5}
-        - {x: -52.5, y: -0.5}
-        - {x: -60.5, y: 14.5}
-        - {x: -72.5, y: 24.5}
-      - - {x: -72.5, y: 82.5}
-        - {x: -80.5, y: 82.5}
-        - {x: -86.5, y: 69.5}
-        - {x: -86.5, y: 51.5}
-        - {x: -80.5, y: 47.5}
-        - {x: -60.5, y: 47.5}
-        - {x: -58.5, y: 53.5}
-        - {x: -58.5, y: 65.5}
-        - {x: -61.5, y: 73.5}
-    - name: zoukyou.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zoukyou.png
       rect:
         serializedVersion: 2
         x: 1133
@@ -3673,12 +2444,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -196, y: 19.5}
-        - {x: -196, y: -19.5}
-        - {x: 196, y: -19.5}
-        - {x: 196, y: 19.5}
-    - name: zoukyou_frame1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zoukyou_frame1.png
       rect:
         serializedVersion: 2
         x: 1144
@@ -3688,29 +2457,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 299, y: -38}
-        - {x: 299, y: -36}
-        - {x: 300, y: -34}
-        - {x: 300, y: 34}
-        - {x: 297, y: 41}
-        - {x: 295, y: 43}
-        - {x: 291, y: 48}
-        - {x: 280, y: 53}
-        - {x: -283, y: 53}
-        - {x: -290, y: 50}
-        - {x: -299, y: 41}
-        - {x: -300, y: 38}
-        - {x: -300, y: -40}
-        - {x: -298, y: -42}
-        - {x: -298, y: -43}
-        - {x: -291, y: -51}
-        - {x: -286, y: -53}
-        - {x: 284, y: -53}
-        - {x: 289, y: -51}
-        - {x: 296, y: -43}
-        - {x: 296, y: -42}
-    - name: zoukyou_frame2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zoukyou_frame2.png
       rect:
         serializedVersion: 2
         x: 1133
@@ -3720,29 +2470,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 299, y: -38}
-        - {x: 299, y: -36}
-        - {x: 300, y: -34}
-        - {x: 300, y: 34}
-        - {x: 297, y: 41}
-        - {x: 295, y: 43}
-        - {x: 291, y: 48}
-        - {x: 280, y: 53}
-        - {x: -283, y: 53}
-        - {x: -290, y: 50}
-        - {x: -299, y: 41}
-        - {x: -300, y: 38}
-        - {x: -300, y: -40}
-        - {x: -298, y: -42}
-        - {x: -298, y: -43}
-        - {x: -291, y: -51}
-        - {x: -286, y: -53}
-        - {x: 284, y: -53}
-        - {x: 289, y: -51}
-        - {x: 296, y: -43}
-        - {x: 296, y: -42}
-    - name: zoukyou_frame3.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zoukyou_frame3.png
       rect:
         serializedVersion: 2
         x: 1133
@@ -3752,31 +2483,8 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -82.5, y: 15.5}
-        - {x: -98.5, y: 6.5}
-        - {x: -105.5, y: 6.5}
-        - {x: -100.5, y: 7.5}
-        - {x: -94.5, y: 13.5}
-        - {x: -91.5, y: 34.5}
-        - {x: -106.5, y: 45.5}
-        - {x: -237.5, y: 45.5}
-        - {x: -282.5, y: 23.5}
-        - {x: -289.5, y: -1.5}
-        - {x: -289.5, y: -40.5}
-        - {x: -287.5, y: -45.5}
-        - {x: -48.5, y: -45.5}
-        - {x: -46.5, y: -39.5}
-        - {x: -46.5, y: -9.5}
-        - {x: -50.5, y: 0.5}
-      - - {x: 104.5, y: 45.5}
-        - {x: 58.5, y: 17.5}
-        - {x: 46.5, y: -14.5}
-        - {x: 46.5, y: -40.5}
-        - {x: 54.5, y: -45.5}
-        - {x: 289.5, y: -45.5}
-        - {x: 289.5, y: 22.5}
-        - {x: 245.5, y: 45.5}
+      outline: []
+      tessellationDetail: -1
     outline: []
   spritePackingTag: 
   userData: 

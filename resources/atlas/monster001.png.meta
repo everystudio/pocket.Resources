@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 65ae82e28928a2749997e69307d9fa4e
-timeCreated: 1470838482
+timeCreated: 1471873760
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -231,6 +231,34 @@ TextureImporter:
     21300448: chara23_scare.png
     21300450: chara26_scare.png
     21300452: chara28_scare.png
+    21300454: chara04_scare.png
+    21300456: chara05_scare.png
+    21300458: chara07_scare.png
+    21300460: chara10_scare.png
+    21300462: chara11_scare.png
+    21300464: chara12_scare.png
+    21300466: chara14_scare.png
+    21300468: chara16_scare.png
+    21300470: chara17_scare.png
+    21300472: chara18_scare.png
+    21300474: chara19_scare.png
+    21300476: chara20_scare.png
+    21300478: chara21_scare.png
+    21300480: chara24_scare.png
+    21300482: chara25_scare.png
+    21300484: chara27_scare.png
+    21300486: chara30_scare.png
+    21300488: chara31_scare.png
+    21300490: chara32_scare.png
+    21300492: chara33_scare.png
+    21300494: chara36_scare.png
+    21300496: chara37_scare.png
+    21300498: chara39_scare.png
+    21300500: chara40_scare.png
+    21300502: chara45_scare.png
+    21300504: chara48_scare.png
+    21300506: chara53_scare.png
+    21300508: chara54_scare.png
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -273,3368 +301,2380 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: chara01_eat1.png
+    - serializedVersion: 2
+      name: chara01_eat1.png
       rect:
         serializedVersion: 2
-        x: 1437
-        y: 1361
+        x: 1536
+        y: 1385
         width: 37
         height: 78
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 11.5, y: -29}
-        - {x: -9.5, y: -29}
-        - {x: -12.5, y: -30}
-        - {x: -16.5, y: -34}
-        - {x: -16.5, y: -36}
-        - {x: -13.5, y: -39}
-        - {x: 13.5, y: -39}
-        - {x: 16.5, y: -36}
-        - {x: 16.5, y: -32}
-      - - {x: -12.5, y: 39}
-        - {x: -18.5, y: 27}
-        - {x: -18.5, y: -26}
-        - {x: 11.5, y: -26}
-        - {x: 18.5, y: -25}
-        - {x: 18.5, y: 16}
-        - {x: 8.5, y: 39}
-    - name: chara01_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara01_eat2.png
       rect:
         serializedVersion: 2
-        x: 344
-        y: 1469
+        x: 1536
+        y: 1236
         width: 37
         height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18.5, y: -23}
-        - {x: -18.5, y: -33}
-        - {x: 18.5, y: -33}
-        - {x: 18.5, y: -26}
-        - {x: 14.5, y: -23}
-      - - {x: 18.5, y: 6}
-        - {x: 11.5, y: 13}
-        - {x: 11.5, y: 28}
-        - {x: 7.5, y: 33}
-        - {x: -5.5, y: 33}
-        - {x: -18.5, y: 11}
-        - {x: -18.5, y: -15}
-        - {x: -14.5, y: -20}
-        - {x: -5.5, y: -22}
-        - {x: 3.5, y: -22}
-        - {x: 13.5, y: -21}
-        - {x: 18.5, y: -16}
-    - name: chara01_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara01_move1.png
       rect:
         serializedVersion: 2
-        x: 1437
-        y: 1282
+        x: 1536
+        y: 1306
         width: 37
         height: 75
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 11.5, y: -27.5}
-        - {x: -9.5, y: -27.5}
-        - {x: -12.5, y: -28.5}
-        - {x: -16.5, y: -32.5}
-        - {x: -16.5, y: -34.5}
-        - {x: -13.5, y: -37.5}
-        - {x: 13.5, y: -37.5}
-        - {x: 16.5, y: -34.5}
-        - {x: 16.5, y: -30.5}
-      - - {x: 7.5, y: 37.5}
-        - {x: -10.5, y: 37.5}
-        - {x: -18.5, y: 19.5}
-        - {x: -18.5, y: -23.5}
-        - {x: -16.5, y: -25.5}
-        - {x: 15.5, y: -25.5}
-        - {x: 18.5, y: -20.5}
-        - {x: 18.5, y: 12.5}
-        - {x: 11.5, y: 31.5}
-    - name: chara01_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara01_move2.png
       rect:
         serializedVersion: 2
-        x: 222
-        y: 535
+        x: 1996
+        y: 1540
         width: 39
         height: 83
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 6.5, y: -31.5}
-        - {x: -12.5, y: -31.5}
-        - {x: -14.5, y: -36.5}
-        - {x: -14.5, y: -40.5}
-        - {x: -12.5, y: -41.5}
-        - {x: 11.5, y: -41.5}
-        - {x: 12.5, y: -38.5}
-        - {x: 12.5, y: -34.5}
-        - {x: 9.5, y: -32.5}
-      - - {x: 4.5, y: 41.5}
-        - {x: -9.5, y: 41.5}
-        - {x: -19.5, y: 15.5}
-        - {x: -19.5, y: -22.5}
-        - {x: -12.5, y: -26.5}
-        - {x: 12.5, y: -26.5}
-        - {x: 19.5, y: -22.5}
-        - {x: 19.5, y: 11.5}
-        - {x: 17.5, y: 19.5}
-    - name: chara01_scare.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara01_scare.png
       rect:
         serializedVersion: 2
-        x: 1985
-        y: 177
+        x: 65
+        y: 680
         width: 57
         height: 92
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -13.5, y: -36}
-        - {x: -16.5, y: -39}
-        - {x: -16.5, y: -44}
-        - {x: -15.5, y: -46}
-        - {x: 8.5, y: -46}
-        - {x: 10.5, y: -43}
-        - {x: 10.5, y: -38}
-        - {x: 7.5, y: -36}
-      - - {x: 27.5, y: 8}
-        - {x: 21.5, y: 7}
-        - {x: 23.5, y: 7}
-        - {x: 28.5, y: 9}
-        - {x: 28.5, y: 25}
-        - {x: 3.5, y: 46}
-        - {x: -12.5, y: 46}
-        - {x: -15.5, y: 41}
-        - {x: -14.5, y: 36}
-        - {x: -19.5, y: 21}
-        - {x: -18.5, y: 14}
-        - {x: -17.5, y: 11}
-        - {x: -17.5, y: 7}
-        - {x: -18.5, y: 14}
-        - {x: -24.5, y: 17}
-        - {x: -28.5, y: 10}
-        - {x: -28.5, y: -7}
-        - {x: -25.5, y: -22}
-        - {x: -19.5, y: -31}
-        - {x: 17.5, y: -31}
-        - {x: 20.5, y: -30}
-        - {x: 28.5, y: -2}
-        - {x: 28.5, y: 8}
-    - name: chara02_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara02_eat1.png
       rect:
         serializedVersion: 2
-        x: 83
-        y: 1164
+        x: 4
+        y: 201
         width: 63
         height: 104
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -31.5, y: 52}
-        - {x: -31.5, y: -43}
-        - {x: -20.5, y: -52}
-        - {x: 25.5, y: -52}
-        - {x: 31.5, y: -49}
-        - {x: 31.5, y: 52}
-    - name: chara02_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara02_eat2.png
       rect:
         serializedVersion: 2
-        x: 214
-        y: 1165
+        x: 71
+        y: 534
         width: 63
         height: 103
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -31.5, y: -41.5}
-        - {x: -30.5, y: -43.5}
-        - {x: -27.5, y: -51.5}
-        - {x: 31.5, y: -51.5}
-        - {x: 31.5, y: 51.5}
-        - {x: -24.5, y: 51.5}
-        - {x: -31.5, y: 34.5}
-    - name: chara02_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara02_move1.png
       rect:
         serializedVersion: 2
-        x: 150
-        y: 1164
+        x: 68
+        y: 412
         width: 60
         height: 104
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 20, y: 52}
-        - {x: -30, y: 52}
-        - {x: -30, y: -30}
-        - {x: -21, y: -52}
-        - {x: 30, y: -52}
-        - {x: 30, y: 30}
-        - {x: 23, y: 47}
-    - name: chara02_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara02_move2.png
       rect:
         serializedVersion: 2
-        x: 83
-        y: 849
+        x: 4
+        y: 410
         width: 60
         height: 106
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 18, y: 53}
-        - {x: -30, y: 53}
-        - {x: -30, y: -46}
-        - {x: -19, y: -53}
-        - {x: 22, y: -53}
-        - {x: 30, y: -40}
-        - {x: 30, y: 18}
-        - {x: 27, y: 51}
-    - name: chara02_scare.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara02_scare.png
       rect:
         serializedVersion: 2
-        x: 4
-        y: 958
+        x: 1673
+        y: 594
         width: 67
         height: 107
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 33.5, y: -20.5}
-        - {x: 33.5, y: 37.5}
-        - {x: 23.5, y: 53.5}
-        - {x: -16.5, y: 53.5}
-        - {x: -33.5, y: 43.5}
-        - {x: -33.5, y: -26.5}
-        - {x: -18.5, y: -53.5}
-        - {x: 14.5, y: -53.5}
-        - {x: 15.5, y: -52.5}
-        - {x: 16.5, y: -48.5}
-        - {x: 26.5, y: -35.5}
-    - name: chara03_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara03_eat1.png
       rect:
         serializedVersion: 2
-        x: 1733
-        y: 464
+        x: 1964
+        y: 497
         width: 80
         height: 124
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -24, y: 62}
-        - {x: -40, y: 42}
-        - {x: -40, y: -43}
-        - {x: -33, y: -62}
-        - {x: 29, y: -62}
-        - {x: 40, y: -16}
-        - {x: 40, y: 57}
-        - {x: 38, y: 62}
-    - name: chara03_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara03_eat2.png
       rect:
         serializedVersion: 2
-        x: 1967
-        y: 1135
+        x: 528
+        y: 962
         width: 77
         height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -27.5, y: 59}
-        - {x: -38.5, y: 30}
-        - {x: -38.5, y: -19}
-        - {x: -18.5, y: -59}
-        - {x: 32.5, y: -59}
-        - {x: 38.5, y: -39}
-        - {x: 38.5, y: 54}
-        - {x: 37.5, y: 59}
-    - name: chara03_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara03_move1.png
       rect:
         serializedVersion: 2
-        x: 1985
-        y: 273
+        x: 469
+        y: 1287
         width: 57
         height: 119
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 0.5, y: 59.5}
-        - {x: -11.5, y: 57.5}
-        - {x: -27.5, y: 53.5}
-        - {x: -28.5, y: 47.5}
-        - {x: -28.5, y: -18.5}
-        - {x: -18.5, y: -59.5}
-        - {x: 25.5, y: -59.5}
-        - {x: 28.5, y: -5.5}
-        - {x: 28.5, y: 55.5}
-        - {x: 25.5, y: 59.5}
-    - name: chara03_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara03_move2.png
       rect:
         serializedVersion: 2
-        x: 1042
-        y: 1163
+        x: 1021
+        y: 1554
         width: 57
         height: 120
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -28.5, y: 60}
-        - {x: -28.5, y: -60}
-        - {x: 25.5, y: -60}
-        - {x: 28.5, y: -42}
-        - {x: 28.5, y: 60}
-    - name: chara03_scare.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara03_scare.png
       rect:
         serializedVersion: 2
-        x: 1577
-        y: 1222
+        x: 1774
+        y: 727
         width: 93
         height: 125
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 32.5, y: 62.5}
-        - {x: -27.5, y: 62.5}
-        - {x: -46.5, y: 44.5}
-        - {x: -46.5, y: -38.5}
-        - {x: -33.5, y: -62.5}
-        - {x: 33.5, y: -62.5}
-        - {x: 39.5, y: -56.5}
-        - {x: 46.5, y: -13.5}
-        - {x: 46.5, y: 53.5}
-    - name: chara04_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara04_eat1.png
       rect:
         serializedVersion: 2
-        x: 188
-        y: 482
-        width: 53
-        height: 46
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -11.5, y: 23}
-        - {x: -26.5, y: 10}
-        - {x: -26.5, y: -22}
-        - {x: -19.5, y: -23}
-        - {x: 26.5, y: -23}
-        - {x: 26.5, y: 8}
-        - {x: 20.5, y: 23}
-    - name: chara04_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 1489
-        width: 53
-        height: 46
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -11.5, y: 23}
-        - {x: -26.5, y: 10}
-        - {x: -26.5, y: -22}
-        - {x: -19.5, y: -23}
-        - {x: 26.5, y: -23}
-        - {x: 26.5, y: 8}
-        - {x: 20.5, y: 23}
-    - name: chara04_move1.png
-      rect:
-        serializedVersion: 2
-        x: 1362
-        y: 1704
-        width: 123
-        height: 41
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -39.5, y: 20.5}
-        - {x: -61.5, y: 9.5}
-        - {x: -61.5, y: -17.5}
-        - {x: -56.5, y: -20.5}
-        - {x: 61.5, y: -20.5}
-        - {x: 61.5, y: 1.5}
-        - {x: 20.5, y: 20.5}
-    - name: chara04_move2.png
-      rect:
-        serializedVersion: 2
-        x: 1235
-        y: 1671
-        width: 123
-        height: 41
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -38.5, y: 20.5}
-        - {x: -58.5, y: 10.5}
-        - {x: -61.5, y: 7.5}
-        - {x: -61.5, y: -19.5}
-        - {x: -57.5, y: -20.5}
-        - {x: 60.5, y: -20.5}
-        - {x: 61.5, y: -19.5}
-        - {x: 61.5, y: 1.5}
-        - {x: 20.5, y: 20.5}
-    - name: chara05_eat1.png
-      rect:
-        serializedVersion: 2
-        x: 1390
-        y: 966
-        width: 70
-        height: 86
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 34, y: 37}
-        - {x: 27, y: 37}
-        - {x: 16, y: 43}
-        - {x: -29, y: 43}
-        - {x: -35, y: 38}
-        - {x: -35, y: -31}
-        - {x: -32, y: -41}
-        - {x: -26, y: -43}
-        - {x: 29, y: -43}
-        - {x: 35, y: -24}
-        - {x: 35, y: 36}
-    - name: chara05_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 425
-        y: 1340
-        width: 70
-        height: 82
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -31, y: 41}
-        - {x: -35, y: 38}
-        - {x: -35, y: -20}
-        - {x: -30, y: -41}
-        - {x: 30, y: -41}
-        - {x: 35, y: -27}
-        - {x: 35, y: 37}
-        - {x: 24, y: 41}
-    - name: chara05_move1.png
-      rect:
-        serializedVersion: 2
-        x: 1523
-        y: 1752
-        width: 127
-        height: 86
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 55.5, y: -40}
-        - {x: 63.5, y: -28}
-        - {x: 63.5, y: 7}
-        - {x: 41.5, y: 38}
-        - {x: 9.5, y: 43}
-        - {x: -32.5, y: 43}
-        - {x: -61.5, y: 34}
-        - {x: -63.5, y: 31}
-        - {x: -63.5, y: 2}
-        - {x: -58.5, y: -7}
-        - {x: -21.5, y: -41}
-        - {x: -16.5, y: -43}
-        - {x: 10.5, y: -43}
-        - {x: 14.5, y: -36}
-        - {x: 22.5, y: -43}
-        - {x: 49.5, y: -43}
-    - name: chara05_move2.png
-      rect:
-        serializedVersion: 2
-        x: 1391
-        y: 1749
-        width: 127
-        height: 86
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -63.5, y: 43}
-        - {x: -63.5, y: -18}
-        - {x: -48.5, y: -43}
-        - {x: 55.5, y: -43}
-        - {x: 63.5, y: -25}
-        - {x: 63.5, y: 16}
-        - {x: 29.5, y: 43}
-    - name: chara06_eat1.png
-      rect:
-        serializedVersion: 2
-        x: 932
-        y: 1272
-        width: 106
+        x: 794
+        y: 1216
+        width: 80
         height: 105
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8, y: 52.5}
-        - {x: -53, y: 6.5}
-        - {x: -53, y: -26.5}
-        - {x: -38, y: -46.5}
-        - {x: -27, y: -52.5}
-        - {x: 35, y: -52.5}
-        - {x: 53, y: -25.5}
-        - {x: 53, y: -6.5}
-        - {x: 7, y: 52.5}
-    - name: chara06_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara04_eat2.png
       rect:
         serializedVersion: 2
-        x: 1560
-        y: 754
-        width: 89
-        height: 107
+        x: 614
+        y: 1124
+        width: 80
+        height: 104
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -6.5, y: 53.5}
-        - {x: -44.5, y: 7.5}
-        - {x: -44.5, y: -32.5}
-        - {x: -26.5, y: -53.5}
-        - {x: 34.5, y: -53.5}
-        - {x: 44.5, y: -43.5}
-        - {x: 44.5, y: 3.5}
-        - {x: 8.5, y: 53.5}
-    - name: chara06_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara04_move1.png
       rect:
         serializedVersion: 2
-        x: 708
-        y: 1497
-        width: 109
-        height: 100
+        x: 690
+        y: 869
+        width: 76
+        height: 108
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8.5, y: 50}
-        - {x: -54.5, y: -6}
-        - {x: -54.5, y: -27}
-        - {x: -18.5, y: -50}
-        - {x: 39.5, y: -50}
-        - {x: 54.5, y: -36}
-        - {x: 54.5, y: -3}
-        - {x: 10.5, y: 50}
-    - name: chara06_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara04_move2.png
       rect:
         serializedVersion: 2
-        x: 1753
-        y: 911
-        width: 89
-        height: 118
+        x: 515
+        y: 847
+        width: 75
+        height: 111
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 15.5, y: 59}
-        - {x: -27.5, y: 59}
-        - {x: -44.5, y: 14}
-        - {x: -44.5, y: -47}
-        - {x: -26.5, y: -59}
-        - {x: 11.5, y: -59}
-        - {x: 44.5, y: -24}
-        - {x: 44.5, y: -14}
-    - name: chara06_scare.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara04_scare.png
       rect:
         serializedVersion: 2
-        x: 1654
-        y: 1698
-        width: 126
-        height: 92
+        x: 367
+        y: 1119
+        width: 80
+        height: 108
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 17, y: 46}
-        - {x: -8, y: 46}
-        - {x: -62, y: 11}
-        - {x: -63, y: 7}
-        - {x: -63, y: -13}
-        - {x: -7, y: -46}
-        - {x: 13, y: -46}
-        - {x: 21, y: -38}
-        - {x: 63, y: -15}
-        - {x: 63, y: -3}
-    - name: chara07_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara05_eat1.png
       rect:
         serializedVersion: 2
-        x: 1737
-        y: 1479
-        width: 39
-        height: 126
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -15.5, y: 63}
-        - {x: -19.5, y: 53}
-        - {x: -19.5, y: -63}
-        - {x: 19.5, y: -63}
-        - {x: 19.5, y: 60}
-        - {x: 16.5, y: 63}
-    - name: chara07_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 2001
-        y: 635
-        width: 39
-        height: 97
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -6.5, y: 42.5}
-        - {x: -19.5, y: 26.5}
-        - {x: -19.5, y: -43.5}
-        - {x: -18.5, y: -48.5}
-        - {x: 19.5, y: -48.5}
-        - {x: 19.5, y: 29.5}
-        - {x: 6.5, y: 42.5}
-      - - {x: 3.5, y: 43.5}
-        - {x: 6.5, y: 44.5}
-        - {x: 6.5, y: 47.5}
-        - {x: 3.5, y: 48.5}
-        - {x: 1.5, y: 46.5}
-    - name: chara07_move1.png
-      rect:
-        serializedVersion: 2
-        x: 1778
-        y: 1267
-        width: 114
+        x: 323
+        y: 1693
+        width: 101
         height: 128
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 26, y: -64}
-        - {x: 28, y: -56}
-        - {x: 28, y: -53}
-        - {x: 32, y: -45}
-        - {x: 28, y: -55}
-        - {x: 28, y: -58}
-        - {x: 30, y: -60}
-        - {x: 37, y: -61}
-        - {x: 57, y: -56}
-        - {x: 57, y: 17}
-        - {x: 19, y: 64}
-        - {x: -49, y: 64}
-        - {x: -57, y: 56}
-        - {x: -57, y: 23}
-        - {x: -27, y: -39}
-        - {x: -7, y: -64}
-        - {x: 6, y: -64}
-        - {x: 9, y: -63}
-        - {x: 13, y: -50}
-        - {x: 12, y: -64}
-    - name: chara07_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara05_eat2.png
       rect:
         serializedVersion: 2
-        x: 1896
-        y: 1257
-        width: 114
-        height: 128
+        x: 533
+        y: 1555
+        width: 101
+        height: 123
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 28, y: -57}
-        - {x: 43, y: -64}
-        - {x: 57, y: -64}
-        - {x: 57, y: 10}
-        - {x: 14, y: 64}
-        - {x: -52, y: 64}
-        - {x: -57, y: 59}
-        - {x: -57, y: 16}
-        - {x: -29, y: -42}
-        - {x: -10, y: -64}
-        - {x: 6, y: -64}
-        - {x: 6, y: -40}
-        - {x: 11, y: -64}
-        - {x: 25, y: -64}
-    - name: chara08_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara05_move1.png
       rect:
         serializedVersion: 2
-        x: 1478
-        y: 1185
-        width: 93
-        height: 121
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -44.5, y: 60.5}
-        - {x: -46.5, y: 48.5}
-        - {x: -46.5, y: -52.5}
-        - {x: -40.5, y: -60.5}
-        - {x: 42.5, y: -60.5}
-        - {x: 46.5, y: -51.5}
-        - {x: 46.5, y: 12.5}
-        - {x: 37.5, y: 60.5}
-    - name: chara08_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 1817
-        y: 345
-        width: 80
-        height: 117
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -28, y: 58.5}
-        - {x: -40, y: 43.5}
-        - {x: -40, y: -58.5}
-        - {x: 39, y: -58.5}
-        - {x: 40, y: -54.5}
-        - {x: 40, y: 35.5}
-        - {x: 35, y: 58.5}
-    - name: chara08_move1.png
-      rect:
-        serializedVersion: 2
-        x: 1901
-        y: 377
-        width: 80
-        height: 120
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -37, y: 60}
-        - {x: -40, y: 57}
-        - {x: -40, y: -14}
-        - {x: -26, y: -60}
-        - {x: 40, y: -60}
-        - {x: 40, y: 16}
-        - {x: 31, y: 60}
-    - name: chara08_move2.png
-      rect:
-        serializedVersion: 2
-        x: 1817
-        y: 466
+        x: 380
+        y: 1231
         width: 80
         height: 122
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 20, y: 61}
-        - {x: -27, y: 61}
-        - {x: -40, y: 56}
-        - {x: -40, y: -22}
-        - {x: -27, y: -61}
-        - {x: 40, y: -61}
-        - {x: 40, y: -14}
-        - {x: 26, y: 59}
-    - name: chara08_scare.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara05_move2.png
       rect:
         serializedVersion: 2
-        x: 1108
-        y: 1703
-        width: 123
-        height: 123
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 61.5, y: 17.5}
-        - {x: 38.5, y: 61.5}
-        - {x: -44.5, y: 61.5}
-        - {x: -61.5, y: 48.5}
-        - {x: -61.5, y: -48.5}
-        - {x: -57.5, y: -61.5}
-        - {x: 37.5, y: -61.5}
-        - {x: 38.5, y: -60.5}
-        - {x: 34.5, y: -39.5}
-        - {x: 61.5, y: -12.5}
-    - name: chara09_eat1.png
-      rect:
-        serializedVersion: 2
-        x: 1295
-        y: 890
-        width: 90
-        height: 125
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -45, y: 5.5}
-        - {x: -45, y: -62.5}
-        - {x: 45, y: -62.5}
-        - {x: 45, y: 5.5}
-        - {x: 40, y: 35.5}
-        - {x: 15, y: 62.5}
-        - {x: -21, y: 62.5}
-        - {x: -30, y: 60.5}
-    - name: chara09_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 1873
-        y: 1128
-        width: 90
-        height: 125
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -23, y: 62.5}
-        - {x: -45, y: 10.5}
-        - {x: -45, y: -62.5}
-        - {x: 45, y: -62.5}
-        - {x: 45, y: 22.5}
-        - {x: 34, y: 62.5}
-    - name: chara09_move1.png
-      rect:
-        serializedVersion: 2
-        x: 1229
-        y: 1541
-        width: 121
+        x: 869
+        y: 1079
+        width: 78
         height: 126
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 54.5, y: -58}
-        - {x: 60.5, y: -52}
-        - {x: 60.5, y: 7}
-        - {x: 6.5, y: 63}
-        - {x: -45.5, y: 63}
-        - {x: -53.5, y: 58}
-        - {x: -60.5, y: 34}
-        - {x: -60.5, y: 4}
-        - {x: -59.5, y: 1}
-        - {x: -32.5, y: -61}
-        - {x: -26.5, y: -63}
-        - {x: 5.5, y: -63}
-        - {x: 6.5, y: -58}
-        - {x: 7.5, y: -63}
-        - {x: 46.5, y: -63}
-    - name: chara09_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara05_scare.png
       rect:
         serializedVersion: 2
-        x: 1919
-        y: 1918
-        width: 125
-        height: 126
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 4.5, y: -58}
-        - {x: 9.5, y: -63}
-        - {x: 19.5, y: -62}
-        - {x: 23.5, y: -63}
-        - {x: 61.5, y: -63}
-        - {x: 62.5, y: -61}
-        - {x: 62.5, y: 2}
-        - {x: 0.5, y: 63}
-        - {x: -48.5, y: 63}
-        - {x: -62.5, y: 58}
-        - {x: -62.5, y: -23}
-        - {x: -40.5, y: -63}
-        - {x: -5.5, y: -63}
-        - {x: 1.5, y: -60}
-        - {x: 4.5, y: -56}
-        - {x: 3.5, y: -48}
-        - {x: 4.5, y: -55}
-    - name: chara10_eat1.png
-      rect:
-        serializedVersion: 2
-        x: 1829
-        y: 678
-        width: 82
-        height: 113
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 26, y: 56.5}
-        - {x: -25, y: 56.5}
-        - {x: -41, y: 37.5}
-        - {x: -41, y: -29.5}
-        - {x: -30, y: -56.5}
-        - {x: 36, y: -56.5}
-        - {x: 41, y: -23.5}
-        - {x: 41, y: 33.5}
-    - name: chara10_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 1647
-        y: 532
-        width: 82
-        height: 103
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18, y: 51.5}
-        - {x: -41, y: 44.5}
-        - {x: -41, y: -28.5}
-        - {x: -29, y: -51.5}
-        - {x: 33, y: -51.5}
-        - {x: 41, y: -22.5}
-        - {x: 41, y: 33.5}
-        - {x: 29, y: 51.5}
-    - name: chara10_move1.png
-      rect:
-        serializedVersion: 2
-        x: 1259
-        y: 1940
-        width: 128
-        height: 104
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -44, y: 52}
-        - {x: -50, y: 51}
-        - {x: -64, y: 31}
-        - {x: -64, y: -52}
-        - {x: 64, y: -52}
-        - {x: 64, y: 12}
-        - {x: -6, y: 52}
-    - name: chara10_move2.png
-      rect:
-        serializedVersion: 2
-        x: 1391
-        y: 1940
-        width: 128
-        height: 104
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -6, y: 52}
-        - {x: -53, y: 52}
-        - {x: -64, y: 20}
-        - {x: -64, y: -19}
-        - {x: -61, y: -29}
-        - {x: -51, y: -52}
-        - {x: 64, y: -52}
-        - {x: 64, y: -8}
-        - {x: 52, y: 19}
-    - name: chara11_eat1.png
-      rect:
-        serializedVersion: 2
-        x: 492
-        y: 1255
-        width: 52
-        height: 79
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -26, y: 39.5}
-        - {x: -26, y: -16.5}
-        - {x: -19, y: -34.5}
-        - {x: -17, y: -39.5}
-        - {x: 17, y: -39.5}
-        - {x: 20, y: -37.5}
-        - {x: 26, y: -20.5}
-        - {x: 26, y: 39.5}
-    - name: chara11_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 1985
-        y: 396
-        width: 58
-        height: 79
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -9, y: 39.5}
-        - {x: -27, y: 23.5}
-        - {x: -29, y: 4.5}
-        - {x: -29, y: -18.5}
-        - {x: -28, y: -19.5}
-        - {x: -19, y: -39.5}
-        - {x: 29, y: -39.5}
-        - {x: 29, y: 34.5}
-        - {x: 18, y: 39.5}
-    - name: chara11_move1.png
-      rect:
-        serializedVersion: 2
-        x: 1846
-        y: 919
-        width: 89
-        height: 76
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 17.5, y: 38}
-        - {x: 10.5, y: 37}
-        - {x: 7.5, y: 38}
-        - {x: -31.5, y: 38}
-        - {x: -44.5, y: 30}
-        - {x: -44.5, y: -11}
-        - {x: -42.5, y: -17}
-        - {x: -29.5, y: -38}
-        - {x: 44.5, y: -38}
-        - {x: 44.5, y: 30}
-        - {x: 34.5, y: 38}
-    - name: chara11_move2.png
-      rect:
-        serializedVersion: 2
-        x: 1939
-        y: 844
-        width: 89
-        height: 76
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -44.5, y: 38}
-        - {x: -44.5, y: -14}
-        - {x: -24.5, y: -38}
-        - {x: -15.5, y: -38}
-        - {x: -13.5, y: -37}
-        - {x: -9.5, y: -32}
-        - {x: -10.5, y: -35}
-        - {x: -7.5, y: -38}
-        - {x: 44.5, y: -38}
-        - {x: 44.5, y: 36}
-        - {x: 35.5, y: 38}
-    - name: chara12_eat1.png
-      rect:
-        serializedVersion: 2
-        x: 1728
-        y: 1386
-        width: 46
-        height: 89
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -23, y: 44.5}
-        - {x: -23, y: -44.5}
-        - {x: 20, y: -44.5}
-        - {x: 23, y: -30.5}
-        - {x: 23, y: 44.5}
-    - name: chara12_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 1728
-        y: 1313
-        width: 45
-        height: 69
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -22.5, y: 34.5}
-        - {x: -22.5, y: -34.5}
-        - {x: 20.5, y: -34.5}
-        - {x: 22.5, y: -25.5}
-        - {x: 22.5, y: 28.5}
-        - {x: 21.5, y: 34.5}
-    - name: chara12_move1.png
-      rect:
-        serializedVersion: 2
-        x: 1478
-        y: 1310
-        width: 95
-        height: 87
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -32.5, y: 43.5}
-        - {x: -47.5, y: 21.5}
-        - {x: -47.5, y: -15.5}
-        - {x: -23.5, y: -43.5}
-        - {x: 47.5, y: -43.5}
-        - {x: 47.5, y: 22.5}
-        - {x: 13.5, y: 43.5}
-    - name: chara12_move2.png
-      rect:
-        serializedVersion: 2
-        x: 1324
-        y: 1265
-        width: 95
-        height: 87
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 47.5, y: -43.5}
-        - {x: 47.5, y: 19.5}
-        - {x: 38.5, y: 34.5}
-        - {x: 7.5, y: 43.5}
-        - {x: -28.5, y: 43.5}
-        - {x: -41.5, y: 28.5}
-        - {x: -47.5, y: 14.5}
-        - {x: -47.5, y: -14.5}
-        - {x: -27.5, y: -43.5}
-        - {x: -9.5, y: -43.5}
-        - {x: -6.5, y: -39.5}
-        - {x: -2.5, y: -43.5}
-    - name: chara13_eat1.png
-      rect:
-        serializedVersion: 2
-        x: 154
-        y: 532
-        width: 64
-        height: 86
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -21, y: -36}
-        - {x: -23, y: -39}
-        - {x: -23, y: -43}
-        - {x: 16, y: -43}
-        - {x: 16, y: -40}
-        - {x: 14, y: -36}
-      - - {x: -24, y: 43}
-        - {x: -32, y: 35}
-        - {x: -32, y: -14}
-        - {x: -20, y: -27}
-        - {x: 14, y: -27}
-        - {x: 32, y: -19}
-        - {x: 32, y: 29}
-        - {x: 8, y: 43}
-    - name: chara13_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 499
-        y: 1338
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -24, y: -33}
-        - {x: -26, y: -37}
-        - {x: -26, y: -40}
-        - {x: 18, y: -40}
-        - {x: 18, y: -35}
-        - {x: 14, y: -33}
-      - - {x: -25, y: 40}
-        - {x: -32, y: 34}
-        - {x: -32, y: -21}
-        - {x: -18, y: -27}
-        - {x: 19, y: -27}
-        - {x: 32, y: -19}
-        - {x: 32, y: 30}
-        - {x: 9, y: 40}
-    - name: chara13_move1.png
-      rect:
-        serializedVersion: 2
-        x: 83
-        y: 532
-        width: 67
-        height: 86
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -17.5, y: -36}
-        - {x: -19.5, y: -40}
-        - {x: -19.5, y: -42}
-        - {x: -18.5, y: -43}
-        - {x: 19.5, y: -43}
-        - {x: 19.5, y: -39}
-        - {x: 18.5, y: -36}
-      - - {x: 6.5, y: 43}
-        - {x: -24.5, y: 43}
-        - {x: -24.5, y: 42}
-        - {x: -33.5, y: 30}
-        - {x: -33.5, y: -11}
-        - {x: -29.5, y: -25}
-        - {x: 21.5, y: -25}
-        - {x: 33.5, y: -18}
-        - {x: 33.5, y: 24}
-        - {x: 16.5, y: 39}
-    - name: chara13_move2.png
-      rect:
-        serializedVersion: 2
-        x: 221
-        y: 756
-        width: 67
-        height: 89
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -13.5, y: -37.5}
-        - {x: -16.5, y: -41.5}
-        - {x: -16.5, y: -42.5}
-        - {x: -14.5, y: -44.5}
-        - {x: 14.5, y: -44.5}
-        - {x: 15.5, y: -43.5}
-        - {x: 15.5, y: -37.5}
-      - - {x: 22.5, y: 16.5}
-        - {x: 14.5, y: 38.5}
-        - {x: 6.5, y: 44.5}
-        - {x: -28.5, y: 44.5}
-        - {x: -33.5, y: 29.5}
-        - {x: -33.5, y: -12.5}
-        - {x: -26.5, y: -23.5}
-        - {x: 24.5, y: -23.5}
-        - {x: 33.5, y: -11.5}
-        - {x: 33.5, y: 25.5}
-        - {x: 28.5, y: 23.5}
-    - name: chara13_scare.png
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 1069
-        width: 65
-        height: 90
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 9.5, y: -38}
-        - {x: -17.5, y: -38}
-        - {x: -19.5, y: -42}
-        - {x: -19.5, y: -45}
-        - {x: 11.5, y: -45}
-        - {x: 12.5, y: -44}
-        - {x: 12.5, y: -40}
-      - - {x: 13.5, y: 45}
-        - {x: -18.5, y: 45}
-        - {x: -32.5, y: 38}
-        - {x: -32.5, y: -14}
-        - {x: -19.5, y: -25}
-        - {x: 14.5, y: -25}
-        - {x: 22.5, y: -24}
-        - {x: 30.5, y: -12}
-        - {x: 32.5, y: -1}
-        - {x: 32.5, y: 26}
-    - name: chara14_eat1.png
-      rect:
-        serializedVersion: 2
-        x: 163
-        y: 755
-        width: 54
-        height: 94
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -27, y: 47}
-        - {x: -27, y: -47}
-        - {x: 27, y: -47}
-        - {x: 27, y: 47}
-    - name: chara14_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 214
-        y: 654
-        width: 54
-        height: 94
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -27, y: 47}
-        - {x: -27, y: -47}
-        - {x: 27, y: -47}
-        - {x: 27, y: 47}
-    - name: chara14_move1.png
-      rect:
-        serializedVersion: 2
-        x: 1466
-        y: 858
-        width: 90
-        height: 82
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -45, y: 0}
-        - {x: -45, y: -25}
-        - {x: -32, y: -41}
-        - {x: 45, y: -41}
-        - {x: 45, y: 13}
-        - {x: 42, y: 19}
-        - {x: 19, y: 41}
-        - {x: -11, y: 41}
-        - {x: -40, y: 22}
-    - name: chara14_move2.png
-      rect:
-        serializedVersion: 2
-        x: 1748
-        y: 828
-        width: 88
-        height: 79
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 11, y: 39.5}
-        - {x: -11, y: 39.5}
-        - {x: -44, y: 1.5}
-        - {x: -44, y: -25.5}
-        - {x: -22, y: -39.5}
-        - {x: 42, y: -39.5}
-        - {x: 44, y: -32.5}
-        - {x: 44, y: 19.5}
-        - {x: 23, y: 36.5}
-    - name: chara15_eat1.png
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 1069
-        width: 67
-        height: 91
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 7.5, y: 45.5}
-        - {x: -19.5, y: 45.5}
-        - {x: -25.5, y: 44.5}
-        - {x: -33.5, y: 17.5}
-        - {x: -33.5, y: -38.5}
-        - {x: -28.5, y: -45.5}
-        - {x: 23.5, y: -45.5}
-        - {x: 33.5, y: -33.5}
-        - {x: 33.5, y: 5.5}
-        - {x: 22.5, y: 31.5}
-    - name: chara15_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 226
-        y: 866
-        width: 67
-        height: 88
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 16.5, y: 42}
-        - {x: 5.5, y: 44}
-        - {x: -12.5, y: 44}
-        - {x: -22.5, y: 36}
-        - {x: -33.5, y: 9}
-        - {x: -33.5, y: -41}
-        - {x: -32.5, y: -44}
-        - {x: 31.5, y: -44}
-        - {x: 33.5, y: -29}
-        - {x: 33.5, y: -5}
-        - {x: 24.5, y: 21}
-    - name: chara15_move1.png
-      rect:
-        serializedVersion: 2
-        x: 217
-        y: 1069
-        width: 65
-        height: 92
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -0.5, y: 46}
-        - {x: -18.5, y: 46}
-        - {x: -32.5, y: 32}
-        - {x: -32.5, y: -41}
-        - {x: -11.5, y: -46}
-        - {x: 32.5, y: -46}
-        - {x: 32.5, y: 4}
-        - {x: 11.5, y: 42}
-    - name: chara15_move2.png
-      rect:
-        serializedVersion: 2
-        x: 1398
-        y: 1056
-        width: 64
-        height: 92
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 6, y: 46}
-        - {x: -30, y: 46}
-        - {x: -32, y: 45}
-        - {x: -32, y: -46}
-        - {x: 20, y: -46}
-        - {x: 32, y: -41}
-        - {x: 32, y: 10}
-        - {x: 30, y: 35}
-    - name: chara16_eat1.png
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 1399
-        width: 69
-        height: 66
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -14.5, y: 33}
-        - {x: -34.5, y: 9}
-        - {x: -34.5, y: -33}
-        - {x: 34.5, y: -33}
-        - {x: 34.5, y: 7}
-        - {x: 16.5, y: 33}
-    - name: chara16_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 466
-        width: 67
-        height: 62
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -13.5, y: 31}
-        - {x: -32.5, y: 20}
-        - {x: -33.5, y: 9}
-        - {x: -33.5, y: -31}
-        - {x: 33.5, y: -31}
-        - {x: 33.5, y: 15}
-        - {x: 20.5, y: 31}
-    - name: chara16_move1.png
-      rect:
-        serializedVersion: 2
-        x: 1787
-        y: 1803
-        width: 127
-        height: 54
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -59.5, y: 27}
-        - {x: -63.5, y: 18}
-        - {x: -63.5, y: -21}
-        - {x: -57.5, y: -27}
-        - {x: 60.5, y: -27}
-        - {x: 63.5, y: -22}
-        - {x: 63.5, y: 6}
-        - {x: -16.5, y: 27}
-    - name: chara16_move2.png
-      rect:
-        serializedVersion: 2
-        x: 1259
-        y: 1776
-        width: 127
-        height: 58
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -59.5, y: 29}
-        - {x: -63.5, y: 25}
-        - {x: -63.5, y: -17}
-        - {x: -56.5, y: -29}
-        - {x: 63.5, y: -29}
-        - {x: 63.5, y: 6}
-        - {x: -12.5, y: 29}
-    - name: chara17_eat1.png
-      rect:
-        serializedVersion: 2
-        x: 1674
-        y: 1282
-        width: 50
-        height: 65
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -15, y: 32.5}
-        - {x: -25, y: 4.5}
-        - {x: -25, y: -29.5}
-        - {x: -20, y: -32.5}
-        - {x: 25, y: -32.5}
-        - {x: 25, y: 32.5}
-    - name: chara17_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 75
-        y: 466
-        width: 52
-        height: 62
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -19, y: 29}
-        - {x: -26, y: 9}
-        - {x: -26, y: -22}
-        - {x: -16, y: -31}
-        - {x: 23, y: -31}
-        - {x: 26, y: -21}
-        - {x: 26, y: 29}
-    - name: chara17_move1.png
-      rect:
-        serializedVersion: 2
-        x: 1655
-        y: 1794
-        width: 128
-        height: 63
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -56, y: 31.5}
-        - {x: -64, y: 30.5}
-        - {x: -64, y: -25.5}
-        - {x: -62, y: -31.5}
-        - {x: 52, y: -31.5}
-        - {x: 64, y: 3.5}
-        - {x: 64, y: 30.5}
-        - {x: 32, y: 31.5}
-    - name: chara17_move2.png
-      rect:
-        serializedVersion: 2
-        x: 708
-        y: 1713
-        width: 124
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 62, y: 32}
-        - {x: -48, y: 32}
-        - {x: -62, y: 20}
-        - {x: -62, y: 3}
-        - {x: -12, y: -32}
-        - {x: 25, y: -32}
-        - {x: 40, y: -20}
-        - {x: 60, y: 6}
-        - {x: 62, y: 9}
-    - name: chara18_eat1.png
-      rect:
-        serializedVersion: 2
-        x: 154
-        y: 969
-        width: 67
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -33.5, y: 48}
-        - {x: -33.5, y: -48}
-        - {x: 33.5, y: -48}
-        - {x: 33.5, y: 45}
-        - {x: 28.5, y: 48}
-    - name: chara18_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 281
-        y: 1172
-        width: 67
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -33.5, y: 48}
-        - {x: -33.5, y: -48}
-        - {x: 32.5, y: -48}
-        - {x: 33.5, y: -44}
-        - {x: 33.5, y: 29}
-        - {x: 23.5, y: 48}
-    - name: chara18_move1.png
-      rect:
-        serializedVersion: 2
-        x: 1915
-        y: 632
-        width: 82
-        height: 100
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -16, y: 50}
-        - {x: -41, y: 36}
-        - {x: -41, y: -38}
-        - {x: -39, y: -40}
-        - {x: -26, y: -49}
-        - {x: -24, y: -50}
-        - {x: 40, y: -50}
-        - {x: 41, y: -48}
-        - {x: 41, y: 30}
-        - {x: 28, y: 50}
-    - name: chara18_move2.png
-      rect:
-        serializedVersion: 2
-        x: 1967
-        y: 1031
-        width: 77
-        height: 100
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 21.5, y: 16}
-        - {x: 20.5, y: 13}
-        - {x: 18.5, y: -2}
-        - {x: 20.5, y: 12}
-        - {x: 8.5, y: 44}
-        - {x: 4.5, y: 50}
-        - {x: -38.5, y: 50}
-        - {x: -38.5, y: -50}
-        - {x: 16.5, y: -50}
-        - {x: 33.5, y: -45}
-        - {x: 38.5, y: -30}
-        - {x: 38.5, y: 15}
-        - {x: 33.5, y: 26}
-    - name: chara19_eat1.png
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 532
-        width: 75
-        height: 86
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -37.5, y: 43}
-        - {x: -37.5, y: -27}
-        - {x: -36.5, y: -30}
-        - {x: -28.5, y: -43}
-        - {x: 36.5, y: -43}
-        - {x: 37.5, y: -37}
-        - {x: 37.5, y: 43}
-    - name: chara19_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 71
-        y: 257
-        width: 75
-        height: 85
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -37.5, y: 42.5}
-        - {x: -37.5, y: -41.5}
-        - {x: -31.5, y: -42.5}
-        - {x: 36.5, y: -42.5}
-        - {x: 37.5, y: -41.5}
-        - {x: 37.5, y: 42.5}
-    - name: chara19_move1.png
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 1447
-        width: 62
-        height: 88
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -15, y: 44}
-        - {x: -25, y: 32}
-        - {x: -29, y: 25}
-        - {x: -31, y: 20}
-        - {x: -31, y: -43}
-        - {x: -30, y: -44}
-        - {x: 31, y: -44}
-        - {x: 31, y: 38}
-        - {x: 26, y: 44}
-    - name: chara19_move2.png
-      rect:
-        serializedVersion: 2
-        x: 567
-        y: 1326
-        width: 62
-        height: 88
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -16, y: 44}
-        - {x: -31, y: 27}
-        - {x: -31, y: -44}
-        - {x: 28, y: -44}
-        - {x: 31, y: -41}
-        - {x: 31, y: 30}
-        - {x: 23, y: 44}
-    - name: chara20_eat1.png
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 1548
-        width: 73
-        height: 102
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 24.5, y: 51}
-        - {x: -26.5, y: 51}
-        - {x: -36.5, y: 49}
-        - {x: -36.5, y: -51}
-        - {x: 36.5, y: -51}
-        - {x: 36.5, y: -5}
-        - {x: 32.5, y: 38}
-    - name: chara20_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 647
-        width: 75
-        height: 101
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -29.5, y: 50.5}
-        - {x: -37.5, y: 15.5}
-        - {x: -37.5, y: -50.5}
-        - {x: 37.5, y: -50.5}
-        - {x: 37.5, y: -17.5}
-        - {x: 27.5, y: 42.5}
-        - {x: 16.5, y: 50.5}
-    - name: chara20_move1.png
-      rect:
-        serializedVersion: 2
-        x: 612
-        y: 1418
-        width: 92
-        height: 124
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 33, y: 26}
-        - {x: 15, y: 58}
-        - {x: -2, y: 62}
-        - {x: -46, y: 62}
-        - {x: -46, y: -43}
-        - {x: -44, y: -62}
-        - {x: 34, y: -62}
-        - {x: 46, y: -10}
-        - {x: 46, y: 18}
-        - {x: 44, y: 23}
-    - name: chara20_move2.png
-      rect:
-        serializedVersion: 2
-        x: 1659
-        y: 953
-        width: 90
-        height: 124
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 28, y: 62}
-        - {x: -37, y: 62}
-        - {x: -45, y: 47}
-        - {x: -45, y: -15}
-        - {x: -29, y: -62}
-        - {x: 36, y: -62}
-        - {x: 41, y: -50}
-        - {x: 41, y: 59}
-        - {x: 38, y: 60}
-    - name: chara21_eat1.png
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 849
-        width: 75
-        height: 105
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -15.5, y: 52.5}
-        - {x: -37.5, y: 5.5}
-        - {x: -37.5, y: -40.5}
-        - {x: -32.5, y: -52.5}
-        - {x: 28.5, y: -52.5}
-        - {x: 37.5, y: -30.5}
-        - {x: 37.5, y: -1.5}
-        - {x: 12.5, y: 52.5}
-    - name: chara21_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 147
-        y: 853
-        width: 75
-        height: 101
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 15.5, y: 41.5}
-        - {x: 10.5, y: 50.5}
-        - {x: -13.5, y: 50.5}
-        - {x: -29.5, y: 41.5}
-        - {x: -37.5, y: -5.5}
-        - {x: -37.5, y: -29.5}
-        - {x: -25.5, y: -50.5}
-        - {x: 27.5, y: -50.5}
-        - {x: 36.5, y: -25.5}
-        - {x: 37.5, y: -22.5}
-        - {x: 37.5, y: -10.5}
-    - name: chara21_move1.png
-      rect:
-        serializedVersion: 2
-        x: 1778
-        y: 1399
-        width: 115
-        height: 60
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -30.5, y: 30}
-        - {x: -43.5, y: 22}
-        - {x: -57.5, y: 2}
-        - {x: -57.5, y: -17}
-        - {x: -39.5, y: -30}
-        - {x: 57.5, y: -30}
-        - {x: 57.5, y: 30}
-    - name: chara21_move2.png
-      rect:
-        serializedVersion: 2
-        x: 1905
-        y: 1521
-        width: 116
-        height: 49
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -58, y: -13.5}
-        - {x: -47, y: -24.5}
-        - {x: 58, y: -24.5}
-        - {x: 58, y: 12.5}
-        - {x: 51, y: 24.5}
-        - {x: -54, y: 24.5}
-        - {x: -58, y: 13.5}
-    - name: chara22_eat1.png
-      rect:
-        serializedVersion: 2
-        x: 634
-        y: 1661
-        width: 70
-        height: 112
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 35, y: -11}
-        - {x: 35, y: 42}
-        - {x: 34, y: 52}
-        - {x: 22, y: 56}
-        - {x: -14, y: 56}
-        - {x: -35, y: 42}
-        - {x: -35, y: -46}
-        - {x: -23, y: -56}
-        - {x: 14, y: -56}
-        - {x: 16, y: -55}
-        - {x: 22, y: -40}
-        - {x: 33, y: -17}
-    - name: chara22_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 634
-        y: 1546
-        width: 70
-        height: 111
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 16, y: 55.5}
-        - {x: -11, y: 55.5}
-        - {x: -33, y: 36.5}
-        - {x: -35, y: 31.5}
-        - {x: -35, y: -37.5}
-        - {x: -30, y: -55.5}
-        - {x: 32, y: -55.5}
-        - {x: 35, y: -46.5}
-        - {x: 35, y: 37.5}
-        - {x: 31, y: 49.5}
-    - name: chara22_move1.png
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 349
-        width: 76
-        height: 111
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 25, y: 52.5}
-        - {x: 17, y: 55.5}
-        - {x: -5, y: 55.5}
-        - {x: -26, y: 50.5}
-        - {x: -38, y: 36.5}
-        - {x: -38, y: -43.5}
-        - {x: -27, y: -55.5}
-        - {x: 22, y: -55.5}
-        - {x: 33, y: -37.5}
-        - {x: 38, y: -6.5}
-        - {x: 38, y: 43.5}
-    - name: chara22_move2.png
-      rect:
-        serializedVersion: 2
-        x: 1389
-        y: 849
-        width: 73
-        height: 113
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -36.5, y: 56.5}
-        - {x: -36.5, y: -44.5}
-        - {x: -32.5, y: -56.5}
-        - {x: 15.5, y: -56.5}
-        - {x: 31.5, y: -26.5}
-        - {x: 36.5, y: 0.5}
-        - {x: 36.5, y: 56.5}
-    - name: chara22_scare.png
-      rect:
-        serializedVersion: 2
-        x: 1901
-        y: 257
-        width: 80
-        height: 116
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -16, y: 58}
-        - {x: -40, y: 32}
-        - {x: -40, y: -43}
-        - {x: -33, y: -58}
-        - {x: 16, y: -58}
-        - {x: 40, y: -11}
-        - {x: 40, y: 37}
-        - {x: 24, y: 58}
-    - name: chara23_eat1.png
-      rect:
-        serializedVersion: 2
-        x: 1906
-        y: 501
-        width: 81
-        height: 127
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -24.5, y: 63.5}
-        - {x: -40.5, y: 15.5}
-        - {x: -40.5, y: -6.5}
-        - {x: -34.5, y: -41.5}
-        - {x: -23.5, y: -47.5}
-        - {x: -20.5, y: -62.5}
-        - {x: -20.5, y: -63.5}
-        - {x: 27.5, y: -63.5}
-        - {x: 40.5, y: -30.5}
-        - {x: 40.5, y: 63.5}
-    - name: chara23_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 1742
-        y: 700
-        width: 83
-        height: 124
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -25.5, y: 62}
-        - {x: -41.5, y: 29}
-        - {x: -41.5, y: -27}
-        - {x: -29.5, y: -62}
-        - {x: 31.5, y: -62}
-        - {x: 41.5, y: -14}
-        - {x: 41.5, y: 53}
-        - {x: 28.5, y: 62}
-    - name: chara23_move1.png
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 1272
-        width: 60
-        height: 121
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -28, y: 60.5}
-        - {x: -30, y: 58.5}
-        - {x: -30, y: -28.5}
-        - {x: -26, y: -60.5}
-        - {x: 25, y: -60.5}
-        - {x: 30, y: -39.5}
-        - {x: 30, y: 56.5}
-        - {x: 21, y: 60.5}
-    - name: chara23_move2.png
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 625
-        width: 60
-        height: 123
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -19, y: 61.5}
-        - {x: -30, y: 48.5}
-        - {x: -30, y: -31.5}
-        - {x: -21, y: -61.5}
-        - {x: 22, y: -61.5}
-        - {x: 30, y: -39.5}
-        - {x: 30, y: 44.5}
-        - {x: 24, y: 61.5}
-    - name: chara23_scare.png
-      rect:
-        serializedVersion: 2
-        x: 1103
-        y: 1200
+        x: 1944
+        y: 1108
         width: 98
         height: 128
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -9, y: 64}
-        - {x: -14, y: 54}
-        - {x: -18, y: 41}
-        - {x: -49, y: 36}
-        - {x: -49, y: 21}
-        - {x: -30, y: -38}
-        - {x: -19, y: -64}
-        - {x: 25, y: -64}
-        - {x: 49, y: -58}
-        - {x: 49, y: 62}
-        - {x: 31, y: 64}
-    - name: chara24_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara06_eat1.png
       rect:
         serializedVersion: 2
-        x: 1575
-        y: 1114
-        width: 93
-        height: 104
+        x: 1688
+        y: 1063
+        width: 106
+        height: 105
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 46.5, y: 4}
-        - {x: 17.5, y: 52}
-        - {x: -22.5, y: 52}
-        - {x: -46.5, y: 20}
-        - {x: -46.5, y: -52}
-        - {x: 34.5, y: -52}
-        - {x: 31.5, y: -48}
-        - {x: 46.5, y: -30}
-    - name: chara24_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara06_eat2.png
       rect:
         serializedVersion: 2
-        x: 1672
-        y: 1081
-        width: 93
-        height: 100
+        x: 382
+        y: 1440
+        width: 89
+        height: 107
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 28.5, y: -31}
-        - {x: 46.5, y: -25}
-        - {x: 46.5, y: -15}
-        - {x: 19.5, y: 40}
-        - {x: 13.5, y: 50}
-        - {x: -17.5, y: 50}
-        - {x: -46.5, y: -1}
-        - {x: -46.5, y: -38}
-        - {x: -40.5, y: -50}
-        - {x: 34.5, y: -50}
-        - {x: 31.5, y: -46}
-        - {x: 26.5, y: -41}
-    - name: chara24_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara06_move1.png
       rect:
         serializedVersion: 2
-        x: 1957
-        y: 924
-        width: 87
-        height: 103
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -37.5, y: 51.5}
-        - {x: -43.5, y: 44.5}
-        - {x: -43.5, y: -51.5}
-        - {x: 23.5, y: -51.5}
-        - {x: 43.5, y: -43.5}
-        - {x: 43.5, y: 19.5}
-        - {x: 5.5, y: 51.5}
-    - name: chara24_move2.png
-      rect:
-        serializedVersion: 2
-        x: 1938
-        y: 736
-        width: 83
-        height: 104
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -28.5, y: 52}
-        - {x: -41.5, y: 38}
-        - {x: -41.5, y: -39}
-        - {x: -40.5, y: -50}
-        - {x: -33.5, y: -52}
-        - {x: 41.5, y: -52}
-        - {x: 41.5, y: 23}
-        - {x: 22.5, y: 52}
-    - name: chara25_eat1.png
-      rect:
-        serializedVersion: 2
-        x: 1050
-        y: 1516
-        width: 49
-        height: 97
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18.5, y: 48.5}
-        - {x: -24.5, y: 39.5}
-        - {x: -24.5, y: -48.5}
-        - {x: 24.5, y: -48.5}
-        - {x: 24.5, y: 48.5}
-    - name: chara25_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 1050
-        y: 1416
-        width: 49
-        height: 96
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 24.5, y: 7}
-        - {x: 24.5, y: 17}
-        - {x: 21.5, y: 44}
-        - {x: 6.5, y: 48}
-        - {x: -24.5, y: 48}
-        - {x: -24.5, y: -48}
-        - {x: 24.5, y: -48}
-        - {x: 24.5, y: -26}
-        - {x: 23.5, y: -16}
-    - name: chara25_move1.png
-      rect:
-        serializedVersion: 2
-        x: 86
-        y: 752
-        width: 73
-        height: 93
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 16.5, y: 46.5}
-        - {x: -21.5, y: 46.5}
-        - {x: -34.5, y: 27.5}
-        - {x: -36.5, y: 14.5}
-        - {x: -36.5, y: -43.5}
-        - {x: -25.5, y: -46.5}
-        - {x: 17.5, y: -46.5}
-        - {x: 36.5, y: -32.5}
-        - {x: 36.5, y: 18.5}
-        - {x: 31.5, y: 27.5}
-    - name: chara25_move2.png
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 752
-        width: 78
-        height: 93
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 10, y: 35.5}
-        - {x: -2, y: 46.5}
-        - {x: -28, y: 46.5}
-        - {x: -39, y: 37.5}
-        - {x: -39, y: -40.5}
-        - {x: -38, y: -41.5}
-        - {x: -32, y: -46.5}
-        - {x: 17, y: -46.5}
-        - {x: 38, y: -37.5}
-        - {x: 39, y: -33.5}
-        - {x: 39, y: -12.5}
-        - {x: 36, y: -6.5}
-    - name: chara26_eat1.png
-      rect:
-        serializedVersion: 2
-        x: 937
-        y: 1513
+        x: 1195
+        y: 1235
         width: 109
         height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 27.5, y: 24}
-        - {x: 18.5, y: 47}
-        - {x: 16.5, y: 50}
-        - {x: -38.5, y: 50}
-        - {x: -54.5, y: 5}
-        - {x: -54.5, y: -40}
-        - {x: -44.5, y: -50}
-        - {x: 34.5, y: -50}
-        - {x: 54.5, y: -38}
-        - {x: 54.5, y: -5}
-        - {x: 52.5, y: -2}
-    - name: chara26_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara06_move2.png
       rect:
         serializedVersion: 2
-        x: 1466
-        y: 752
+        x: 98
+        y: 1315
+        width: 89
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara06_scare.png
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1851
+        width: 126
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara07_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1936
+        width: 128
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara07_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1712
+        width: 115
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara07_move1.png
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 737
+        width: 93
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara07_move2.png
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1224
+        width: 109
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara07_scare.png
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1934
+        width: 128
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara08_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 705
+        width: 93
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara08_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1303
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara08_move1.png
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1167
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara08_move2.png
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1224
+        width: 80
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara08_scare.png
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1645
+        width: 123
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara09_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1539
+        width: 90
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara09_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1437
+        width: 90
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara09_move1.png
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1804
+        width: 121
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara09_move2.png
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1815
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara10_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 749
+        width: 74
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara10_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 851
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara10_move1.png
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1188
+        width: 67
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara10_move2.png
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 769
+        width: 67
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara10_scare.png
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1666
+        width: 91
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara11_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 883
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara11_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 882
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara11_move1.png
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 391
+        width: 65
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara11_move2.png
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 293
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara11_scare.png
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 776
+        width: 75
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara12_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 887
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara12_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1823
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara12_move1.png
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1240
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara12_move2.png
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1825
+        width: 102
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara12_scare.png
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1122
+        width: 103
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara13_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1095
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara13_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1083
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara13_move1.png
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 417
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara13_move2.png
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 422
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara13_scare.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 201
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara14_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 515
+        width: 67
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara14_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 497
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara14_move1.png
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 650
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara14_move2.png
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 641
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara14_scare.png
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 658
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara15_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 437
+        width: 67
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara15_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 405
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara15_move1.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 295
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara15_move2.png
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 309
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara16_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 669
+        width: 57
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara16_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1011
+        width: 53
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara16_move1.png
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1410
+        width: 53
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara16_move2.png
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1117
+        width: 53
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara16_scare.png
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 835
+        width: 72
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara17_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 928
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara17_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1351
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara17_move1.png
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1100
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara17_move2.png
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1591
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara17_scare.png
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 562
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara18_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1548
+        width: 120
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara18_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1595
+        width: 120
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara18_move1.png
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1456
+        width: 90
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara18_move2.png
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1185
+        width: 87
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara18_scare.png
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1674
+        width: 120
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara19_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1206
+        width: 98
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara19_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 995
+        width: 98
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara19_move1.png
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1096
+        width: 98
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara19_move2.png
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1075
+        width: 98
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara19_scare.png
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1343
+        width: 116
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara20_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 396
+        width: 66
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara20_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 309
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara20_move1.png
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 532
+        width: 60
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara20_move2.png
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 643
+        width: 60
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara20_scare.png
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 744
+        width: 66
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara21_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1018
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara21_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1521
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara21_move1.png
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 847
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara21_move2.png
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1455
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara21_scare.png
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 680
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara22_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 945
+        width: 70
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara22_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 736
+        width: 70
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara22_move1.png
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 740
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara22_move2.png
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1043
+        width: 73
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara22_scare.png
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1232
+        width: 80
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara23_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1306
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara23_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 994
+        width: 83
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara23_move1.png
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 886
+        width: 60
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara23_move2.png
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1160
+        width: 60
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara23_scare.png
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1103
+        width: 98
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara24_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1194
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara24_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1084
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara24_move1.png
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1007
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara24_move2.png
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 625
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara24_scare.png
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1112
+        width: 80
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara25_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1680
+        width: 101
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara25_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 975
+        width: 98
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara25_move1.png
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 630
+        width: 69
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara25_move2.png
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1061
+        width: 68
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara25_scare.png
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 863
+        width: 97
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara26_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1239
+        width: 109
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara26_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1350
         width: 89
         height: 102
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -44.5, y: -37}
-        - {x: -32.5, y: -51}
-        - {x: 26.5, y: -51}
-        - {x: 44.5, y: -43}
-        - {x: 44.5, y: 13}
-        - {x: 34.5, y: 51}
-        - {x: -20.5, y: 51}
-        - {x: -44.5, y: 17}
-    - name: chara26_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara26_move1.png
       rect:
         serializedVersion: 2
-        x: 821
-        y: 1451
+        x: 1690
+        y: 1172
         width: 109
         height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -7.5, y: 49.5}
-        - {x: -54.5, y: -6.5}
-        - {x: -54.5, y: -16.5}
-        - {x: -53.5, y: -19.5}
-        - {x: -21.5, y: -49.5}
-        - {x: 31.5, y: -49.5}
-        - {x: 54.5, y: -20.5}
-        - {x: 54.5, y: -0.5}
-        - {x: 18.5, y: 49.5}
-    - name: chara26_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara26_move2.png
       rect:
         serializedVersion: 2
-        x: 1655
-        y: 836
+        x: 4
+        y: 1307
         width: 89
         height: 113
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 23.5, y: 56.5}
-        - {x: 1.5, y: 56.5}
-        - {x: -44.5, y: 16.5}
-        - {x: -44.5, y: -44.5}
-        - {x: -39.5, y: -56.5}
-        - {x: 12.5, y: -56.5}
-        - {x: 44.5, y: -22.5}
-        - {x: 44.5, y: 6.5}
-        - {x: 27.5, y: 52.5}
-    - name: chara26_scare.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara26_scare.png
       rect:
         serializedVersion: 2
-        x: 1522
-        y: 1657
+        x: 1486
+        y: 1850
         width: 126
         height: 91
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 17, y: 45.5}
-        - {x: -21, y: 45.5}
-        - {x: -63, y: 0.5}
-        - {x: -63, y: -18.5}
-        - {x: -24, y: -39.5}
-        - {x: -11, y: -45.5}
-        - {x: 34, y: -45.5}
-        - {x: 60, y: -17.5}
-        - {x: 63, y: -11.5}
-        - {x: 63, y: 0.5}
-    - name: chara27_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara27_eat1.png
       rect:
         serializedVersion: 2
-        x: 344
-        y: 1328
-        width: 69
-        height: 94
+        x: 1222
+        y: 1934
+        width: 128
+        height: 110
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -34.5, y: 47}
-        - {x: -34.5, y: -47}
-        - {x: 34.5, y: -47}
-        - {x: 34.5, y: 45}
-        - {x: 31.5, y: 47}
-    - name: chara27_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara27_eat2.png
       rect:
         serializedVersion: 2
-        x: 73
-        y: 1070
-        width: 69
-        height: 89
+        x: 549
+        y: 1814
+        width: 115
+        height: 108
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -34.5, y: 44.5}
-        - {x: -34.5, y: -44.5}
-        - {x: 34.5, y: -44.5}
-        - {x: 34.5, y: 44.5}
-    - name: chara27_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara27_move1.png
       rect:
         serializedVersion: 2
-        x: 979
-        y: 1742
-        width: 125
-        height: 84
+        x: 1777
+        y: 856
+        width: 94
+        height: 115
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 62.5, y: -19}
-        - {x: 62.5, y: 15}
-        - {x: 37.5, y: 42}
-        - {x: -47.5, y: 42}
-        - {x: -62.5, y: 18}
-        - {x: -62.5, y: -42}
-        - {x: 46.5, y: -42}
-        - {x: 48.5, y: -35}
-        - {x: 47.5, y: -27}
-        - {x: 57.5, y: -24}
-    - name: chara27_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara27_move2.png
       rect:
         serializedVersion: 2
-        x: 847
-        y: 1736
-        width: 125
-        height: 84
+        x: 1423
+        y: 1226
+        width: 109
+        height: 115
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -1.5, y: -42}
-        - {x: 40.5, y: -42}
-        - {x: 43.5, y: -34}
-        - {x: 47.5, y: -19}
-        - {x: 48.5, y: -28}
-        - {x: 57.5, y: -24}
-        - {x: 62.5, y: -19}
-        - {x: 62.5, y: 13}
-        - {x: 34.5, y: 42}
-        - {x: -47.5, y: 42}
-        - {x: -62.5, y: 25}
-        - {x: -62.5, y: -18}
-        - {x: -50.5, y: -42}
-        - {x: -34.5, y: -40}
-        - {x: -30.5, y: -36}
-        - {x: -28.5, y: -41}
-        - {x: -27.5, y: -42}
-        - {x: -7.5, y: -42}
-        - {x: -5.5, y: -38}
-        - {x: -5.5, y: -27}
-    - name: chara28_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara27_scare.png
       rect:
         serializedVersion: 2
-        x: 824
-        y: 1554
+        x: 958
+        y: 1933
+        width: 128
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara28_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1339
         width: 109
         height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -22.5, y: 59}
-        - {x: -54.5, y: 23}
-        - {x: -54.5, y: -44}
-        - {x: -46.5, y: -59}
-        - {x: 54.5, y: -59}
-        - {x: 54.5, y: 57}
-        - {x: 50.5, y: 59}
-    - name: chara28_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara28_eat2.png
       rect:
         serializedVersion: 2
-        x: 1200
-        y: 1070
+        x: 195
+        y: 1668
         width: 91
         height: 117
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 38.5, y: 34.5}
-        - {x: 36.5, y: 33.5}
-        - {x: 13.5, y: 54.5}
-        - {x: 7.5, y: 58.5}
-        - {x: -11.5, y: 58.5}
-        - {x: -39.5, y: 50.5}
-        - {x: -45.5, y: 39.5}
-        - {x: -45.5, y: -58.5}
-        - {x: 33.5, y: -58.5}
-        - {x: 42.5, y: -11.5}
-        - {x: 45.5, y: 10.5}
-        - {x: 45.5, y: 27.5}
-      - - {x: 32.5, y: 49.5}
-        - {x: 26.5, y: 45.5}
-        - {x: 26.5, y: 42.5}
-        - {x: 30.5, y: 36.5}
-        - {x: 35.5, y: 36.5}
-        - {x: 40.5, y: 40.5}
-        - {x: 40.5, y: 43.5}
-        - {x: 35.5, y: 49.5}
-    - name: chara28_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara28_move1.png
       rect:
         serializedVersion: 2
-        x: 1295
-        y: 1019
+        x: 99
+        y: 1566
         width: 91
         height: 117
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 21.5, y: 58.5}
-        - {x: -44.5, y: 58.5}
-        - {x: -45.5, y: 57.5}
-        - {x: -45.5, y: -7.5}
-        - {x: -27.5, y: -58.5}
-        - {x: 38.5, y: -58.5}
-        - {x: 38.5, y: 42.5}
-        - {x: 33.5, y: 55.5}
-      - - {x: -26.5, y: -19.5}
-        - {x: -31.5, y: -25.5}
-        - {x: -31.5, y: -30.5}
-        - {x: -27.5, y: -34.5}
-        - {x: -24.5, y: -35.5}
-        - {x: -22.5, y: -35.5}
-        - {x: -15.5, y: -29.5}
-        - {x: -15.5, y: -25.5}
-        - {x: -19.5, y: -19.5}
-      - - {x: -36.5, y: -14.5}
-        - {x: -36.5, y: -18.5}
-        - {x: -33.5, y: -21.5}
-        - {x: -30.5, y: -21.5}
-        - {x: -25.5, y: -17.5}
-        - {x: -25.5, y: -15.5}
-        - {x: -30.5, y: -9.5}
-        - {x: -34.5, y: -10.5}
-      - - {x: 33.5, y: 15.5}
-        - {x: 28.5, y: 11.5}
-        - {x: 28.5, y: 8.5}
-        - {x: 33.5, y: 4.5}
-        - {x: 35.5, y: 4.5}
-        - {x: 40.5, y: 8.5}
-        - {x: 40.5, y: 11.5}
-        - {x: 35.5, y: 15.5}
-      - - {x: 36.5, y: 45.5}
-        - {x: 30.5, y: 40.5}
-        - {x: 30.5, y: 37.5}
-        - {x: 36.5, y: 30.5}
-        - {x: 40.5, y: 30.5}
-        - {x: 45.5, y: 35.5}
-        - {x: 45.5, y: 39.5}
-        - {x: 40.5, y: 45.5}
-    - name: chara28_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara28_move2.png
       rect:
         serializedVersion: 2
-        x: 1561
-        y: 865
+        x: 193
+        y: 1415
         width: 90
         height: 120
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -29, y: 60}
-        - {x: -45, y: 46}
-        - {x: -45, y: -4}
-        - {x: -39, y: -8}
-        - {x: -36, y: -7}
-        - {x: -33, y: -3}
-        - {x: -36, y: -16}
-        - {x: -34, y: -26}
-        - {x: -18, y: -60}
-        - {x: 45, y: -60}
-        - {x: 45, y: 28}
-        - {x: 24, y: 60}
-      - - {x: -30, y: -37}
-        - {x: -25, y: -41}
-        - {x: -23, y: -41}
-        - {x: -17, y: -37}
-        - {x: -17, y: -34}
-        - {x: -21, y: -28}
-        - {x: -27, y: -28}
-        - {x: -30, y: -34}
-      - - {x: 38, y: 46}
-        - {x: 33, y: 43}
-        - {x: 33, y: 39}
-        - {x: 39, y: 33}
-        - {x: 42, y: 34}
-        - {x: 45, y: 38}
-        - {x: 45, y: 41}
-        - {x: 42, y: 46}
-    - name: chara28_scare.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara28_scare.png
       rect:
         serializedVersion: 2
-        x: 976
-        y: 1617
+        x: 1613
+        y: 1600
         width: 123
         height: 121
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 61.5, y: 32.5}
-        - {x: 22.5, y: 60.5}
-        - {x: -24.5, y: 60.5}
-        - {x: -61.5, y: 21.5}
-        - {x: -61.5, y: -16.5}
-        - {x: -48.5, y: -60.5}
-        - {x: 37.5, y: -60.5}
-        - {x: 38.5, y: -59.5}
-        - {x: 34.5, y: -38.5}
-        - {x: 61.5, y: -11.5}
-      - - {x: 42.5, y: 45.5}
-        - {x: 36.5, y: 39.5}
-        - {x: 36.5, y: 33.5}
-        - {x: 38.5, y: 29.5}
-        - {x: 47.5, y: 29.5}
-        - {x: 53.5, y: 33.5}
-        - {x: 53.5, y: 39.5}
-        - {x: 47.5, y: 45.5}
-      - - {x: -45.5, y: 47.5}
-        - {x: -48.5, y: 44.5}
-        - {x: -49.5, y: 41.5}
-        - {x: -44.5, y: 36.5}
-        - {x: -41.5, y: 36.5}
-        - {x: -38.5, y: 41.5}
-        - {x: -38.5, y: 44.5}
-        - {x: -43.5, y: 47.5}
-      - - {x: 37.5, y: 50.5}
-        - {x: 32.5, y: 50.5}
-        - {x: 30.5, y: 45.5}
-        - {x: 30.5, y: 43.5}
-        - {x: 35.5, y: 39.5}
-        - {x: 37.5, y: 39.5}
-        - {x: 42.5, y: 44.5}
-        - {x: 42.5, y: 47.5}
-      - - {x: -42.5, y: 60.5}
-        - {x: -47.5, y: 56.5}
-        - {x: -47.5, y: 53.5}
-        - {x: -46.5, y: 49.5}
-        - {x: -39.5, y: 44.5}
-        - {x: -35.5, y: 44.5}
-        - {x: -30.5, y: 50.5}
-        - {x: -30.5, y: 54.5}
-        - {x: -34.5, y: 60.5}
-    - name: chara29_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara29_eat1.png
       rect:
         serializedVersion: 2
-        x: 1466
-        y: 1080
+        x: 1871
+        y: 632
         width: 93
         height: 101
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 28.5, y: 50.5}
-        - {x: -25.5, y: 50.5}
-        - {x: -46.5, y: 33.5}
-        - {x: -46.5, y: -50.5}
-        - {x: 46.5, y: -50.5}
-        - {x: 46.5, y: 0.5}
-        - {x: 31.5, y: 47.5}
-    - name: chara29_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara29_eat2.png
       rect:
         serializedVersion: 2
-        x: 1776
-        y: 1162
+        x: 1771
+        y: 622
         width: 93
         height: 101
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -25.5, y: 50.5}
-        - {x: -46.5, y: 36.5}
-        - {x: -46.5, y: -50.5}
-        - {x: 46.5, y: -50.5}
-        - {x: 46.5, y: -3.5}
-        - {x: 29.5, y: 50.5}
-    - name: chara29_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara29_move1.png
       rect:
         serializedVersion: 2
-        x: 847
-        y: 1824
+        x: 1750
+        y: 1862
         width: 128
         height: 81
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -61, y: 40.5}
-        - {x: -64, y: 33.5}
-        - {x: -64, y: -31.5}
-        - {x: -56, y: -40.5}
-        - {x: 64, y: -40.5}
-        - {x: 64, y: 17.5}
-        - {x: -1, y: 40.5}
-    - name: chara29_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara29_move2.png
       rect:
         serializedVersion: 2
-        x: 1652
-        y: 1609
+        x: 1354
+        y: 1847
         width: 126
         height: 85
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -59, y: 42.5}
-        - {x: -63, y: 41.5}
-        - {x: -63, y: -23.5}
-        - {x: -55, y: -42.5}
-        - {x: 63, y: -42.5}
-        - {x: 63, y: 22.5}
-        - {x: 32, y: 42.5}
-    - name: chara30_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara30_eat1.png
       rect:
         serializedVersion: 2
-        x: 425
-        y: 1254
-        width: 63
-        height: 82
+        x: 752
+        y: 680
+        width: 74
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 30.5, y: 35}
-        - {x: 20.5, y: 41}
-        - {x: -15.5, y: 41}
-        - {x: -31.5, y: 37}
-        - {x: -31.5, y: -34}
-        - {x: -20.5, y: -41}
-        - {x: 30.5, y: -41}
-        - {x: 31.5, y: -36}
-        - {x: 31.5, y: 35}
-    - name: chara30_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara30_eat2.png
       rect:
         serializedVersion: 2
-        x: 4
-        y: 178
-        width: 63
-        height: 75
+        x: 1161
+        y: 763
+        width: 74
+        height: 116
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 4.5, y: 36.5}
-        - {x: -13.5, y: 36.5}
-        - {x: -31.5, y: 19.5}
-        - {x: -31.5, y: -8.5}
-        - {x: -30.5, y: -13.5}
-        - {x: -21.5, y: -37.5}
-        - {x: 24.5, y: -37.5}
-        - {x: 31.5, y: -21.5}
-        - {x: 31.5, y: 26.5}
-        - {x: 14.5, y: 35.5}
-    - name: chara30_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara30_move1.png
       rect:
         serializedVersion: 2
-        x: 1327
-        y: 1356
-        width: 106
-        height: 83
+        x: 1082
+        y: 763
+        width: 74
+        height: 115
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -6, y: 41.5}
-        - {x: -53, y: 41.5}
-        - {x: -53, y: -21.5}
-        - {x: -49, y: -41.5}
-        - {x: 53, y: -41.5}
-        - {x: 53, y: 9.5}
-        - {x: 41, y: 29.5}
-    - name: chara30_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara30_move2.png
       rect:
         serializedVersion: 2
-        x: 1214
-        y: 1322
-        width: 106
-        height: 83
+        x: 436
+        y: 926
+        width: 75
+        height: 113
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -38, y: 41.5}
-        - {x: -53, y: 33.5}
-        - {x: -53, y: -10.5}
-        - {x: -30, y: -41.5}
-        - {x: 53, y: -41.5}
-        - {x: 53, y: 14.5}
-        - {x: -10, y: 41.5}
-    - name: chara31_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara30_scare.png
       rect:
         serializedVersion: 2
-        x: 147
-        y: 653
-        width: 63
-        height: 95
+        x: 1577
+        y: 983
+        width: 96
+        height: 120
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -31.5, y: 47.5}
-        - {x: -31.5, y: -47.5}
-        - {x: 31.5, y: -47.5}
-        - {x: 31.5, y: 33.5}
-        - {x: 28.5, y: 47.5}
-    - name: chara31_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara31_eat1.png
       rect:
         serializedVersion: 2
-        x: 4
-        y: 257
-        width: 63
-        height: 84
+        x: 1082
+        y: 972
+        width: 75
+        height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -29.5, y: 42}
-        - {x: -31.5, y: 33}
-        - {x: -31.5, y: -42}
-        - {x: 31.5, y: -42}
-        - {x: 31.5, y: 41}
-        - {x: 26.5, y: 42}
-    - name: chara31_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara31_eat2.png
       rect:
         serializedVersion: 2
-        x: 708
-        y: 1397
-        width: 109
+        x: 856
+        y: 871
+        width: 75
         height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -44.5, y: 48}
-        - {x: -54.5, y: 43}
-        - {x: -54.5, y: -13}
-        - {x: -34.5, y: -48}
-        - {x: 50.5, y: -48}
-        - {x: 54.5, y: -39}
-        - {x: 54.5, y: 35}
-        - {x: 18.5, y: 48}
-    - name: chara31_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara31_move1.png
       rect:
         serializedVersion: 2
-        x: 1103
-        y: 1464
-        width: 109
-        height: 96
+        x: 878
+        y: 1209
+        width: 71
+        height: 112
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -47.5, y: 48}
-        - {x: -53.5, y: 41}
-        - {x: -54.5, y: 37}
-        - {x: -54.5, y: -16}
-        - {x: -43.5, y: -48}
-        - {x: 34.5, y: -48}
-        - {x: 43.5, y: -45}
-        - {x: 54.5, y: -23}
-        - {x: 54.5, y: 48}
-    - name: chara32_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara31_move2.png
       rect:
         serializedVersion: 2
-        x: 1045
-        y: 1287
-        width: 54
-        height: 125
+        x: 1006
+        y: 721
+        width: 71
+        height: 110
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 18, y: 62.5}
-        - {x: -26, y: 62.5}
-        - {x: -27, y: 58.5}
-        - {x: -27, y: -62.5}
-        - {x: 27, y: -62.5}
-        - {x: 27, y: 22.5}
-        - {x: 23, y: 59.5}
-    - name: chara32_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara31_scare.png
       rect:
         serializedVersion: 2
-        x: 68
-        y: 1272
-        width: 54
+        x: 594
+        y: 813
+        width: 75
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara32_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1332
+        width: 94
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara32_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1185
+        width: 86
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara32_move1.png
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1789
+        width: 102
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara32_move2.png
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 971
+        width: 98
         height: 121
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 24, y: -60.5}
-        - {x: 27, y: -57.5}
-        - {x: 27, y: 9.5}
-        - {x: 18, y: 14.5}
-        - {x: -11, y: 14.5}
-        - {x: -25, y: 7.5}
-        - {x: -27, y: 4.5}
-        - {x: -27, y: -48.5}
-        - {x: -25, y: -60.5}
-        - {x: -7, y: -60.5}
-        - {x: -2, y: -54.5}
-        - {x: -1, y: -51.5}
-        - {x: 7, y: -60.5}
-    - name: chara32_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara32_scare.png
       rect:
         serializedVersion: 2
-        x: 934
-        y: 1381
-        width: 107
-        height: 128
+        x: 1906
+        y: 855
+        width: 103
+        height: 126
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -53.5, y: 64}
-        - {x: -53.5, y: -45}
-        - {x: -37.5, y: -64}
-        - {x: 53.5, y: -64}
-        - {x: 53.5, y: 6}
-        - {x: -20.5, y: 64}
-    - name: chara32_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara33_eat1.png
       rect:
         serializedVersion: 2
-        x: 821
-        y: 1319
-        width: 107
-        height: 128
+        x: 609
+        y: 917
+        width: 77
+        height: 109
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -14.5, y: 64}
-        - {x: -37.5, y: 64}
-        - {x: -47.5, y: 62}
-        - {x: -53.5, y: 49}
-        - {x: -53.5, y: -5}
-        - {x: -34.5, y: -64}
-        - {x: 53.5, y: -64}
-        - {x: 53.5, y: 1}
-        - {x: 50.5, y: 11}
-    - name: chara33_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara33_eat2.png
       rect:
         serializedVersion: 2
-        x: 81
-        y: 1453
-        width: 80
-        height: 96
+        x: 861
+        y: 971
+        width: 77
+        height: 104
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -35, y: 48}
-        - {x: -40, y: 46}
-        - {x: -40, y: -48}
-        - {x: 40, y: -48}
-        - {x: 40, y: 48}
-    - name: chara33_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara33_move1.png
       rect:
         serializedVersion: 2
-        x: 225
-        y: 970
-        width: 80
-        height: 95
+        x: 1528
+        y: 520
+        width: 67
+        height: 106
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -21, y: 47.5}
-        - {x: -32, y: 42.5}
-        - {x: -40, y: 28.5}
-        - {x: -40, y: -47.5}
-        - {x: 40, y: -47.5}
-        - {x: 40, y: 31.5}
-        - {x: 21, y: 47.5}
-    - name: chara33_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara33_move2.png
       rect:
         serializedVersion: 2
-        x: 1655
-        y: 1861
-        width: 128
-        height: 80
+        x: 1457
+        y: 536
+        width: 67
+        height: 109
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -43, y: 40}
-        - {x: -64, y: 22}
-        - {x: -64, y: -3}
-        - {x: -59, y: -12}
-        - {x: -34, y: -40}
-        - {x: 62, y: -40}
-        - {x: 64, y: -39}
-        - {x: 64, y: 23}
-        - {x: 53, y: 40}
-    - name: chara33_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara33_scare.png
       rect:
         serializedVersion: 2
-        x: 1787
-        y: 1861
-        width: 128
-        height: 80
+        x: 780
+        y: 997
+        width: 77
+        height: 114
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -44, y: 40}
-        - {x: -64, y: 29}
-        - {x: -64, y: -1}
-        - {x: -58, y: -6}
-        - {x: -51, y: -40}
-        - {x: 64, y: -40}
-        - {x: 64, y: 37}
-        - {x: 53, y: 40}
-    - name: chara34_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara34_eat1.png
       rect:
         serializedVersion: 2
-        x: 1559
-        y: 622
+        x: 1489
+        y: 862
         width: 84
         height: 128
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -32, y: 64}
-        - {x: -42, y: 62}
-        - {x: -42, y: 21}
-        - {x: -28, y: -64}
-        - {x: 30, y: -64}
-        - {x: 42, y: -6}
-        - {x: 42, y: 64}
-    - name: chara34_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara34_eat2.png
       rect:
         serializedVersion: 2
-        x: 1653
-        y: 753
+        x: 380
+        y: 1357
         width: 85
         height: 79
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -40.5, y: 39.5}
-        - {x: -42.5, y: 37.5}
-        - {x: -42.5, y: -11.5}
-        - {x: -19.5, y: -39.5}
-        - {x: 25.5, y: -39.5}
-        - {x: 42.5, y: 1.5}
-        - {x: 42.5, y: 39.5}
-    - name: chara34_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara34_move1.png
       rect:
         serializedVersion: 2
-        x: 386
-        y: 1426
+        x: 1082
+        y: 1338
         width: 109
         height: 128
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -14.5, y: 64}
-        - {x: -54.5, y: 35}
-        - {x: -54.5, y: -31}
-        - {x: -44.5, y: -64}
-        - {x: 45.5, y: -64}
-        - {x: 54.5, y: -41}
-        - {x: 54.5, y: 10}
-        - {x: 29.5, y: 64}
-    - name: chara34_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara34_move2.png
       rect:
         serializedVersion: 2
-        x: 499
-        y: 1422
+        x: 1310
+        y: 1340
         width: 109
         height: 128
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 54.5, y: 64}
-        - {x: -14.5, y: 64}
-        - {x: -54.5, y: 37}
-        - {x: -54.5, y: -28}
-        - {x: -41.5, y: -64}
-        - {x: -0.5, y: -64}
-        - {x: 4.5, y: -57}
-        - {x: 3.5, y: -64}
-        - {x: 54.5, y: -64}
-    - name: chara35_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara35_eat1.png
       rect:
         serializedVersion: 2
-        x: 1205
-        y: 1191
+        x: 1677
+        y: 830
         width: 93
         height: 127
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 36.5, y: -55.5}
-        - {x: 1.5, y: -55.5}
-        - {x: 9.5, y: -55.5}
-        - {x: 18.5, y: -54.5}
-        - {x: 46.5, y: -50.5}
-        - {x: 46.5, y: -29.5}
-        - {x: 42.5, y: 63.5}
-        - {x: -46.5, y: 63.5}
-        - {x: -46.5, y: -63.5}
-        - {x: 46.5, y: -63.5}
-        - {x: 46.5, y: -57.5}
-        - {x: 44.5, y: -56.5}
-    - name: chara35_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara35_eat2.png
       rect:
         serializedVersion: 2
-        x: 1103
-        y: 1069
+        x: 1577
+        y: 756
         width: 93
         height: 127
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 36.5, y: -55.5}
-        - {x: 1.5, y: -55.5}
-        - {x: 9.5, y: -55.5}
-        - {x: 18.5, y: -54.5}
-        - {x: 43.5, y: -48.5}
-        - {x: 41.5, y: 63.5}
-        - {x: -30.5, y: 63.5}
-        - {x: -46.5, y: 48.5}
-        - {x: -46.5, y: -63.5}
-        - {x: 46.5, y: -63.5}
-        - {x: 46.5, y: -57.5}
-        - {x: 44.5, y: -56.5}
-    - name: chara35_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara35_move1.png
       rect:
         serializedVersion: 2
-        x: 1905
-        y: 1389
+        x: 814
+        y: 1799
         width: 115
         height: 128
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 45.5, y: -7}
-        - {x: 54.5, y: 23}
-        - {x: 48.5, y: 35}
-        - {x: 44.5, y: 33}
-        - {x: 40.5, y: 29}
-        - {x: 30.5, y: 55}
-        - {x: 25.5, y: 64}
-        - {x: -37.5, y: 64}
-        - {x: -57.5, y: 56}
-        - {x: -57.5, y: -58}
-        - {x: -48.5, y: -64}
-        - {x: 55.5, y: -64}
-        - {x: 57.5, y: -47}
-        - {x: 57.5, y: -8}
-        - {x: 54.5, y: -5}
-    - name: chara35_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara35_move2.png
       rect:
         serializedVersion: 2
-        x: 1604
-        y: 1351
+        x: 1215
+        y: 1676
         width: 120
         height: 128
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 60, y: -45}
-        - {x: 60, y: 64}
-        - {x: -18, y: 64}
-        - {x: -30, y: 60}
-        - {x: -23, y: 26}
-        - {x: -16, y: 19}
-        - {x: -24, y: 23}
-        - {x: -34, y: 60}
-        - {x: -42, y: 62}
-        - {x: -46, y: 59}
-        - {x: -45, y: 48}
-        - {x: -60, y: -1}
-        - {x: -60, y: -49}
-        - {x: -50, y: -64}
-        - {x: 51, y: -64}
-        - {x: 51, y: -59}
-        - {x: 47, y: -57}
-        - {x: 39, y: -56}
-    - name: chara36_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara36_eat1.png
       rect:
         serializedVersion: 2
-        x: 1734
-        y: 592
-        width: 82
-        height: 104
+        x: 1388
+        y: 747
+        width: 70
+        height: 112
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -27, y: 52}
-        - {x: -36, y: 48}
-        - {x: -41, y: 34}
-        - {x: -41, y: -10}
-        - {x: -31, y: -52}
-        - {x: 34, y: -52}
-        - {x: 41, y: -38}
-        - {x: 41, y: 40}
-        - {x: 34, y: 52}
-    - name: chara36_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara36_eat2.png
       rect:
         serializedVersion: 2
-        x: 1820
-        y: 592
-        width: 82
-        height: 82
+        x: 1462
+        y: 748
+        width: 70
+        height: 110
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -16, y: 41}
-        - {x: -35, y: 21}
-        - {x: -41, y: 14}
-        - {x: -41, y: -22}
-        - {x: -36, y: -41}
-        - {x: 33, y: -41}
-        - {x: 41, y: -23}
-        - {x: 41, y: 19}
-        - {x: 21, y: 41}
-    - name: chara36_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara36_move1.png
       rect:
         serializedVersion: 2
-        x: 1391
-        y: 1839
-        width: 128
-        height: 97
+        x: 694
+        y: 981
+        width: 77
+        height: 111
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18, y: 48.5}
-        - {x: -47, y: 48.5}
-        - {x: -64, y: 40.5}
-        - {x: -64, y: -13.5}
-        - {x: -62, y: -15.5}
-        - {x: -54, y: -16.5}
-        - {x: -41, y: -15.5}
-        - {x: -28, y: -48.5}
-        - {x: 47, y: -48.5}
-        - {x: 64, y: -31.5}
-        - {x: 64, y: 3.5}
-        - {x: 36, y: 20.5}
-    - name: chara36_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara36_move2.png
       rect:
         serializedVersion: 2
-        x: 1259
-        y: 1838
-        width: 128
+        x: 4
+        y: 1553
+        width: 91
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara36_scare.png
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1437
+        width: 86
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara37_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1096
+        width: 78
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara37_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 802
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara37_move1.png
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1030
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara37_move2.png
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 899
+        width: 77
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara37_scare.png
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 961
+        width: 96
         height: 98
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 1, y: 49}
-        - {x: -51, y: 49}
-        - {x: -64, y: 37}
-        - {x: -64, y: -49}
-        - {x: 56, y: -49}
-        - {x: 64, y: -38}
-        - {x: 64, y: -9}
-        - {x: 41, y: 27}
-    - name: chara37_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara38_eat1.png
       rect:
         serializedVersion: 2
-        x: 184
-        y: 1291
-        width: 76
-        height: 102
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -24, y: 51}
-        - {x: -38, y: 36}
-        - {x: -38, y: -33}
-        - {x: -35, y: -51}
-        - {x: 32, y: -51}
-        - {x: 38, y: -45}
-        - {x: 38, y: 51}
-    - name: chara37_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 264
-        y: 1291
-        width: 76
-        height: 102
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 24, y: 51}
-        - {x: -26, y: 51}
-        - {x: -38, y: 37}
-        - {x: -38, y: -37}
-        - {x: -36, y: -51}
-        - {x: 34, y: -51}
-        - {x: 38, y: -44}
-        - {x: 38, y: 27}
-        - {x: 33, y: 49}
-    - name: chara37_move1.png
-      rect:
-        serializedVersion: 2
-        x: 1523
-        y: 1945
-        width: 128
-        height: 99
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 44, y: 49.5}
-        - {x: -64, y: 49.5}
-        - {x: -64, y: -37.5}
-        - {x: -62, y: -48.5}
-        - {x: -46, y: -41.5}
-        - {x: -43, y: -37.5}
-        - {x: -42, y: -33.5}
-        - {x: -43, y: -27.5}
-        - {x: -28, y: -18.5}
-        - {x: -33, y: -49.5}
-        - {x: 63, y: -49.5}
-        - {x: 64, y: -28.5}
-        - {x: 64, y: 19.5}
-        - {x: 60, y: 46.5}
-    - name: chara37_move2.png
-      rect:
-        serializedVersion: 2
-        x: 1655
-        y: 1945
-        width: 128
-        height: 99
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -41, y: 49.5}
-        - {x: -64, y: 27.5}
-        - {x: -64, y: -45.5}
-        - {x: -62, y: -48.5}
-        - {x: -46, y: -41.5}
-        - {x: -43, y: -37.5}
-        - {x: -42, y: -33.5}
-        - {x: -43, y: -27.5}
-        - {x: -28, y: -18.5}
-        - {x: -32, y: -49.5}
-        - {x: 64, y: -49.5}
-        - {x: 64, y: 49.5}
-    - name: chara38_eat1.png
-      rect:
-        serializedVersion: 2
-        x: 1466
-        y: 944
+        x: 100
+        y: 1687
         width: 91
         height: 132
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 44.5, y: -64}
-        - {x: 45.5, y: -62}
-        - {x: 45.5, y: -55}
-        - {x: 39.5, y: -50}
-        - {x: 34.5, y: 10}
-        - {x: 24.5, y: 53}
-        - {x: 18.5, y: 61}
-        - {x: 14.5, y: 66}
-        - {x: -17.5, y: 66}
-        - {x: -37.5, y: 58}
-        - {x: -45.5, y: -18}
-        - {x: -45.5, y: -65}
-        - {x: -42.5, y: -66}
-        - {x: -15.5, y: -66}
-        - {x: -9.5, y: -45}
-        - {x: 12.5, y: -66}
-        - {x: 36.5, y: -66}
-    - name: chara38_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara38_eat2.png
       rect:
         serializedVersion: 2
-        x: 1200
-        y: 958
+        x: 290
+        y: 1581
         width: 91
         height: 108
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -45.5, y: -25}
-        - {x: -45.5, y: -54}
-        - {x: 45.5, y: -54}
-        - {x: 45.5, y: -3}
-        - {x: 35.5, y: 49}
-        - {x: 16.5, y: 54}
-        - {x: -18.5, y: 54}
-        - {x: -32.5, y: 47}
-    - name: chara38_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara38_move1.png
       rect:
         serializedVersion: 2
         x: 4
@@ -3644,1431 +2684,931 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -41.5, y: 64.5}
-        - {x: -68.5, y: 64.5}
-        - {x: -95.5, y: 57.5}
-        - {x: -104.5, y: 41.5}
-        - {x: -104.5, y: 14.5}
-        - {x: -96.5, y: 11.5}
-        - {x: -90.5, y: 16.5}
-        - {x: -87.5, y: 15.5}
-        - {x: -85.5, y: 15.5}
-        - {x: -81.5, y: 18.5}
-        - {x: -85.5, y: 14.5}
-        - {x: -91.5, y: 15.5}
-        - {x: -97.5, y: 8.5}
-        - {x: -92.5, y: -1.5}
-        - {x: -86.5, y: 0.5}
-        - {x: -40.5, y: -30.5}
-        - {x: -22.5, y: -28.5}
-        - {x: -20.5, y: -24.5}
-        - {x: -22.5, y: -50.5}
-        - {x: -21.5, y: -58.5}
-        - {x: -10.5, y: -58.5}
-        - {x: 7.5, y: -52.5}
-        - {x: 11.5, y: -47.5}
-        - {x: 4.5, y: -55.5}
-        - {x: 3.5, y: -59.5}
-        - {x: 1.5, y: -64.5}
-        - {x: 71.5, y: -64.5}
-        - {x: 104.5, y: -49.5}
-        - {x: 104.5, y: 7.5}
-        - {x: 16.5, y: 42.5}
-    - name: chara38_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara38_move2.png
       rect:
         serializedVersion: 2
-        x: 430
+        x: 217
         y: 1916
         width: 209
         height: 128
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -104.5, y: 64}
-        - {x: -104.5, y: 14}
-        - {x: -96.5, y: 11}
-        - {x: -90.5, y: 16}
-        - {x: -87.5, y: 15}
-        - {x: -85.5, y: 15}
-        - {x: -81.5, y: 18}
-        - {x: -85.5, y: 14}
-        - {x: -91.5, y: 15}
-        - {x: -97.5, y: 8}
-        - {x: -92.5, y: -2}
-        - {x: -49.5, y: -64}
-        - {x: 69.5, y: -64}
-        - {x: 104.5, y: -49}
-        - {x: 104.5, y: 38}
-        - {x: -22.5, y: 64}
-    - name: chara39_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara39_eat1.png
       rect:
         serializedVersion: 2
-        x: 1103
-        y: 1564
-        width: 122
-        height: 135
+        x: 743
+        y: 1424
+        width: 101
+        height: 113
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -61, y: 67.5}
-        - {x: -61, y: -55.5}
-        - {x: -58, y: -63.5}
-        - {x: -53, y: -67.5}
-        - {x: 56, y: -67.5}
-        - {x: 61, y: -64.5}
-        - {x: 61, y: 51.5}
-        - {x: 54, y: 67.5}
-    - name: chara39_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara39_eat2.png
       rect:
         serializedVersion: 2
-        x: 1362
-        y: 1569
-        width: 121
-        height: 131
+        x: 848
+        y: 1325
+        width: 101
+        height: 110
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -60.5, y: 63.5}
-        - {x: -60.5, y: -49.5}
-        - {x: -57.5, y: -61.5}
-        - {x: -55.5, y: -65.5}
-        - {x: 60.5, y: -65.5}
-        - {x: 60.5, y: 63.5}
-    - name: chara39_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara39_move1.png
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1557
+        width: 110
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara39_move2.png
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1822
+        width: 116
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara39_scare.png
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1466
+        width: 101
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara40_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 856
+        width: 66
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara40_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 310
+        width: 66
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara40_move1.png
       rect:
         serializedVersion: 2
         x: 4
-        y: 1776
-        width: 128
-        height: 135
+        y: 525
+        width: 63
+        height: 112
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 42, y: 34.5}
-        - {x: 36, y: 25.5}
-        - {x: 29, y: 12.5}
-        - {x: 27, y: -5.5}
-        - {x: 30, y: -10.5}
-        - {x: 29, y: -17.5}
-        - {x: 18, y: -12.5}
-        - {x: 11, y: -12.5}
-        - {x: 8, y: -6.5}
-        - {x: 14, y: -12.5}
-        - {x: 29, y: -12.5}
-        - {x: 17, y: 19.5}
-        - {x: 6, y: 62.5}
-        - {x: 5, y: 67.5}
-        - {x: -37, y: 67.5}
-        - {x: -64, y: 32.5}
-        - {x: -64, y: 16.5}
-        - {x: -56, y: 8.5}
-        - {x: -40, y: 11.5}
-        - {x: -64, y: -16.5}
-        - {x: -64, y: -28.5}
-        - {x: -63, y: -33.5}
-        - {x: -64, y: -43.5}
-        - {x: -64, y: -67.5}
-        - {x: 64, y: -67.5}
-        - {x: 64, y: -3.5}
-        - {x: 60, y: 38.5}
-    - name: chara39_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara40_move2.png
       rect:
         serializedVersion: 2
-        x: 856
-        y: 1909
-        width: 135
-        height: 135
+        x: 4
+        y: 84
+        width: 63
+        height: 113
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 67.5, y: 31.5}
-        - {x: 52.5, y: 34.5}
-        - {x: 31.5, y: 18.5}
-        - {x: 1.5, y: 67.5}
-        - {x: -33.5, y: 67.5}
-        - {x: -67.5, y: 32.5}
-        - {x: -67.5, y: 16.5}
-        - {x: -59.5, y: 8.5}
-        - {x: -67.5, y: -0.5}
-        - {x: -67.5, y: -64.5}
-        - {x: -56.5, y: -67.5}
-        - {x: 52.5, y: -67.5}
-        - {x: 59.5, y: -66.5}
-        - {x: 63.5, y: -60.5}
-        - {x: 67.5, y: 8.5}
-    - name: chara40_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara40_scare.png
       rect:
         serializedVersion: 2
-        x: 268
-        y: 1793
-        width: 128
-        height: 118
+        x: 1012
+        y: 1307
+        width: 66
+        height: 114
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -56, y: 59}
-        - {x: -64, y: 55}
-        - {x: -64, y: 10}
-        - {x: -62, y: 6}
-        - {x: -22, y: -59}
-        - {x: 23, y: -59}
-        - {x: 64, y: -17}
-        - {x: 64, y: 59}
-    - name: chara40_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara41_eat1.png
       rect:
         serializedVersion: 2
-        x: 268
-        y: 1671
-        width: 128
-        height: 118
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 59}
-        - {x: -64, y: 10}
-        - {x: -62, y: 6}
-        - {x: -23, y: -59}
-        - {x: 26, y: -59}
-        - {x: 64, y: -7}
-        - {x: 64, y: 51}
-        - {x: 58, y: 59}
-    - name: chara40_move1.png
-      rect:
-        serializedVersion: 2
-        x: 1354
-        y: 1443
-        width: 121
-        height: 122
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 36.5, y: -58}
-        - {x: 60.5, y: -41}
-        - {x: 60.5, y: 39}
-        - {x: 41.5, y: 61}
-        - {x: -3.5, y: 61}
-        - {x: -37.5, y: 44}
-        - {x: -60.5, y: 27}
-        - {x: -60.5, y: -23}
-        - {x: -40.5, y: -61}
-        - {x: -6.5, y: -61}
-        - {x: 0.5, y: -49}
-        - {x: 10.5, y: -61}
-        - {x: 32.5, y: -61}
-    - name: chara40_move2.png
-      rect:
-        serializedVersion: 2
-        x: 1612
-        y: 1483
-        width: 121
-        height: 122
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -13.5, y: -59}
-        - {x: -13.5, y: -61}
-        - {x: 41.5, y: -61}
-        - {x: 60.5, y: -50}
-        - {x: 60.5, y: 39}
-        - {x: 42.5, y: 61}
-        - {x: -2.5, y: 61}
-        - {x: -37.5, y: 43}
-        - {x: -47.5, y: 37}
-        - {x: -60.5, y: 26}
-        - {x: -60.5, y: -26}
-        - {x: -43.5, y: -61}
-        - {x: -17.5, y: -61}
-        - {x: -12.5, y: -57}
-        - {x: -14.5, y: -51}
-        - {x: -10.5, y: -54}
-    - name: chara41_eat1.png
-      rect:
-        serializedVersion: 2
-        x: 352
-        y: 1173
+        x: 1462
+        y: 649
         width: 69
         height: 95
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -34.5, y: 47.5}
-        - {x: -34.5, y: -47.5}
-        - {x: 34.5, y: -47.5}
-        - {x: 34.5, y: 47.5}
-    - name: chara41_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara41_eat2.png
       rect:
         serializedVersion: 2
-        x: 286
-        y: 1070
+        x: 1388
+        y: 654
         width: 69
         height: 89
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -34.5, y: 44.5}
-        - {x: -34.5, y: -44.5}
-        - {x: 34.5, y: -44.5}
-        - {x: 34.5, y: 40.5}
-        - {x: 32.5, y: 44.5}
-    - name: chara41_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara41_move1.png
       rect:
         serializedVersion: 2
-        x: 1782
-        y: 1589
+        x: 1745
+        y: 1772
         width: 125
         height: 86
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 4.5, y: 43}
-        - {x: -45.5, y: 43}
-        - {x: -62.5, y: 29}
-        - {x: -62.5, y: -43}
-        - {x: 62.5, y: -43}
-        - {x: 62.5, y: 12}
-        - {x: 55.5, y: 22}
-    - name: chara41_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara41_move2.png
       rect:
         serializedVersion: 2
-        x: 1911
-        y: 1574
+        x: 1613
+        y: 1725
         width: 125
         height: 86
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 40.5, y: -43}
-        - {x: 43.5, y: -35}
-        - {x: 47.5, y: -20}
-        - {x: 48.5, y: -29}
-        - {x: 58.5, y: -27}
-        - {x: 62.5, y: -19}
-        - {x: 62.5, y: 5}
-        - {x: 53.5, y: 18}
-        - {x: -2.5, y: 43}
-        - {x: -44.5, y: 43}
-        - {x: -62.5, y: 30}
-        - {x: -62.5, y: -34}
-        - {x: -50.5, y: -43}
-        - {x: -7.5, y: -43}
-        - {x: -5.5, y: -39}
-        - {x: -5.5, y: -28}
-        - {x: -1.5, y: -43}
-    - name: chara42_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara42_eat1.png
       rect:
         serializedVersion: 2
-        x: 1846
-        y: 795
+        x: 191
+        y: 1291
         width: 88
         height: 120
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -19, y: 60}
-        - {x: -44, y: 41}
-        - {x: -44, y: -38}
-        - {x: -39, y: -60}
-        - {x: 44, y: -60}
-        - {x: 44, y: 60}
-    - name: chara42_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara42_eat2.png
       rect:
         serializedVersion: 2
-        x: 1647
-        y: 639
+        x: 623
+        y: 1352
         width: 83
         height: 110
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -37.5, y: 55}
-        - {x: -41.5, y: 39}
-        - {x: -41.5, y: -40}
-        - {x: -35.5, y: -40}
-        - {x: -32.5, y: -55}
-        - {x: 41.5, y: -55}
-        - {x: 41.5, y: 23}
-        - {x: 32.5, y: 55}
-    - name: chara42_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara42_move1.png
       rect:
         serializedVersion: 2
-        x: 995
+        x: 694
         y: 1931
         width: 128
         height: 113
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -51, y: 56.5}
-        - {x: -64, y: 36.5}
-        - {x: -64, y: -56.5}
-        - {x: 64, y: -56.5}
-        - {x: 64, y: 12.5}
-        - {x: -9, y: 56.5}
-    - name: chara42_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara42_move2.png
       rect:
         serializedVersion: 2
-        x: 1127
+        x: 826
         y: 1931
         width: 128
         height: 113
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 1, y: 56.5}
-        - {x: -56, y: 56.5}
-        - {x: -64, y: 27.5}
-        - {x: -64, y: -6.5}
-        - {x: -50, y: -56.5}
-        - {x: 64, y: -56.5}
-        - {x: 64, y: 1.5}
-        - {x: 60, y: 16.5}
-    - name: chara43_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara43_eat1.png
       rect:
         serializedVersion: 2
-        x: 131
-        y: 472
+        x: 61
+        y: 787
         width: 53
         height: 56
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 12.5, y: 28}
-        - {x: -17.5, y: 28}
-        - {x: -22.5, y: 27}
-        - {x: -26.5, y: 7}
-        - {x: -26.5, y: -28}
-        - {x: 26.5, y: -28}
-        - {x: 26.5, y: 7}
-        - {x: 16.5, y: 25}
-    - name: chara43_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara43_eat2.png
       rect:
         serializedVersion: 2
-        x: 1991
-        y: 479
+        x: 4
+        y: 785
         width: 53
         height: 58
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -15.5, y: 29}
-        - {x: -25.5, y: 27}
-        - {x: -26.5, y: 16}
-        - {x: -26.5, y: -29}
-        - {x: 26.5, y: -29}
-        - {x: 26.5, y: 6}
-        - {x: 21.5, y: 28}
-        - {x: 14.5, y: 29}
-    - name: chara43_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara43_move1.png
       rect:
         serializedVersion: 2
-        x: 836
-        y: 1676
+        x: 1869
+        y: 1660
         width: 123
         height: 56
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 1.5, y: 28}
-        - {x: -53.5, y: 28}
-        - {x: -61.5, y: 11}
-        - {x: -61.5, y: -26}
-        - {x: -55.5, y: -28}
-        - {x: 58.5, y: -28}
-        - {x: 61.5, y: -27}
-        - {x: 61.5, y: -6}
-        - {x: 29.5, y: 18}
-    - name: chara43_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara43_move2.png
       rect:
         serializedVersion: 2
-        x: 1235
-        y: 1716
+        x: 1869
+        y: 1600
         width: 123
         height: 56
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -53.5, y: 28}
-        - {x: -61.5, y: 17}
-        - {x: -61.5, y: -28}
-        - {x: 61.5, y: -28}
-        - {x: 61.5, y: -5}
-        - {x: 13.5, y: 28}
-    - name: chara44_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara44_eat1.png
       rect:
         serializedVersion: 2
-        x: 1769
-        y: 1033
+        x: 4
+        y: 1424
         width: 90
         height: 125
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -45, y: -8.5}
-        - {x: -45, y: -62.5}
-        - {x: 45, y: -62.5}
-        - {x: 45, y: 4.5}
-        - {x: 40, y: 35.5}
-        - {x: 19, y: 62.5}
-        - {x: -25, y: 62.5}
-        - {x: -31, y: 60.5}
-    - name: chara44_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara44_eat2.png
       rect:
         serializedVersion: 2
-        x: 1863
-        y: 999
+        x: 385
+        y: 1551
         width: 90
         height: 125
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -33, y: 62.5}
-        - {x: -45, y: 53.5}
-        - {x: -45, y: -62.5}
-        - {x: 39, y: -62.5}
-        - {x: 45, y: -58.5}
-        - {x: 45, y: 16.5}
-        - {x: 34, y: 62.5}
-    - name: chara44_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara44_move1.png
       rect:
         serializedVersion: 2
-        x: 1487
-        y: 1527
+        x: 958
+        y: 1803
         width: 121
         height: 126
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 60.5, y: -61}
-        - {x: 60.5, y: 23}
-        - {x: -4.5, y: 63}
-        - {x: -60.5, y: 63}
-        - {x: -60.5, y: -48}
-        - {x: -56.5, y: -63}
-        - {x: 5.5, y: -63}
-        - {x: 6.5, y: -58}
-        - {x: 7.5, y: -63}
-        - {x: 58.5, y: -63}
-    - name: chara44_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara44_move2.png
       rect:
         serializedVersion: 2
-        x: 1919
-        y: 1788
+        x: 1484
+        y: 1720
         width: 125
         height: 126
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -51.5, y: 63}
-        - {x: -62.5, y: 46}
-        - {x: -62.5, y: -35}
-        - {x: -47.5, y: -63}
-        - {x: 62.5, y: -63}
-        - {x: 62.5, y: -18}
-        - {x: 53.5, y: 13}
-        - {x: 3.5, y: 57}
-        - {x: -5.5, y: 63}
-    - name: chara45_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara45_eat1.png
       rect:
         serializedVersion: 2
-        x: 1728
-        y: 1188
-        width: 44
+        x: 1830
+        y: 1348
+        width: 116
         height: 121
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18, y: 60.5}
-        - {x: -20, y: 59.5}
-        - {x: -22, y: 33.5}
-        - {x: -22, y: -60.5}
-        - {x: 22, y: -60.5}
-        - {x: 22, y: 55.5}
-        - {x: 18, y: 60.5}
-    - name: chara45_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara45_eat2.png
       rect:
         serializedVersion: 2
-        x: 1674
-        y: 1185
-        width: 44
-        height: 93
+        x: 905
+        y: 1557
+        width: 112
+        height: 117
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -22, y: 46.5}
-        - {x: -22, y: -46.5}
-        - {x: 22, y: -46.5}
-        - {x: 22, y: 44.5}
-        - {x: 17, y: 46.5}
-    - name: chara45_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara45_move1.png
       rect:
         serializedVersion: 2
-        x: 1787
-        y: 1679
-        width: 126
-        height: 120
+        x: 1914
+        y: 985
+        width: 105
+        height: 119
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 39, y: -60}
-        - {x: 63, y: -29}
-        - {x: 63, y: 9}
-        - {x: 58, y: 60}
-        - {x: -63, y: 60}
-        - {x: -63, y: -6}
-        - {x: -25, y: -56}
-        - {x: -15, y: -49}
-        - {x: -14, y: -44}
-        - {x: -13, y: -48}
-        - {x: -18, y: -55}
-        - {x: -17, y: -60}
-        - {x: -5, y: -60}
-        - {x: -2, y: -56}
-        - {x: 4, y: -41}
-        - {x: 23, y: -60}
-    - name: chara45_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara45_move2.png
       rect:
         serializedVersion: 2
-        x: 1917
-        y: 1664
-        width: 126
-        height: 120
+        x: 1798
+        y: 975
+        width: 104
+        height: 122
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 58, y: 16}
-        - {x: -18, y: 60}
-        - {x: -42, y: 60}
-        - {x: -63, y: 32}
-        - {x: -63, y: -12}
-        - {x: -39, y: -60}
-        - {x: -22, y: -60}
-        - {x: -12, y: -50}
-        - {x: -12, y: -48}
-        - {x: -12, y: -58}
-        - {x: -10, y: -60}
-        - {x: 52, y: -60}
-        - {x: 63, y: -39}
-        - {x: 63, y: 3}
-    - name: chara46_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara45_scare.png
       rect:
         serializedVersion: 2
-        x: 1423
-        y: 1152
+        x: 1740
+        y: 1518
+        width: 122
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara46_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 1721
         width: 39
         height: 126
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -19.5, y: 63}
-        - {x: -19.5, y: -63}
-        - {x: 19.5, y: -63}
-        - {x: 19.5, y: 60}
-        - {x: 16.5, y: 63}
-    - name: chara46_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara46_eat2.png
       rect:
         serializedVersion: 2
         x: 2001
-        y: 541
+        y: 1627
         width: 39
         height: 90
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -7.5, y: 45}
-        - {x: -19.5, y: 30}
-        - {x: -19.5, y: -40}
-        - {x: -18.5, y: -45}
-        - {x: 19.5, y: -45}
-        - {x: 19.5, y: 33}
-        - {x: 7.5, y: 45}
-    - name: chara46_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara46_move1.png
       rect:
         serializedVersion: 2
-        x: 400
-        y: 1645
+        x: 549
+        y: 1682
         width: 114
         height: 128
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 25, y: -64}
-        - {x: 26, y: -63}
-        - {x: 28, y: -56}
-        - {x: 28, y: -53}
-        - {x: 32, y: -45}
-        - {x: 28, y: -55}
-        - {x: 28, y: -58}
-        - {x: 30, y: -60}
-        - {x: 37, y: -61}
-        - {x: 57, y: -56}
-        - {x: 57, y: 17}
-        - {x: 19, y: 64}
-        - {x: -49, y: 64}
-        - {x: -57, y: 56}
-        - {x: -57, y: 23}
-        - {x: -27, y: -39}
-        - {x: -7, y: -64}
-        - {x: 7, y: -64}
-        - {x: 9, y: -63}
-        - {x: 13, y: -49}
-        - {x: 12, y: -64}
-    - name: chara46_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara46_move2.png
       rect:
         serializedVersion: 2
-        x: 268
-        y: 1539
+        x: 787
+        y: 1667
         width: 114
         height: 128
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -42, y: 64}
-        - {x: -57, y: 48}
-        - {x: -57, y: 35}
-        - {x: -56, y: 31}
-        - {x: -31, y: -43}
-        - {x: -12, y: -64}
-        - {x: 57, y: -64}
-        - {x: 57, y: 0}
-        - {x: -25, y: 64}
-    - name: chara47_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara47_eat1.png
       rect:
         serializedVersion: 2
-        x: 231
-        y: 1453
+        x: 118
+        y: 1009
         width: 63
         height: 82
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -19.5, y: 41}
-        - {x: -31.5, y: 38}
-        - {x: -31.5, y: -10}
-        - {x: -23.5, y: -41}
-        - {x: 29.5, y: -41}
-        - {x: 31.5, y: -23}
-        - {x: 31.5, y: 41}
-    - name: chara47_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara47_eat2.png
       rect:
         serializedVersion: 2
-        x: 71
-        y: 178
+        x: 4
+        y: 5
         width: 63
         height: 75
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -27.5, y: 36.5}
-        - {x: -31.5, y: 26.5}
-        - {x: -31.5, y: -32.5}
-        - {x: -24.5, y: -37.5}
-        - {x: 24.5, y: -37.5}
-        - {x: 31.5, y: -17.5}
-        - {x: 31.5, y: 26.5}
-        - {x: 15.5, y: 36.5}
-    - name: chara47_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara47_move1.png
       rect:
         serializedVersion: 2
-        x: 386
-        y: 1558
+        x: 1082
+        y: 1470
         width: 110
         height: 83
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -49, y: 41.5}
-        - {x: -55, y: 34.5}
-        - {x: -55, y: -13.5}
-        - {x: -43, y: -41.5}
-        - {x: 45, y: -41.5}
-        - {x: 55, y: -26.5}
-        - {x: 55, y: 12.5}
-        - {x: -1, y: 41.5}
-    - name: chara47_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara47_move2.png
       rect:
         serializedVersion: 2
-        x: 500
-        y: 1554
+        x: 1196
+        y: 1461
         width: 110
         height: 83
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 5, y: 41.5}
-        - {x: -55, y: 41.5}
-        - {x: -55, y: -21.5}
-        - {x: -41, y: -41.5}
-        - {x: 48, y: -41.5}
-        - {x: 55, y: -30.5}
-        - {x: 55, y: 14.5}
-    - name: chara48_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara48_eat1.png
       rect:
         serializedVersion: 2
-        x: 75
-        y: 959
-        width: 75
-        height: 106
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -12.5, y: 53}
-        - {x: -37.5, y: 37}
-        - {x: -37.5, y: -28}
-        - {x: -32.5, y: -48}
-        - {x: -25.5, y: -53}
-        - {x: 34.5, y: -53}
-        - {x: 37.5, y: -39}
-        - {x: 37.5, y: 45}
-        - {x: 24.5, y: 53}
-    - name: chara48_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 1164
-        width: 75
-        height: 104
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 20.5, y: 52}
-        - {x: -15.5, y: 52}
-        - {x: -37.5, y: 29}
-        - {x: -37.5, y: -51}
-        - {x: -33.5, y: -52}
-        - {x: 31.5, y: -52}
-        - {x: 36.5, y: -38}
-        - {x: 37.5, y: -34}
-        - {x: 37.5, y: 33}
-    - name: chara48_move1.png
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 346
-        width: 62
+        x: 1709
+        y: 1400
+        width: 117
         height: 114
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -17, y: 57}
-        - {x: -31, y: 22}
-        - {x: -31, y: -38}
-        - {x: -26, y: -54}
-        - {x: -15, y: -57}
-        - {x: 31, y: -57}
-        - {x: 31, y: 43}
-        - {x: 13, y: 57}
-    - name: chara48_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara48_eat2.png
       rect:
         serializedVersion: 2
-        x: 70
-        y: 346
-        width: 62
+        x: 1824
+        y: 1233
+        width: 116
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara48_move1.png
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1812
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara48_move2.png
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1439
+        width: 110
         height: 114
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -13, y: 57}
-        - {x: -31, y: 47}
-        - {x: -31, y: -48}
-        - {x: -20, y: -57}
-        - {x: 31, y: -57}
-        - {x: 31, y: 38}
-        - {x: 21, y: 57}
-    - name: chara49_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara48_scare.png
       rect:
         serializedVersion: 2
-        x: 4
-        y: 48
+        x: 1339
+        y: 1592
+        width: 120
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara49_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1425
         width: 66
         height: 125
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 33, y: -13.5}
-        - {x: 33, y: 20.5}
-        - {x: 15, y: 62.5}
-        - {x: -26, y: 62.5}
-        - {x: -33, y: 57.5}
-        - {x: -33, y: -46.5}
-        - {x: -31, y: -62.5}
-        - {x: -11, y: -62.5}
-        - {x: -8, y: -57.5}
-        - {x: -3, y: -62.5}
-        - {x: 20, y: -62.5}
-    - name: chara49_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara49_eat2.png
       rect:
         serializedVersion: 2
-        x: 126
-        y: 1272
+        x: 953
+        y: 1226
         width: 54
         height: 121
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 16, y: 25.5}
-        - {x: -15, y: 25.5}
-        - {x: -27, y: 3.5}
-        - {x: -27, y: -48.5}
-        - {x: -25, y: -60.5}
-        - {x: 26, y: -60.5}
-        - {x: 27, y: -52.5}
-        - {x: 27, y: -0.5}
-    - name: chara49_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara49_move1.png
       rect:
         serializedVersion: 2
-        x: 1216
-        y: 1409
+        x: 1577
+        y: 1107
         width: 107
         height: 128
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -5.5, y: 64}
-        - {x: -48.5, y: 64}
-        - {x: -53.5, y: 62}
-        - {x: -53.5, y: -40}
-        - {x: -48.5, y: -64}
-        - {x: 52.5, y: -64}
-        - {x: 53.5, y: -62}
-        - {x: 53.5, y: 0}
-        - {x: 38.5, y: 52}
-    - name: chara49_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara49_move2.png
       rect:
         serializedVersion: 2
-        x: 1103
-        y: 1332
+        x: 1803
+        y: 1101
         width: 107
         height: 128
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 18.5, y: 40}
-        - {x: -2.5, y: 27}
-        - {x: 0.5, y: 22}
-        - {x: 3.5, y: 19}
-        - {x: 4.5, y: 15}
-        - {x: 3.5, y: 19}
-        - {x: 1.5, y: 21}
-        - {x: -3.5, y: 28}
-        - {x: -4.5, y: 38}
-        - {x: -6.5, y: 48}
-        - {x: -16.5, y: 64}
-        - {x: -31.5, y: 64}
-        - {x: -44.5, y: 58}
-        - {x: -53.5, y: 47}
-        - {x: -53.5, y: -15}
-        - {x: -35.5, y: -64}
-        - {x: 53.5, y: -64}
-        - {x: 53.5, y: 11}
-        - {x: 35.5, y: 32}
-    - name: chara50_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara50_eat1.png
       rect:
         serializedVersion: 2
-        x: 184
-        y: 1539
+        x: 530
+        y: 1191
         width: 80
         height: 111
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -29, y: 55.5}
-        - {x: -40, y: 41.5}
-        - {x: -40, y: -55.5}
-        - {x: 40, y: -55.5}
-        - {x: 40, y: 48.5}
-        - {x: 21, y: 55.5}
-    - name: chara50_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara50_eat2.png
       rect:
         serializedVersion: 2
-        x: 81
-        y: 1553
+        x: 785
+        y: 1115
         width: 80
         height: 97
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 40, y: 29.5}
-        - {x: 21, y: 48.5}
-        - {x: -16, y: 48.5}
-        - {x: -32, y: 42.5}
-        - {x: -40, y: 28.5}
-        - {x: -40, y: -48.5}
-        - {x: 40, y: -48.5}
-    - name: chara50_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara50_move1.png
       rect:
         serializedVersion: 2
-        x: 995
-        y: 1830
+        x: 1750
+        y: 1947
         width: 128
         height: 97
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 19, y: 48.5}
-        - {x: -13, y: 48.5}
-        - {x: -48, y: 27.5}
-        - {x: -64, y: 9.5}
-        - {x: -64, y: -18.5}
-        - {x: -34, y: -48.5}
-        - {x: 64, y: -48.5}
-        - {x: 64, y: 33.5}
-    - name: chara50_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara50_move2.png
       rect:
         serializedVersion: 2
-        x: 1127
-        y: 1830
+        x: 1882
+        y: 1947
         width: 128
         height: 97
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -29, y: 48.5}
-        - {x: -55, y: 35.5}
-        - {x: -64, y: 14.5}
-        - {x: -64, y: -31.5}
-        - {x: -55, y: -48.5}
-        - {x: 64, y: -48.5}
-        - {x: 64, y: 30.5}
-        - {x: 28, y: 48.5}
-    - name: chara51_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara51_eat1.png
       rect:
         serializedVersion: 2
-        x: 1563
-        y: 989
+        x: 1868
+        y: 507
         width: 92
         height: 121
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -37, y: 60.5}
-        - {x: -45, y: 50.5}
-        - {x: -46, y: 24.5}
-        - {x: -46, y: -54.5}
-        - {x: -40, y: -60.5}
-        - {x: 45, y: -60.5}
-        - {x: 46, y: -58.5}
-        - {x: 46, y: 30.5}
-        - {x: 39, y: 60.5}
-    - name: chara51_eat2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara51_eat2.png
       rect:
         serializedVersion: 2
-        x: 1302
-        y: 1140
+        x: 4
+        y: 1790
         width: 92
         height: 121
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -37, y: 60.5}
-        - {x: -45, y: 50.5}
-        - {x: -46, y: 24.5}
-        - {x: -46, y: -54.5}
-        - {x: -40, y: -60.5}
-        - {x: 45, y: -60.5}
-        - {x: 46, y: -58.5}
-        - {x: 46, y: 30.5}
-        - {x: 39, y: 60.5}
-    - name: chara51_move1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara51_move1.png
       rect:
         serializedVersion: 2
-        x: 1787
+        x: 1486
         y: 1945
         width: 128
         height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -60, y: 49.5}
-        - {x: -64, y: 47.5}
-        - {x: -64, y: -14.5}
-        - {x: -36, y: -49.5}
-        - {x: 64, y: -49.5}
-        - {x: 64, y: 40.5}
-        - {x: 47, y: 49.5}
-    - name: chara51_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara51_move2.png
       rect:
         serializedVersion: 2
-        x: 1523
-        y: 1842
+        x: 1618
+        y: 1945
         width: 128
         height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 29.5}
-        - {x: -64, y: -14.5}
-        - {x: -35, y: -49.5}
-        - {x: 64, y: -49.5}
-        - {x: 64, y: 38.5}
-        - {x: 63, y: 42.5}
-        - {x: 11, y: 49.5}
-        - {x: -34, y: 49.5}
-        - {x: -63, y: 36.5}
-    - name: chara52_eat1.png
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 1654
-        width: 128
-        height: 118
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -64, y: 59}
-        - {x: -64, y: 7}
-        - {x: -32, y: -59}
-        - {x: 30, y: -59}
-        - {x: 64, y: 2}
-        - {x: 64, y: 59}
-    - name: chara52_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 1654
-        width: 128
-        height: 118
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 30, y: -10}
-        - {x: 27, y: -11}
-        - {x: 28, y: -10}
-        - {x: 31, y: -10}
-        - {x: 33, y: -8}
-        - {x: 62, y: 4}
-        - {x: 64, y: 9}
-        - {x: 64, y: 59}
-        - {x: -64, y: 59}
-        - {x: -64, y: 7}
-        - {x: -43, y: -7}
-        - {x: -34, y: -3}
-        - {x: -30, y: -12}
-        - {x: -27, y: -11}
-        - {x: -27, y: -19}
-        - {x: -31, y: -10}
-        - {x: -48, y: -20}
-        - {x: -28, y: -59}
-        - {x: 23, y: -59}
-        - {x: 58, y: -35}
-        - {x: 39, y: -11}
-        - {x: 34, y: -10}
-    - name: chara52_move1.png
-      rect:
-        serializedVersion: 2
-        x: 1780
-        y: 1463
-        width: 121
-        height: 122
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 60.5, y: -43}
-        - {x: 60.5, y: 37}
-        - {x: 58.5, y: 49}
-        - {x: 42.5, y: 61}
-        - {x: 4.5, y: 61}
-        - {x: -37.5, y: 43}
-        - {x: -47.5, y: 37}
-        - {x: -60.5, y: 13}
-        - {x: -60.5, y: -11}
-        - {x: -24.5, y: -61}
-        - {x: -6.5, y: -61}
-        - {x: 0.5, y: -49}
-        - {x: 10.5, y: -61}
-        - {x: 39.5, y: -61}
-    - name: chara52_move2.png
-      rect:
-        serializedVersion: 2
-        x: 1479
-        y: 1401
-        width: 121
-        height: 122
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -13.5, y: -59}
-        - {x: -13.5, y: -61}
-        - {x: 42.5, y: -61}
-        - {x: 60.5, y: -52}
-        - {x: 60.5, y: 38}
-        - {x: 55.5, y: 45}
-        - {x: 39.5, y: 61}
-        - {x: 4.5, y: 61}
-        - {x: -37.5, y: 43}
-        - {x: -47.5, y: 37}
-        - {x: -60.5, y: 13}
-        - {x: -60.5, y: -5}
-        - {x: -34.5, y: -16}
-        - {x: -31.5, y: -18}
-        - {x: -31.5, y: -20}
-        - {x: -31.5, y: -19}
-        - {x: -34.5, y: -16}
-        - {x: -37.5, y: -15}
-        - {x: -44.5, y: -26}
-        - {x: -29.5, y: -61}
-        - {x: -17.5, y: -61}
-        - {x: -12.5, y: -57}
-        - {x: -14.5, y: -51}
-        - {x: -10.5, y: -54}
-    - name: chara53_eat1.png
-      rect:
-        serializedVersion: 2
-        x: 518
-        y: 1641
-        width: 112
-        height: 132
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 26, y: 40}
-        - {x: 25, y: 37}
-        - {x: 25, y: 33}
-        - {x: 25, y: 53}
-        - {x: 19, y: 61}
-        - {x: 14, y: 66}
-        - {x: -18, y: 66}
-        - {x: -36, y: 60}
-        - {x: -56, y: 34}
-        - {x: -56, y: -66}
-        - {x: 47, y: -66}
-        - {x: 56, y: -52}
-        - {x: 56, y: 27}
-        - {x: 45, y: 50}
-    - name: chara53_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 708
-        y: 1601
-        width: 112
-        height: 108
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 14, y: 54}
-        - {x: -25, y: 54}
-        - {x: -56, y: 33}
-        - {x: -56, y: -54}
-        - {x: 52, y: -54}
-        - {x: 56, y: -49}
-        - {x: 56, y: 19}
-        - {x: 29, y: 49}
-    - name: chara53_move1.png
-      rect:
-        serializedVersion: 2
-        x: 217
-        y: 1915
-        width: 209
-        height: 129
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 61.5, y: 49.5}
-        - {x: -10.5, y: 64.5}
-        - {x: -104.5, y: 64.5}
-        - {x: -104.5, y: 14.5}
-        - {x: -96.5, y: 11.5}
-        - {x: -90.5, y: 16.5}
-        - {x: -87.5, y: 15.5}
-        - {x: -85.5, y: 15.5}
-        - {x: -81.5, y: 18.5}
-        - {x: -85.5, y: 14.5}
-        - {x: -91.5, y: 15.5}
-        - {x: -97.5, y: 8.5}
-        - {x: -92.5, y: -1.5}
-        - {x: -68.5, y: -34.5}
-        - {x: -9.5, y: -64.5}
-        - {x: 7.5, y: -52.5}
-        - {x: 11.5, y: -47.5}
-        - {x: 4.5, y: -55.5}
-        - {x: 3.5, y: -59.5}
-        - {x: 9.5, y: -64.5}
-        - {x: 34.5, y: -64.5}
-        - {x: 50.5, y: -38.5}
-        - {x: 104.5, y: -12.5}
-        - {x: 104.5, y: -0.5}
-    - name: chara53_move2.png
-      rect:
-        serializedVersion: 2
-        x: 643
-        y: 1916
-        width: 209
-        height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -104.5, y: 64}
-        - {x: -104.5, y: 14}
-        - {x: -96.5, y: 11}
-        - {x: -90.5, y: 16}
-        - {x: -87.5, y: 15}
-        - {x: -85.5, y: 15}
-        - {x: -81.5, y: 18}
-        - {x: -85.5, y: 14}
-        - {x: -91.5, y: 15}
-        - {x: -97.5, y: 8}
-        - {x: -98.5, y: -12}
-        - {x: -55.5, y: -64}
-        - {x: 50.5, y: -64}
-        - {x: 104.5, y: -33}
-        - {x: 104.5, y: 56}
-        - {x: 57.5, y: 64}
-    - name: chara54_eat1.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara52_eat1.png
       rect:
         serializedVersion: 2
         x: 430
-        y: 1777
-        width: 135
-        height: 135
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -63.5, y: 67.5}
-        - {x: -67.5, y: 63.5}
-        - {x: -67.5, y: 35.5}
-        - {x: -58.5, y: 31.5}
-        - {x: -52.5, y: 29.5}
-        - {x: -67.5, y: -15.5}
-        - {x: -67.5, y: -22.5}
-        - {x: -65.5, y: -23.5}
-        - {x: -64.5, y: -23.5}
-        - {x: -57.5, y: -63.5}
-        - {x: -51.5, y: -67.5}
-        - {x: 67.5, y: -67.5}
-        - {x: 67.5, y: 51.5}
-        - {x: 39.5, y: 67.5}
-    - name: chara54_eat2.png
-      rect:
-        serializedVersion: 2
-        x: 708
-        y: 1781
-        width: 135
-        height: 131
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -6.5, y: 63.5}
-        - {x: -43.5, y: 43.5}
-        - {x: -67.5, y: 12.5}
-        - {x: -67.5, y: -37.5}
-        - {x: -55.5, y: -65.5}
-        - {x: 67.5, y: -65.5}
-        - {x: 67.5, y: 30.5}
-        - {x: 19.5, y: 63.5}
-    - name: chara54_move1.png
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 1776
+        y: 1926
         width: 128
-        height: 135
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 42, y: 34.5}
-        - {x: 28, y: 13.5}
-        - {x: 4, y: 67.5}
-        - {x: -30, y: 67.5}
-        - {x: -64, y: 32.5}
-        - {x: -64, y: 16.5}
-        - {x: -56, y: 8.5}
-        - {x: -64, y: -7.5}
-        - {x: -64, y: -67.5}
-        - {x: 64, y: -67.5}
-        - {x: 64, y: 29.5}
-        - {x: 61, y: 43.5}
-    - name: chara54_move2.png
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara52_eat2.png
       rect:
         serializedVersion: 2
-        x: 569
-        y: 1777
-        width: 135
-        height: 135
+        x: 562
+        y: 1926
+        width: 128
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 62.5, y: -32.5}
-        - {x: 58.5, y: -15.5}
-        - {x: 67.5, y: 20.5}
-        - {x: 67.5, y: 31.5}
-        - {x: 52.5, y: 34.5}
-        - {x: 30.5, y: 19.5}
-        - {x: 4.5, y: 67.5}
-        - {x: -40.5, y: 67.5}
-        - {x: -67.5, y: 32.5}
-        - {x: -67.5, y: 16.5}
-        - {x: -59.5, y: 8.5}
-        - {x: -67.5, y: -7.5}
-        - {x: -67.5, y: -67.5}
-        - {x: 60.5, y: -67.5}
-        - {x: 62.5, y: -60.5}
-        - {x: 57.5, y: -57.5}
-        - {x: 53.5, y: -56.5}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara52_move1.png
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1808
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara52_move2.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1721
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara53_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1467
+        width: 117
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara53_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1474
+        width: 118
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara53_move1.png
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1541
+        width: 111
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara53_move2.png
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1585
+        width: 112
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara53_scare.png
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1720
+        width: 123
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara54_eat1.png
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1275
+        width: 116
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara54_eat2.png
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1472
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara54_move1.png
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1345
+        width: 109
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara54_move2.png
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1678
+        width: 115
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara54_scare.png
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1473
+        width: 122
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
     outline: []
   spritePackingTag: 
   userData: 
