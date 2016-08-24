@@ -2,18 +2,18 @@
 
 "item11_01.png":
 {
-	"frame": {"x":4,"y":4,"w":960,"h":789},
+	"frame": {"x":4,"y":4,"w":960,"h":646},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":171,"w":960,"h":789},
+	"spriteSourceSize": {"x":0,"y":314,"w":960,"h":646},
 	"sourceSize": {"w":960,"h":960}
 },
 "item11_02.png":
 {
-	"frame": {"x":968,"y":4,"w":960,"h":760},
+	"frame": {"x":968,"y":4,"w":960,"h":646},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":200,"w":960,"h":760},
+	"spriteSourceSize": {"x":0,"y":314,"w":960,"h":646},
 	"sourceSize": {"w":960,"h":960}
 }},
 "meta": {
@@ -23,6 +23,6 @@
 	"format": "RGBA8888",
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:7cb7ffb72b2fc6703c3543c4163f319c:6178e6be997e6cec9b4cbb4610198021:9d090062b89c4516f727a215c4861c4a$"
+	"smartupdate": "$TexturePacker:SmartUpdate:4d306ceabee25222d11e7ff8a95d32eb:935828f2f3d1b6df65a3e70419ac3546:9d090062b89c4516f727a215c4861c4a$"
 }
 }

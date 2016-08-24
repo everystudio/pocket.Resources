@@ -1,13 +1,9 @@
 fileFormatVersion: 2
-guid: edeae2c48813545409a9d37108153248
-timeCreated: 1472046603
+guid: fe3c86928d14985499001ebf89127b9a
+timeCreated: 1472046598
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: item10_01.png
-    21300002: item10_02.png
-    21300004: item11_01.png
-    21300006: item11_02.png
+  fileIDToRecycleName: {}
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,58 +26,32 @@ TextureImporter:
   cubemapConvolutionSteps: 7
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
-  textureFormat: -2
+  textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: 16
+    aniso: -1
     mipBias: -1
-    wrapMode: 1
-  nPOTScale: 0
+    wrapMode: -1
+  nPOTScale: 1
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 2
+  spriteMode: 0
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
-  alphaIsTransparency: 1
+  alphaIsTransparency: 0
   spriteTessellationDetail: -1
-  textureType: 8
+  textureType: -1
   buildTargetSettings: []
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: item11_01.png
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 1398
-        width: 960
-        height: 646
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: item11_02.png
-      rect:
-        serializedVersion: 2
-        x: 968
-        y: 1398
-        width: 960
-        height: 646
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: -1
+    sprites: []
     outline: []
   spritePackingTag: 
   userData: 

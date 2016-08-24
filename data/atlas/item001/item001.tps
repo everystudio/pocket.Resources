@@ -6,7 +6,7 @@
         <key>texturePackerVersion</key>
         <string>4.2.2</string>
         <key>fileName</key>
-        <string>G:/image/Atlas/zoo/item001/item001.tps</string>
+        <string>G:/repository/pocket/Assets/pocket.Resources/data/atlas/item001/item001.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -86,9 +86,9 @@
         <key>maxTextureSize</key>
         <QSize>
             <key>width</key>
-            <int>4096</int>
+            <int>2048</int>
             <key>height</key>
-            <int>4096</int>
+            <int>2048</int>
         </QSize>
         <key>fixedTextureSize</key>
         <QSize>
@@ -201,6 +201,7 @@
             <key type="filename">parts/item04_01.png</key>
             <key type="filename">parts/item04_02.png</key>
             <key type="filename">parts/item05_01.png</key>
+            <key type="filename">parts/item05_02.png</key>
             <key type="filename">parts/item06_01.png</key>
             <key type="filename">parts/item06_02.png</key>
             <key type="filename">parts/item07_01.png</key>

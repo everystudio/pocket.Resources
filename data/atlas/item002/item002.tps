@@ -6,7 +6,7 @@
         <key>texturePackerVersion</key>
         <string>4.2.2</string>
         <key>fileName</key>
-        <string>G:/image/Atlas/zoo/item002/item002.tps</string>
+        <string>G:/repository/pocket/Assets/pocket.Resources/data/atlas/item002/item002.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
