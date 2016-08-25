@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: b1a4880813ae08343bd886287c28e948
-timeCreated: 1471873605
+timeCreated: 1472116052
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -110,8 +110,8 @@ TextureImporter:
       name: chara01.png
       rect:
         serializedVersion: 2
-        x: 1080
-        y: 181
+        x: 1124
+        y: 1445
         width: 72
         height: 155
       alignment: 0
@@ -123,8 +123,8 @@ TextureImporter:
       name: chara02.png
       rect:
         serializedVersion: 2
-        x: 730
-        y: 644
+        x: 1252
+        y: 872
         width: 124
         height: 207
       alignment: 0
@@ -136,8 +136,8 @@ TextureImporter:
       name: chara03.png
       rect:
         serializedVersion: 2
-        x: 233
-        y: 1792
+        x: 1794
+        y: 1385
         width: 159
         height: 252
       alignment: 0
@@ -149,8 +149,8 @@ TextureImporter:
       name: chara04.png
       rect:
         serializedVersion: 2
-        x: 918
-        y: 1835
+        x: 1124
+        y: 1171
         width: 157
         height: 209
       alignment: 0
@@ -162,8 +162,8 @@ TextureImporter:
       name: chara05.png
       rect:
         serializedVersion: 2
-        x: 4
-        y: 1268
+        x: 216
+        y: 1106
         width: 199
         height: 256
       alignment: 0
@@ -175,8 +175,8 @@ TextureImporter:
       name: chara06.png
       rect:
         serializedVersion: 2
-        x: 577
-        y: 855
+        x: 4
+        y: 1364
         width: 208
         height: 207
       alignment: 0
@@ -188,8 +188,8 @@ TextureImporter:
       name: chara07.png
       rect:
         serializedVersion: 2
-        x: 690
-        y: 1380
+        x: 264
+        y: 1830
         width: 256
         height: 214
       alignment: 0
@@ -201,8 +201,8 @@ TextureImporter:
       name: chara08.png
       rect:
         serializedVersion: 2
-        x: 481
-        y: 15
+        x: 1669
+        y: 1804
         width: 184
         height: 240
       alignment: 0
@@ -214,10 +214,10 @@ TextureImporter:
       name: chara09.png
       rect:
         serializedVersion: 2
-        x: 4
-        y: 502
-        width: 177
-        height: 248
+        x: 1842
+        y: 909
+        width: 135
+        height: 245
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -227,8 +227,8 @@ TextureImporter:
       name: chara10.png
       rect:
         serializedVersion: 2
-        x: 420
-        y: 536
+        x: 4
+        y: 667
         width: 145
         height: 235
       alignment: 0
@@ -240,8 +240,8 @@ TextureImporter:
       name: chara11.png
       rect:
         serializedVersion: 2
-        x: 1271
-        y: 1869
+        x: 206
+        y: 740
         width: 148
         height: 175
       alignment: 0
@@ -253,8 +253,8 @@ TextureImporter:
       name: chara12.png
       rect:
         serializedVersion: 2
-        x: 1079
-        y: 1861
+        x: 206
+        y: 919
         width: 188
         height: 183
       alignment: 0
@@ -266,8 +266,8 @@ TextureImporter:
       name: chara13.png
       rect:
         serializedVersion: 2
-        x: 1002
-        y: 340
+        x: 1123
+        y: 997
         width: 125
         height: 170
       alignment: 0
@@ -279,8 +279,8 @@ TextureImporter:
       name: chara14.png
       rect:
         serializedVersion: 2
-        x: 648
-        y: 303
+        x: 1673
+        y: 938
         width: 131
         height: 204
       alignment: 0
@@ -292,10 +292,10 @@ TextureImporter:
       name: chara15.png
       rect:
         serializedVersion: 2
-        x: 1184
-        y: 1678
-        width: 130
-        height: 179
+        x: 1857
+        y: 1641
+        width: 182
+        height: 163
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,8 +305,8 @@ TextureImporter:
       name: chara16.png
       rect:
         serializedVersion: 2
-        x: 789
-        y: 857
+        x: 1009
+        y: 1151
         width: 110
         height: 205
       alignment: 0
@@ -318,8 +318,8 @@ TextureImporter:
       name: chara17.png
       rect:
         serializedVersion: 2
-        x: 903
-        y: 1007
+        x: 1417
+        y: 1134
         width: 108
         height: 170
       alignment: 0
@@ -331,8 +331,8 @@ TextureImporter:
       name: chara18.png
       rect:
         serializedVersion: 2
-        x: 4
-        y: 251
+        x: 524
+        y: 1797
         width: 237
         height: 247
       alignment: 0
@@ -344,8 +344,8 @@ TextureImporter:
       name: chara19.png
       rect:
         serializedVersion: 2
-        x: 219
-        y: 1530
+        x: 655
+        y: 1121
         width: 193
         height: 254
       alignment: 0
@@ -357,8 +357,8 @@ TextureImporter:
       name: chara20.png
       rect:
         serializedVersion: 2
-        x: 895
-        y: 1611
+        x: 1523
+        y: 904
         width: 128
         height: 212
       alignment: 0
@@ -370,8 +370,8 @@ TextureImporter:
       name: chara21.png
       rect:
         serializedVersion: 2
-        x: 1011
-        y: 1256
+        x: 1417
+        y: 975
         width: 102
         height: 155
       alignment: 0
@@ -383,8 +383,8 @@ TextureImporter:
       name: chara22.png
       rect:
         serializedVersion: 2
-        x: 409
-        y: 1064
+        x: 1842
+        y: 1158
         width: 136
         height: 223
       alignment: 0
@@ -396,8 +396,8 @@ TextureImporter:
       name: chara23.png
       rect:
         serializedVersion: 2
-        x: 396
-        y: 1792
+        x: 1369
+        y: 1308
         width: 159
         height: 252
       alignment: 0
@@ -409,8 +409,8 @@ TextureImporter:
       name: chara24.png
       rect:
         serializedVersion: 2
-        x: 569
-        y: 625
+        x: 1532
+        y: 1346
         width: 157
         height: 209
       alignment: 0
@@ -422,8 +422,8 @@ TextureImporter:
       name: chara25.png
       rect:
         serializedVersion: 2
-        x: 207
-        y: 1269
+        x: 4
+        y: 906
         width: 198
         height: 255
       alignment: 0
@@ -435,8 +435,8 @@ TextureImporter:
       name: chara26.png
       rect:
         serializedVersion: 2
-        x: 783
-        y: 311
+        x: 997
+        y: 1604
         width: 215
         height: 196
       alignment: 0
@@ -448,8 +448,8 @@ TextureImporter:
       name: chara27.png
       rect:
         serializedVersion: 2
-        x: 635
-        y: 1598
+        x: 4
+        y: 1826
         width: 256
         height: 218
       alignment: 0
@@ -461,8 +461,8 @@ TextureImporter:
       name: chara28.png
       rect:
         serializedVersion: 2
-        x: 416
-        y: 1554
+        x: 1450
+        y: 1810
         width: 215
         height: 234
       alignment: 0
@@ -474,10 +474,10 @@ TextureImporter:
       name: chara29.png
       rect:
         serializedVersion: 2
-        x: 1078
-        y: 518
-        width: 255
-        height: 160
+        x: 1448
+        y: 1564
+        width: 173
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -487,8 +487,8 @@ TextureImporter:
       name: chara30.png
       rect:
         serializedVersion: 2
-        x: 409
-        y: 1291
+        x: 1693
+        y: 1146
         width: 145
         height: 235
       alignment: 0
@@ -500,8 +500,8 @@ TextureImporter:
       name: chara31.png
       rect:
         serializedVersion: 2
-        x: 928
-        y: 111
+        x: 398
+        y: 902
         width: 148
         height: 196
       alignment: 0
@@ -513,8 +513,8 @@ TextureImporter:
       name: chara32.png
       rect:
         serializedVersion: 2
-        x: 248
-        y: 775
+        x: 1857
+        y: 1808
         width: 184
         height: 236
       alignment: 0
@@ -526,8 +526,8 @@ TextureImporter:
       name: chara33.png
       rect:
         serializedVersion: 2
-        x: 763
-        y: 1827
+        x: 852
+        y: 949
         width: 151
         height: 217
       alignment: 0
@@ -539,10 +539,10 @@ TextureImporter:
       name: chara34.png
       rect:
         serializedVersion: 2
-        x: 4
-        y: 1009
-        width: 215
-        height: 255
+        x: 1380
+        y: 756
+        width: 123
+        height: 215
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -552,10 +552,10 @@ TextureImporter:
       name: chara35.png
       rect:
         serializedVersion: 2
-        x: 223
-        y: 1015
-        width: 182
-        height: 250
+        x: 765
+        y: 1622
+        width: 214
+        height: 177
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -565,8 +565,8 @@ TextureImporter:
       name: chara36.png
       rect:
         serializedVersion: 2
-        x: 436
-        y: 838
+        x: 1532
+        y: 1120
         width: 137
         height: 222
       alignment: 0
@@ -578,8 +578,8 @@ TextureImporter:
       name: chara37.png
       rect:
         serializedVersion: 2
-        x: 1027
-        y: 1645
+        x: 852
+        y: 1170
         width: 153
         height: 186
       alignment: 0
@@ -591,10 +591,10 @@ TextureImporter:
       name: chara38.png
       rect:
         serializedVersion: 2
-        x: 245
-        y: 253
-        width: 167
-        height: 246
+        x: 264
+        y: 1579
+        width: 237
+        height: 247
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -604,8 +604,8 @@ TextureImporter:
       name: chara39.png
       rect:
         serializedVersion: 2
-        x: 559
-        y: 1820
+        x: 451
+        y: 1317
         width: 200
         height: 224
       alignment: 0
@@ -617,8 +617,8 @@ TextureImporter:
       name: chara40.png
       rect:
         serializedVersion: 2
-        x: 558
-        y: 1329
+        x: 1285
+        y: 1083
         width: 128
         height: 221
       alignment: 0
@@ -630,10 +630,10 @@ TextureImporter:
       name: chara41.png
       rect:
         serializedVersion: 2
-        x: 858
-        y: 682
-        width: 246
-        height: 171
+        x: 1200
+        y: 1384
+        width: 165
+        height: 205
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -643,10 +643,10 @@ TextureImporter:
       name: chara42.png
       rect:
         serializedVersion: 2
-        x: 549
-        y: 1066
-        width: 255
-        height: 221
+        x: 1625
+        y: 1559
+        width: 165
+        height: 241
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -656,10 +656,10 @@ TextureImporter:
       name: chara43.png
       rect:
         serializedVersion: 2
-        x: 569
-        y: 511
-        width: 243
-        height: 110
+        x: 616
+        y: 910
+        width: 149
+        height: 207
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -669,10 +669,10 @@ TextureImporter:
       name: chara44.png
       rect:
         serializedVersion: 2
-        x: 4
-        y: 754
-        width: 240
-        height: 251
+        x: 1229
+        y: 1593
+        width: 215
+        height: 217
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -682,8 +682,8 @@ TextureImporter:
       name: chara45.png
       rect:
         serializedVersion: 2
-        x: 249
-        y: 8
+        x: 765
+        y: 1803
         width: 228
         height: 241
       alignment: 0
@@ -695,10 +695,10 @@ TextureImporter:
       name: chara46.png
       rect:
         serializedVersion: 2
-        x: 4
-        y: 1788
-        width: 225
-        height: 256
+        x: 419
+        y: 1102
+        width: 193
+        height: 211
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -708,10 +708,10 @@ TextureImporter:
       name: chara47.png
       rect:
         serializedVersion: 2
-        x: 858
-        y: 514
-        width: 216
-        height: 164
+        x: 717
+        y: 1379
+        width: 203
+        height: 239
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -721,8 +721,8 @@ TextureImporter:
       name: chara48.png
       rect:
         serializedVersion: 2
-        x: 808
-        y: 1181
+        x: 4
+        y: 1165
         width: 199
         height: 195
       alignment: 0
@@ -734,10 +734,10 @@ TextureImporter:
       name: chara49.png
       rect:
         serializedVersion: 2
-        x: 4
-        y: 1528
-        width: 211
-        height: 256
+        x: 239
+        y: 1366
+        width: 208
+        height: 209
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -747,10 +747,10 @@ TextureImporter:
       name: chara50.png
       rect:
         serializedVersion: 2
-        x: 950
-        y: 1415
-        width: 256
-        height: 192
+        x: 924
+        y: 1360
+        width: 196
+        height: 240
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -760,10 +760,10 @@ TextureImporter:
       name: chara51.png
       rect:
         serializedVersion: 2
-        x: 669
-        y: 103
-        width: 255
-        height: 196
+        x: 505
+        y: 1545
+        width: 208
+        height: 248
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -773,10 +773,10 @@ TextureImporter:
       name: chara52.png
       rect:
         serializedVersion: 2
-        x: 4
-        y: 4
-        width: 241
-        height: 243
+        x: 1229
+        y: 1814
+        width: 217
+        height: 230
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -786,8 +786,8 @@ TextureImporter:
       name: chara53.png
       rect:
         serializedVersion: 2
-        x: 185
-        y: 503
+        x: 4
+        y: 1575
         width: 231
         height: 247
       alignment: 0
@@ -799,8 +799,8 @@ TextureImporter:
       name: chara54.png
       rect:
         serializedVersion: 2
-        x: 416
-        y: 259
+        x: 997
+        y: 1804
         width: 228
         height: 240
       alignment: 0

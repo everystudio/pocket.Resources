@@ -284,6 +284,7 @@
             <key type="filename">parts/list_shisetsu1_1.png</key>
             <key type="filename">parts/list_shisetsu2_1.png</key>
             <key type="filename">parts/list_work_1.png</key>
+            <key type="filename">parts/logo.png</key>
             <key type="filename">parts/main_getmoney.png</key>
             <key type="filename">parts/main_header.png</key>
             <key type="filename">parts/main_workfukidashi.png</key>
