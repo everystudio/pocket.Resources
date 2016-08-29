@@ -6,7 +6,7 @@
         <key>texturePackerVersion</key>
         <string>4.2.2</string>
         <key>fileName</key>
-        <string>G:/image/Atlas/zoo/tutorial001/tutorial001.tps</string>
+        <string>G:/repository/pocket/Assets/pocket.Resources/data/atlas/tutorial001/tutorial001.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -188,26 +188,21 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">parts/tutorial1.png</key>
             <key type="filename">parts/tutorial10.png</key>
+            <key type="filename">parts/tutorial11.png</key>
             <key type="filename">parts/tutorial12.png</key>
-            <key type="filename">parts/tutorial13.png</key>
             <key type="filename">parts/tutorial14.png</key>
             <key type="filename">parts/tutorial15.png</key>
             <key type="filename">parts/tutorial16.png</key>
             <key type="filename">parts/tutorial17.png</key>
             <key type="filename">parts/tutorial18.png</key>
             <key type="filename">parts/tutorial19.png</key>
-            <key type="filename">parts/tutorial2.png</key>
-            <key type="filename">parts/tutorial20.png</key>
-            <key type="filename">parts/tutorial21.png</key>
-            <key type="filename">parts/tutorial22.png</key>
-            <key type="filename">parts/tutorial3.png</key>
             <key type="filename">parts/tutorial4.png</key>
             <key type="filename">parts/tutorial5.png</key>
             <key type="filename">parts/tutorial6.png</key>
             <key type="filename">parts/tutorial7.png</key>
             <key type="filename">parts/tutorial8.png</key>
+            <key type="filename">parts/tutorial_bace0.png</key>
             <key type="filename">parts/tutorial_cleanup.png</key>
             <key type="filename">parts/tutorial_manpuku.png</key>
             <key type="filename">parts/tutorial_next.png</key>

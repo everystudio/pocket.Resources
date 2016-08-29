@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 73818a8d92bbc9441ad042f09ab6f580
-timeCreated: 1472046600
+timeCreated: 1472484722
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -68,10 +68,10 @@ TextureImporter:
       name: item20_01.png
       rect:
         serializedVersion: 2
-        x: 1776
-        y: 1700
-        width: 160
-        height: 156
+        x: 1132
+        y: 808
+        width: 320
+        height: 251
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -81,10 +81,10 @@ TextureImporter:
       name: item20_02.png
       rect:
         serializedVersion: 2
-        x: 1612
-        y: 1697
-        width: 160
-        height: 159
+        x: 808
+        y: 803
+        width: 320
+        height: 256
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -94,8 +94,8 @@ TextureImporter:
       name: item21_01.png
       rect:
         serializedVersion: 2
-        x: 1452
-        y: 962
+        x: 808
+        y: 1063
         width: 480
         height: 450
       alignment: 0
@@ -107,8 +107,8 @@ TextureImporter:
       name: item21_02.png
       rect:
         serializedVersion: 2
-        x: 1452
-        y: 508
+        x: 1292
+        y: 1063
         width: 480
         height: 450
       alignment: 0
@@ -133,8 +133,8 @@ TextureImporter:
       name: item22_02.png
       rect:
         serializedVersion: 2
-        x: 808
-        y: 1416
+        x: 4
+        y: 769
         width: 800
         height: 628
       alignment: 0
@@ -146,10 +146,10 @@ TextureImporter:
       name: item23_01.png
       rect:
         serializedVersion: 2
-        x: 1776
-        y: 1548
-        width: 160
-        height: 148
+        x: 1452
+        y: 1795
+        width: 320
+        height: 249
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,10 +159,10 @@ TextureImporter:
       name: item23_02.png
       rect:
         serializedVersion: 2
-        x: 1612
-        y: 1548
-        width: 160
-        height: 145
+        x: 1452
+        y: 1547
+        width: 320
+        height: 244
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,8 +172,8 @@ TextureImporter:
       name: item23_03.png
       rect:
         serializedVersion: 2
-        x: 1612
-        y: 1860
+        x: 1292
+        y: 620
         width: 320
         height: 184
       alignment: 0
@@ -185,8 +185,8 @@ TextureImporter:
       name: item24_01.png
       rect:
         serializedVersion: 2
-        x: 4
-        y: 154
+        x: 648
+        y: 145
         width: 640
         height: 620
       alignment: 0
@@ -198,8 +198,8 @@ TextureImporter:
       name: item24_02.png
       rect:
         serializedVersion: 2
-        x: 808
-        y: 778
+        x: 4
+        y: 131
         width: 640
         height: 634
       alignment: 0
@@ -211,8 +211,8 @@ TextureImporter:
       name: item24_03.png
       rect:
         serializedVersion: 2
-        x: 4
-        y: 870
+        x: 808
+        y: 1517
         width: 640
         height: 527
       alignment: 0

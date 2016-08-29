@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: ef4328efe3e76264aa4a12a2d678059c
-timeCreated: 1471850430
+timeCreated: 1472484728
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -40,6 +40,21 @@ TextureImporter:
     21300066: staff_icon6_2.png
     21300068: staff_icon7.png
     21300070: staff_icon8.png
+    21300072: people1_a.png
+    21300074: people1_b.png
+    21300076: "people1_\uFF43.png"
+    21300078: people2_a.png
+    21300080: people2_b.png
+    21300082: "people2_\uFF43.png"
+    21300084: people3_a.png
+    21300086: people3_b.png
+    21300088: "people3_\uFF43.png"
+    21300090: people4_a.png
+    21300092: people4_b.png
+    21300094: "people4_\uFF43.png"
+    21300096: people5_a.png
+    21300098: people5_b.png
+    21300100: "people5_\uFF43.png"
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -92,8 +107,8 @@ TextureImporter:
       name: chara_zukan.png
       rect:
         serializedVersion: 2
-        x: 1741
-        y: 1213
+        x: 1744
+        y: 1205
         width: 290
         height: 281
       alignment: 0
@@ -118,7 +133,7 @@ TextureImporter:
       name: hospital.png
       rect:
         serializedVersion: 2
-        x: 613
+        x: 616
         y: 1740
         width: 594
         height: 304
@@ -131,8 +146,8 @@ TextureImporter:
       name: people1_00.png
       rect:
         serializedVersion: 2
-        x: 1848
-        y: 1725
+        x: 1924
+        y: 1520
         width: 69
         height: 99
       alignment: 0
@@ -144,10 +159,49 @@ TextureImporter:
       name: people1_01.png
       rect:
         serializedVersion: 2
-        x: 1848
-        y: 1828
+        x: 1925
+        y: 1623
         width: 69
         height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people1_a.png
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1596
+        width: 69
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people1_b.png
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1493
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "people1_\uFF43.png"
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1827
+        width: 72
+        height: 101
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -157,8 +211,8 @@ TextureImporter:
       name: people2_00.png
       rect:
         serializedVersion: 2
-        x: 1921
-        y: 1720
+        x: 1815
+        y: 1107
         width: 67
         height: 94
       alignment: 0
@@ -170,10 +224,49 @@ TextureImporter:
       name: people2_01.png
       rect:
         serializedVersion: 2
-        x: 1775
-        y: 1720
+        x: 1778
+        y: 1490
         width: 67
         height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people2_a.png
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1106
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people2_b.png
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1107
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "people2_\uFF43.png"
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1727
+        width: 71
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -183,8 +276,8 @@ TextureImporter:
       name: people3_00.png
       rect:
         serializedVersion: 2
-        x: 1775
-        y: 1606
+        x: 1118
+        y: 1080
         width: 58
         height: 110
       alignment: 0
@@ -196,10 +289,49 @@ TextureImporter:
       name: people3_01.png
       rect:
         serializedVersion: 2
-        x: 1912
-        y: 1606
+        x: 1118
+        y: 966
         width: 58
         height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people3_a.png
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 878
+        width: 58
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people3_b.png
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 978
+        width: 58
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "people3_\uFF43.png"
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1817
+        width: 72
+        height: 111
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,8 +341,8 @@ TextureImporter:
       name: people4_00.png
       rect:
         serializedVersion: 2
-        x: 1846
-        y: 1612
+        x: 1957
+        y: 1092
         width: 62
         height: 109
       alignment: 0
@@ -222,10 +354,49 @@ TextureImporter:
       name: people4_01.png
       rect:
         serializedVersion: 2
-        x: 1775
-        y: 1819
+        x: 1778
+        y: 1589
         width: 69
         height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people4_a.png
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 992
+        width: 61
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people4_b.png
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 991
+        width: 60
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "people4_\uFF43.png"
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 1932
+        width: 73
+        height: 112
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,8 +406,8 @@ TextureImporter:
       name: people5_00.png
       rect:
         serializedVersion: 2
-        x: 1974
-        y: 1606
+        x: 1870
+        y: 877
         width: 57
         height: 110
       alignment: 0
@@ -248,10 +419,49 @@ TextureImporter:
       name: people5_01.png
       rect:
         serializedVersion: 2
-        x: 1837
-        y: 1498
+        x: 1931
+        y: 864
         width: 57
         height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people5_a.png
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 991
+        width: 59
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people5_b.png
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 706
+        width: 55
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "people5_\uFF43.png"
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 49
+        width: 72
+        height: 113
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -267,14 +477,14 @@ TextureImporter:
         height: 560
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 64, y: 308, z: 126, w: 67}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
       name: popup_animal.png
       rect:
         serializedVersion: 2
-        x: 1211
+        x: 1214
         y: 1502
         width: 560
         height: 542
@@ -287,7 +497,7 @@ TextureImporter:
       name: popup_cleanup.png
       rect:
         serializedVersion: 2
-        x: 613
+        x: 616
         y: 1008
         width: 498
         height: 182
@@ -300,7 +510,7 @@ TextureImporter:
       name: popup_manpuku.png
       rect:
         serializedVersion: 2
-        x: 613
+        x: 616
         y: 822
         width: 498
         height: 182
@@ -313,7 +523,7 @@ TextureImporter:
       name: popup_mini.png
       rect:
         serializedVersion: 2
-        x: 1177
+        x: 1180
         y: 998
         width: 560
         height: 500
@@ -352,8 +562,8 @@ TextureImporter:
       name: staff_icon1.png
       rect:
         serializedVersion: 2
-        x: 540
-        y: 49
+        x: 1852
+        y: 1700
         width: 69
         height: 113
       alignment: 0
@@ -456,8 +666,8 @@ TextureImporter:
       name: staff_icon5.png
       rect:
         serializedVersion: 2
-        x: 1936
-        y: 1818
+        x: 1778
+        y: 1702
         width: 70
         height: 111
       alignment: 0
@@ -469,8 +679,8 @@ TextureImporter:
       name: staff_icon5_2.png
       rect:
         serializedVersion: 2
-        x: 1936
-        y: 1933
+        x: 1854
+        y: 1817
         width: 72
         height: 111
       alignment: 0
@@ -482,7 +692,7 @@ TextureImporter:
       name: staff_icon6.png
       rect:
         serializedVersion: 2
-        x: 1856
+        x: 1859
         y: 1932
         width: 76
         height: 112
@@ -495,7 +705,7 @@ TextureImporter:
       name: staff_icon6_2.png
       rect:
         serializedVersion: 2
-        x: 1775
+        x: 1778
         y: 1932
         width: 77
         height: 112
@@ -534,10 +744,10 @@ TextureImporter:
       name: work_clear.png
       rect:
         serializedVersion: 2
-        x: 613
-        y: 105
+        x: 616
+        y: 100
         width: 449
-        height: 277
+        height: 282
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -547,7 +757,7 @@ TextureImporter:
       name: zukan_animal.png
       rect:
         serializedVersion: 2
-        x: 613
+        x: 616
         y: 1194
         width: 560
         height: 542

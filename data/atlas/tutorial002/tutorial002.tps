@@ -6,7 +6,7 @@
         <key>texturePackerVersion</key>
         <string>4.2.2</string>
         <key>fileName</key>
-        <string>G:/image/Atlas/zoo/tutorial002/tutorial002.tps</string>
+        <string>G:/repository/pocket/Assets/pocket.Resources/data/atlas/tutorial002/tutorial002.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -188,9 +188,24 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">parts/tutorial11.png</key>
+            <key type="filename">parts/tutorial1.png</key>
+            <key type="filename">parts/tutorial13.png</key>
+            <key type="filename">parts/tutorial2.png</key>
+            <key type="filename">parts/tutorial20.png</key>
+            <key type="filename">parts/tutorial21.png</key>
+            <key type="filename">parts/tutorial22.png</key>
+            <key type="filename">parts/tutorial3-2.png</key>
+            <key type="filename">parts/tutorial3-3.png</key>
+            <key type="filename">parts/tutorial3.png</key>
             <key type="filename">parts/tutorial555.png</key>
             <key type="filename">parts/tutorial666.png</key>
+            <key type="filename">parts/tutorial777.png</key>
+            <key type="filename">parts/tutorial888.png</key>
+            <key type="filename">parts/tutorial_bace1.png</key>
+            <key type="filename">parts/tutorial_bace2.png</key>
+            <key type="filename">parts/tutorial_bace3.png</key>
+            <key type="filename">parts/tutorial_bace4.png</key>
+            <key type="filename">parts/tutorial_bace5.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>

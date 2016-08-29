@@ -6,7 +6,7 @@
         <key>texturePackerVersion</key>
         <string>4.2.2</string>
         <key>fileName</key>
-        <string>G:/image/Atlas/zoo/ui003/ui003.tps</string>
+        <string>G:/repository/pocket/Assets/pocket.Resources/data/atlas/ui003/ui003.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -189,7 +189,6 @@
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
             <key type="filename">parts/help_start.png</key>
-            <key type="filename">parts/popup_normal.png</key>
             <key type="filename">parts/popup_review.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>

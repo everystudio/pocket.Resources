@@ -1,28 +1,148 @@
 {"frames": {
 
-"tutorial11.png":
+"tutorial1.png":
 {
-	"frame": {"x":4,"y":4,"w":640,"h":1136},
+	"frame": {"x":4,"y":4,"w":582,"h":176},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":1136},
-	"sourceSize": {"w":640,"h":1136}
+	"spriteSourceSize": {"x":0,"y":0,"w":582,"h":176},
+	"sourceSize": {"w":582,"h":176}
+},
+"tutorial2.png":
+{
+	"frame": {"x":1176,"y":4,"w":582,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":582,"h":176},
+	"sourceSize": {"w":582,"h":176}
+},
+"tutorial3-2.png":
+{
+	"frame": {"x":458,"y":364,"w":582,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":582,"h":176},
+	"sourceSize": {"w":582,"h":176}
+},
+"tutorial3-3.png":
+{
+	"frame": {"x":1044,"y":364,"w":582,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":582,"h":176},
+	"sourceSize": {"w":582,"h":176}
+},
+"tutorial3.png":
+{
+	"frame": {"x":458,"y":544,"w":582,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":582,"h":176},
+	"sourceSize": {"w":582,"h":176}
+},
+"tutorial13.png":
+{
+	"frame": {"x":590,"y":4,"w":582,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":582,"h":176},
+	"sourceSize": {"w":582,"h":176}
+},
+"tutorial20.png":
+{
+	"frame": {"x":4,"y":184,"w":582,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":582,"h":176},
+	"sourceSize": {"w":582,"h":176}
+},
+"tutorial21.png":
+{
+	"frame": {"x":590,"y":184,"w":582,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":582,"h":176},
+	"sourceSize": {"w":582,"h":176}
+},
+"tutorial22.png":
+{
+	"frame": {"x":1176,"y":184,"w":582,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":582,"h":176},
+	"sourceSize": {"w":582,"h":176}
 },
 "tutorial555.png":
 {
-	"frame": {"x":648,"y":4,"w":640,"h":1136},
+	"frame": {"x":4,"y":364,"w":450,"h":300},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":1136},
-	"sourceSize": {"w":640,"h":1136}
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":300},
+	"sourceSize": {"w":450,"h":300}
 },
 "tutorial666.png":
 {
-	"frame": {"x":1292,"y":4,"w":640,"h":1136},
+	"frame": {"x":4,"y":668,"w":450,"h":300},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":1136},
-	"sourceSize": {"w":640,"h":1136}
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":300},
+	"sourceSize": {"w":450,"h":300}
+},
+"tutorial777.png":
+{
+	"frame": {"x":4,"y":972,"w":450,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":300},
+	"sourceSize": {"w":450,"h":300}
+},
+"tutorial888.png":
+{
+	"frame": {"x":4,"y":1276,"w":450,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":300},
+	"sourceSize": {"w":450,"h":300}
+},
+"tutorial_bace1.png":
+{
+	"frame": {"x":1044,"y":544,"w":582,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":582,"h":176},
+	"sourceSize": {"w":582,"h":176}
+},
+"tutorial_bace2.png":
+{
+	"frame": {"x":4,"y":1580,"w":582,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":582,"h":176},
+	"sourceSize": {"w":582,"h":176}
+},
+"tutorial_bace3.png":
+{
+	"frame": {"x":4,"y":1760,"w":582,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":582,"h":176},
+	"sourceSize": {"w":582,"h":176}
+},
+"tutorial_bace4.png":
+{
+	"frame": {"x":458,"y":724,"w":582,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":582,"h":176},
+	"sourceSize": {"w":582,"h":176}
+},
+"tutorial_bace5.png":
+{
+	"frame": {"x":1044,"y":724,"w":582,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":582,"h":176},
+	"sourceSize": {"w":582,"h":176}
 }},
 "meta": {
 	"app": "http://www.codeandweb.com/texturepacker",
@@ -31,6 +151,6 @@
 	"format": "RGBA8888",
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:5c1eb59e05a26512acc18aabbe4c62b1:4f18e2e31680dbf3790fa37e4bd4c556:e8b1c36ac6948e152ac1b5daca5057d9$"
+	"smartupdate": "$TexturePacker:SmartUpdate:353b8b55eb0f3d0ea7dfa5443bcc80ab:2aa34b1e239e4ceb94cc9221d7e5f4e7:e8b1c36ac6948e152ac1b5daca5057d9$"
 }
 }

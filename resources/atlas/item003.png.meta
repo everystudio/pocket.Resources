@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: d745fc32af16e644b8a9a444c218355e
-timeCreated: 1472046602
+timeCreated: 1472484727
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -84,8 +84,8 @@ TextureImporter:
       name: item00_01.png
       rect:
         serializedVersion: 2
-        x: 4
-        y: 418
+        x: 1780
+        y: 755
         width: 160
         height: 90
       alignment: 0
@@ -149,8 +149,8 @@ TextureImporter:
       name: item15_01.png
       rect:
         serializedVersion: 2
-        x: 4
-        y: 641
+        x: 1780
+        y: 661
         width: 160
         height: 90
       alignment: 0
@@ -201,8 +201,8 @@ TextureImporter:
       name: item17_02.png
       rect:
         serializedVersion: 2
-        x: 1611
-        y: 1098
+        x: 648
+        y: 1243
         width: 160
         height: 143
       alignment: 0
@@ -214,8 +214,8 @@ TextureImporter:
       name: item18_01.png
       rect:
         serializedVersion: 2
-        x: 1611
-        y: 1245
+        x: 648
+        y: 1390
         width: 160
         height: 146
       alignment: 0
@@ -228,7 +228,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 648
-        y: 1103
+        y: 1098
         width: 160
         height: 141
       alignment: 0
@@ -240,10 +240,10 @@ TextureImporter:
       name: item19_01.png
       rect:
         serializedVersion: 2
-        x: 1775
-        y: 1246
-        width: 160
-        height: 145
+        x: 1456
+        y: 628
+        width: 320
+        height: 217
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -253,10 +253,10 @@ TextureImporter:
       name: item19_02.png
       rect:
         serializedVersion: 2
-        x: 1775
-        y: 1097
-        width: 160
-        height: 145
+        x: 1456
+        y: 407
+        width: 320
+        height: 217
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -267,7 +267,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 648
-        y: 843
+        y: 838
         width: 160
         height: 116
       alignment: 0
@@ -280,7 +280,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 648
-        y: 843
+        y: 838
         width: 160
         height: 116
       alignment: 0
@@ -293,7 +293,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 648
-        y: 843
+        y: 838
         width: 160
         height: 116
       alignment: 0
@@ -306,7 +306,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 648
-        y: 843
+        y: 838
         width: 160
         height: 116
       alignment: 0
@@ -319,7 +319,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 648
-        y: 843
+        y: 838
         width: 160
         height: 116
       alignment: 0
@@ -331,10 +331,10 @@ TextureImporter:
       name: item999_01.png
       rect:
         serializedVersion: 2
-        x: 648
-        y: 1394
-        width: 160
-        height: 142
+        x: 1611
+        y: 1352
+        width: 320
+        height: 228
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -345,7 +345,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 648
-        y: 963
+        y: 958
         width: 160
         height: 136
       alignment: 0
@@ -357,10 +357,10 @@ TextureImporter:
       name: item999_02.png
       rect:
         serializedVersion: 2
-        x: 648
-        y: 1248
-        width: 160
-        height: 142
+        x: 1611
+        y: 1120
+        width: 320
+        height: 228
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -371,7 +371,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 648
-        y: 735
+        y: 730
         width: 160
         height: 104
       alignment: 0
@@ -383,8 +383,8 @@ TextureImporter:
       name: item_processing2.png
       rect:
         serializedVersion: 2
-        x: 1611
-        y: 1395
+        x: 4
+        y: 218
         width: 320
         height: 185
       alignment: 0
@@ -397,7 +397,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1456
-        y: 826
+        y: 849
         width: 480
         height: 267
       alignment: 0

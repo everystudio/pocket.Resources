@@ -294,6 +294,7 @@
             <key type="filename">parts/no_ticket.png</key>
             <key type="filename">parts/nothing_icon.png</key>
             <key type="filename">parts/people_tamashii.png</key>
+            <key type="filename">parts/people_tamashii2.png</key>
             <key type="filename">parts/pinch.png</key>
             <key type="filename">parts/popup_building.png</key>
             <key type="filename">parts/purchase_road.png</key>
