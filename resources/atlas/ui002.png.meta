@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: ef4328efe3e76264aa4a12a2d678059c
-timeCreated: 1472484728
+timeCreated: 1472651403
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -55,6 +55,21 @@ TextureImporter:
     21300096: people5_a.png
     21300098: people5_b.png
     21300100: "people5_\uFF43.png"
+    21300102: people001_00.png
+    21300104: people001_01.png
+    21300106: people001_02.png
+    21300108: people002_00.png
+    21300110: people002_01.png
+    21300112: people002_02.png
+    21300114: people003_00.png
+    21300116: people003_01.png
+    21300118: people003_02.png
+    21300120: people004_00.png
+    21300122: people004_01.png
+    21300124: people004_02.png
+    21300126: people005_00.png
+    21300128: people005_01.png
+    21300130: people005_02.png
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -108,7 +123,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1744
-        y: 1205
+        y: 1198
         width: 290
         height: 281
       alignment: 0
@@ -143,50 +158,24 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: people1_00.png
+      name: people001_00.png
       rect:
         serializedVersion: 2
-        x: 1924
-        y: 1520
+        x: 1778
+        y: 1598
         width: 69
-        height: 99
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: people1_01.png
+      name: people001_01.png
       rect:
         serializedVersion: 2
         x: 1925
-        y: 1623
-        width: 69
-        height: 100
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: people1_a.png
-      rect:
-        serializedVersion: 2
-        x: 1851
-        y: 1596
-        width: 69
-        height: 100
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: people1_b.png
-      rect:
-        serializedVersion: 2
-        x: 1851
-        y: 1493
+        y: 1624
         width: 69
         height: 99
       alignment: 0
@@ -195,7 +184,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: "people1_\uFF43.png"
+      name: people001_02.png
       rect:
         serializedVersion: 2
         x: 1930
@@ -208,24 +197,11 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: people2_00.png
+      name: people002_00.png
       rect:
         serializedVersion: 2
-        x: 1815
-        y: 1107
-        width: 67
-        height: 94
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: people2_01.png
-      rect:
-        serializedVersion: 2
-        x: 1778
-        y: 1490
+        x: 1851
+        y: 1601
         width: 67
         height: 95
       alignment: 0
@@ -234,24 +210,11 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: people2_a.png
+      name: people002_01.png
       rect:
         serializedVersion: 2
-        x: 1744
-        y: 1106
-        width: 67
-        height: 95
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: people2_b.png
-      rect:
-        serializedVersion: 2
-        x: 1886
-        y: 1107
+        x: 1922
+        y: 1526
         width: 67
         height: 94
       alignment: 0
@@ -260,7 +223,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: "people2_\uFF43.png"
+      name: people002_02.png
       rect:
         serializedVersion: 2
         x: 1930
@@ -273,7 +236,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: people3_00.png
+      name: people003_00.png
       rect:
         serializedVersion: 2
         x: 1118
@@ -286,7 +249,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: people3_01.png
+      name: people003_01.png
       rect:
         serializedVersion: 2
         x: 1118
@@ -299,33 +262,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: people3_a.png
-      rect:
-        serializedVersion: 2
-        x: 1808
-        y: 878
-        width: 58
-        height: 110
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: people3_b.png
-      rect:
-        serializedVersion: 2
-        x: 1943
-        y: 978
-        width: 58
-        height: 110
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: "people3_\uFF43.png"
+      name: people003_02.png
       rect:
         serializedVersion: 2
         x: 1778
@@ -338,37 +275,11 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: people4_00.png
+      name: people004_00.png
       rect:
         serializedVersion: 2
-        x: 1957
-        y: 1092
-        width: 62
-        height: 109
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: people4_01.png
-      rect:
-        serializedVersion: 2
-        x: 1778
-        y: 1589
-        width: 69
-        height: 109
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: people4_a.png
-      rect:
-        serializedVersion: 2
-        x: 1815
-        y: 992
+        x: 1851
+        y: 1486
         width: 61
         height: 111
       alignment: 0
@@ -377,11 +288,11 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: people4_b.png
+      name: people004_01.png
       rect:
         serializedVersion: 2
-        x: 1744
-        y: 991
+        x: 1778
+        y: 1483
         width: 60
         height: 111
       alignment: 0
@@ -390,7 +301,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: "people4_\uFF43.png"
+      name: people004_02.png
       rect:
         serializedVersion: 2
         x: 1939
@@ -403,37 +314,11 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: people5_00.png
+      name: people005_00.png
       rect:
         serializedVersion: 2
-        x: 1870
-        y: 877
-        width: 57
-        height: 110
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: people5_01.png
-      rect:
-        serializedVersion: 2
-        x: 1931
-        y: 864
-        width: 57
-        height: 110
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: people5_a.png
-      rect:
-        serializedVersion: 2
-        x: 1880
-        y: 991
+        x: 1744
+        y: 1082
         width: 59
         height: 112
       alignment: 0
@@ -442,11 +327,11 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: people5_b.png
+      name: people005_01.png
       rect:
         serializedVersion: 2
-        x: 1039
-        y: 706
+        x: 1807
+        y: 1082
         width: 55
         height: 112
       alignment: 0
@@ -455,7 +340,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: "people5_\uFF43.png"
+      name: people005_02.png
       rect:
         serializedVersion: 2
         x: 540
