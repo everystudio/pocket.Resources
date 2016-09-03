@@ -291,6 +291,7 @@
             <key type="filename">parts/new_alert.png</key>
             <key type="filename">parts/no_cost.png</key>
             <key type="filename">parts/no_gold.png</key>
+            <key type="filename">parts/no_range.png</key>
             <key type="filename">parts/no_ticket.png</key>
             <key type="filename">parts/nothing_icon.png</key>
             <key type="filename">parts/people_tamashii.png</key>
