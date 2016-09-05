@@ -191,6 +191,7 @@
             <key type="filename">parts/gate2.png</key>
             <key type="filename">parts/item-01_01.png</key>
             <key type="filename">parts/item-01_02.png</key>
+            <key type="filename">parts/item00.png</key>
             <key type="filename">parts/item01_01.png</key>
             <key type="filename">parts/item01_02.png</key>
             <key type="filename">parts/item02_01.png</key>
