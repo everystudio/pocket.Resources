@@ -191,6 +191,8 @@
             <key type="filename">parts/bar_userex.png</key>
             <key type="filename">parts/bar_userexframe.png</key>
             <key type="filename">parts/bord_cost.png</key>
+            <key type="filename">parts/bord_effect_rate.png</key>
+            <key type="filename">parts/bord_range.png</key>
             <key type="filename">parts/bord_sell.png</key>
             <key type="filename">parts/bord_sell2.png</key>
             <key type="filename">parts/bt_center.png</key>
@@ -299,6 +301,7 @@
             <key type="filename">parts/pinch.png</key>
             <key type="filename">parts/popup_building.png</key>
             <key type="filename">parts/purchase_road.png</key>
+            <key type="filename">parts/scare_effect.png</key>
             <key type="filename">parts/serihu_4.png</key>
             <key type="filename">parts/shisetsu1_frame1.png</key>
             <key type="filename">parts/shisetsu1_frame4.png</key>
