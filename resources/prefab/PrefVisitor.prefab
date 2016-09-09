@@ -55,11 +55,12 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 176772}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 173, y: 13, z: 0}
+  m_LocalPosition: {x: 165, y: 12, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 4000010916650674}
+  - {fileID: 4000010658904334}
   m_Father: {fileID: 0}
   m_RootOrder: 0
 --- !u!114 &11432742
@@ -75,6 +76,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_eStep: 0
   m_bUp: 0
+  m_iVisitorSerial: 0
   m_fTimer: 0
   m_iType: 0
   m_fAnimationTimer: 0
@@ -86,8 +88,10 @@ MonoBehaviour:
   m_iTargetItemSerial: 0
   m_v3StartPosition: {x: 0, y: 0, z: 0}
   m_v3TargetPosition: {x: 0, y: 0, z: 0}
+  m_goHitCenter: {fileID: 1000014246655774}
   m_ctrlTouchCollectTamashii: {fileID: 0}
   m_sprChara: {fileID: 114000011956851160}
+  m_monsterSerialList: 
   m_sprTamashii: {fileID: 11462706}
 --- !u!114 &11462706
 MonoBehaviour:
@@ -177,6 +181,34 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!1 &1000014246655774
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000010658904334}
+  m_Layer: 8
+  m_Name: centerPos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4000010658904334
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000014246655774}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 66, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 490794}
+  m_RootOrder: 1
 --- !u!4 &4000010916650674
 Transform:
   m_ObjectHideFlags: 1
