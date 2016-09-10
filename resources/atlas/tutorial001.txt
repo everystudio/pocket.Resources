@@ -24,9 +24,17 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":467,"h":447},
 	"sourceSize": {"w":467,"h":447}
 },
-"tutorial7.png":
+"tutorial7-2.png":
 {
 	"frame": {"x":506,"y":146,"w":102,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":112},
+	"sourceSize": {"w":102,"h":112}
+},
+"tutorial7.png":
+{
+	"frame": {"x":1841,"y":4,"w":102,"h":112},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":112},
@@ -159,6 +167,6 @@
 	"format": "RGBA8888",
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:fd9bcf09f6689e47233941812b943002:c8bbf015b0f1d7c6ffd63210e91bfcbc:af3f0f25d46ae9d93e27737cfe8bf2e6$"
+	"smartupdate": "$TexturePacker:SmartUpdate:2b2b7402c97a367cf4cfc197b3334401:50ddd45e91affadb20b0c2107592c486:af3f0f25d46ae9d93e27737cfe8bf2e6$"
 }
 }

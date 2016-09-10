@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 0f90e9376e688f64383dab9ffb9afa5e
-timeCreated: 1472484719
+timeCreated: 1473520778
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -30,6 +30,7 @@ TextureImporter:
     21300046: tutorial_setting.png
     21300048: tutorial11.png
     21300050: tutorial_bace0.png
+    21300052: tutorial7-2.png
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -118,11 +119,24 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: tutorial7.png
+      name: tutorial7-2.png
       rect:
         serializedVersion: 2
         x: 506
         y: 1790
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tutorial7.png
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1932
         width: 102
         height: 112
       alignment: 0

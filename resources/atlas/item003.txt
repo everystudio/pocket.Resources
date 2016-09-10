@@ -8,6 +8,14 @@
 	"spriteSourceSize": {"x":0,"y":70,"w":160,"h":90},
 	"sourceSize": {"w":160,"h":160}
 },
+"item00_02.png":
+{
+	"frame": {"x":1780,"y":1203,"w":160,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":70,"w":160,"h":90},
+	"sourceSize": {"w":160,"h":160}
+},
 "item08_01.png":
 {
 	"frame": {"x":812,"y":870,"w":640,"h":331},
@@ -231,6 +239,6 @@
 	"format": "RGBA8888",
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:db93cc1778d902dcecb9d693377766b5:2564e0b74d753c2d4e177d08188e6e37:7190deb0eb5181dcc99d48018ab528fd$"
+	"smartupdate": "$TexturePacker:SmartUpdate:40aa3126bcd0f656d159dcfc3a47043f:36f5645f21e2df1e76c2db0ff8b7768e:7190deb0eb5181dcc99d48018ab528fd$"
 }
 }

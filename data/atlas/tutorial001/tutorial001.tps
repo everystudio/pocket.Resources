@@ -200,6 +200,7 @@
             <key type="filename">parts/tutorial4.png</key>
             <key type="filename">parts/tutorial5.png</key>
             <key type="filename">parts/tutorial6.png</key>
+            <key type="filename">parts/tutorial7-2.png</key>
             <key type="filename">parts/tutorial7.png</key>
             <key type="filename">parts/tutorial8.png</key>
             <key type="filename">parts/tutorial_bace0.png</key>

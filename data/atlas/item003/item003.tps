@@ -189,6 +189,7 @@
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
             <key type="filename">parts/item00_01.png</key>
+            <key type="filename">parts/item00_02.png</key>
             <key type="filename">parts/item08_01.png</key>
             <key type="filename">parts/item08_02.png</key>
             <key type="filename">parts/item09_01.png</key>

@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: d745fc32af16e644b8a9a444c218355e
-timeCreated: 1472484727
+timeCreated: 1473522143
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -32,6 +32,7 @@ TextureImporter:
     21300050: item08_02.png
     21300052: item09_01.png
     21300054: item09_02.png
+    21300056: item00_02.png
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -82,6 +83,19 @@ TextureImporter:
     sprites:
     - serializedVersion: 2
       name: item00_01.png
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 755
+        width: 160
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: item00_02.png
       rect:
         serializedVersion: 2
         x: 1780
