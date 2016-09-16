@@ -1431,6 +1431,6 @@
 	"format": "RGBA8888",
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:7792f1761fb5930bcbcd9fa1816f40a3:053d94ba90c936239e5a6b969d043235:639dde4ff0d938103c534873fcef0e7f$"
+	"smartupdate": "$TexturePacker:SmartUpdate:1dbf42a138d947cc9fce5d02aa9b6c72:aef3303e1614dd3662487d35068229fd:639dde4ff0d938103c534873fcef0e7f$"
 }
 }
