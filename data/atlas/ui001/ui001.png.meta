@@ -1,12 +1,9 @@
 fileFormatVersion: 2
-guid: 65b3addd0b9306641b7eaee37e28f229
-timeCreated: 1476194520
+guid: d315e81dec8a1bb4e8b7f9b817aa925a
+timeCreated: 1476194513
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: help_start.png
-    21300002: popup_normal.png
-    21300004: popup_review.png
+  fileIDToRecycleName: {}
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -29,58 +26,32 @@ TextureImporter:
   cubemapConvolutionSteps: 7
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
-  textureFormat: -2
+  textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: 16
+    aniso: -1
     mipBias: -1
-    wrapMode: 1
-  nPOTScale: 0
+    wrapMode: -1
+  nPOTScale: 1
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 2
+  spriteMode: 0
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
-  alphaIsTransparency: 1
+  alphaIsTransparency: 0
   spriteTessellationDetail: -1
-  textureType: 8
+  textureType: -1
   buildTargetSettings: []
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: help_start.png
-      rect:
-        serializedVersion: 2
-        x: 1144
-        y: 1461
-        width: 884
-        height: 583
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: -1
-    - serializedVersion: 2
-      name: popup_review.png
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 1404
-        width: 1136
-        height: 640
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: -1
+    sprites: []
     outline: []
   spritePackingTag: 
   userData: 

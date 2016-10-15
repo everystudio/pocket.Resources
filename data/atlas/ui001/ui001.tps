@@ -300,6 +300,7 @@
             <key type="filename">parts/people_tamashii2.png</key>
             <key type="filename">parts/pinch.png</key>
             <key type="filename">parts/popup_building.png</key>
+            <key type="filename">parts/popup_talk.png</key>
             <key type="filename">parts/purchase_road.png</key>
             <key type="filename">parts/scare_effect.png</key>
             <key type="filename">parts/serihu_4.png</key>
