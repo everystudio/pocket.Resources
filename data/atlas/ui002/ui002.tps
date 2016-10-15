@@ -229,6 +229,7 @@
             <key type="filename">parts/staff_icon8.png</key>
             <key type="filename">parts/work_clear.png</key>
             <key type="filename">parts/zukan_animal.png</key>
+            <key type="filename">parts/zukan_animal_close.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>

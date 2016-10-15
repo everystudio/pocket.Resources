@@ -86,9 +86,9 @@
         <key>maxTextureSize</key>
         <QSize>
             <key>width</key>
-            <int>4096</int>
+            <int>2048</int>
             <key>height</key>
-            <int>4096</int>
+            <int>2048</int>
         </QSize>
         <key>fixedTextureSize</key>
         <QSize>
@@ -218,6 +218,7 @@
             <key type="filename">parts/btn_testread.png</key>
             <key type="filename">parts/btn_testsave.png</key>
             <key type="filename">parts/btn_yes.png</key>
+            <key type="filename">parts/close.png</key>
             <key type="filename">parts/coin.png</key>
             <key type="filename">parts/coin1000.png</key>
             <key type="filename">parts/coin125000.png</key>
