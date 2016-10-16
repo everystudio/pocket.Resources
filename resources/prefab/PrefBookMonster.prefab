@@ -318,8 +318,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 150796}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 24, y: 14, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 177, y: 127, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
@@ -403,7 +403,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 640, y: 50, z: 0}
+  m_Size: {x: 560, y: 52, z: 0}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &11407482
 MonoBehaviour:
@@ -856,13 +856,13 @@ MonoBehaviour:
   updateAnchors: 1
   mColor: {r: 1, g: 1, b: 1, a: 1}
   mPivot: 4
-  mWidth: 640
-  mHeight: 50
+  mWidth: 560
+  mHeight: 52
   mDepth: 503
   autoResizeBoxCollider: 1
   hideIfOffScreen: 0
   keepAspectRatio: 0
-  aspectRatio: 12.8
+  aspectRatio: 10.769231
   mType: 0
   mFillDirection: 4
   mFillAmount: 1
@@ -876,7 +876,7 @@ MonoBehaviour:
   rightType: 1
   bottomType: 1
   topType: 1
-  mSprite: {fileID: 21300020, guid: 911697bd0d748df4ab7ca0f2d030bf9f, type: 3}
+  mSprite: {fileID: 21300132, guid: ef4328efe3e76264aa4a12a2d678059c, type: 3}
   mMat: {fileID: 0}
   mShader: {fileID: 4800000, guid: e75727d9555d9d14ca51d91908c681bc, type: 3}
   mBorder: {x: 0, y: 0, z: 0, w: 0}
