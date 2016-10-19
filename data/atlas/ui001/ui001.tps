@@ -229,6 +229,7 @@
             <key type="filename">parts/empower2.png</key>
             <key type="filename">parts/empower_done.png</key>
             <key type="filename">parts/empower_office.png</key>
+            <key type="filename">parts/empty.png</key>
             <key type="filename">parts/food1.png</key>
             <key type="filename">parts/food2.png</key>
             <key type="filename">parts/food3.png</key>

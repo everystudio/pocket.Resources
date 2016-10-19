@@ -328,6 +328,14 @@
 	"spriteSourceSize": {"x":12,"y":4,"w":496,"h":48},
 	"sourceSize": {"w":520,"h":52}
 },
+"empty.png":
+{
+	"frame": {"x":2033,"y":90,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":128,"h":128}
+},
 "food1.png":
 {
 	"frame": {"x":638,"y":1431,"w":64,"h":47},
@@ -1176,20 +1184,20 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":60},
 	"sourceSize": {"w":128,"h":60}
 },
-"ticket10.png":
-{
-	"frame": {"x":940,"y":1559,"w":148,"h":144},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":6,"y":10,"w":148,"h":144},
-	"sourceSize": {"w":160,"h":160}
-},
 "ticket010.png":
 {
 	"frame": {"x":4,"y":1178,"w":150,"h":148},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":5,"y":4,"w":150,"h":148},
+	"sourceSize": {"w":160,"h":160}
+},
+"ticket10.png":
+{
+	"frame": {"x":940,"y":1559,"w":148,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":10,"w":148,"h":144},
 	"sourceSize": {"w":160,"h":160}
 },
 "ticket55.png":
@@ -1447,6 +1455,6 @@
 	"format": "RGBA8888",
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:8516217d4a8ca9441f2d3714fbf39933:9dd3045da019fecc9f4192fb089bcf46:639dde4ff0d938103c534873fcef0e7f$"
+	"smartupdate": "$TexturePacker:SmartUpdate:4235c587259d9f5288a8975ad8cab993:50fc3803af0a08d717e246b9dd4054f4:639dde4ff0d938103c534873fcef0e7f$"
 }
 }

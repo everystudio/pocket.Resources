@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 911697bd0d748df4ab7ca0f2d030bf9f
-timeCreated: 1476577056
+timeCreated: 1476889669
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -209,6 +209,7 @@ TextureImporter:
     21300404: scare_effect.png
     21300406: popup_talk.png
     21300408: close.png
+    21300410: empty.png
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -358,7 +359,7 @@ TextureImporter:
         height: 72
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 5, y: 5, z: 5, w: 5}
+      border: {x: 10, y: 8, z: 11, w: 9}
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
@@ -785,6 +786,19 @@ TextureImporter:
         y: 861
         width: 496
         height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: empty.png
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 1955
+        width: 3
+        height: 3
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2169,19 +2183,6 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: ticket10.png
-      rect:
-        serializedVersion: 2
-        x: 940
-        y: 345
-        width: 148
-        height: 144
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: -1
-    - serializedVersion: 2
       name: ticket010.png
       rect:
         serializedVersion: 2
@@ -2189,6 +2190,19 @@ TextureImporter:
         y: 722
         width: 150
         height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ticket10.png
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 345
+        width: 148
+        height: 144
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
