@@ -5,10 +5,10 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 448042}
-  - 114: {fileID: 11453870}
+  - component: {fileID: 448042}
+  - component: {fileID: 11453870}
   m_Layer: 8
   m_Name: lbString
   m_TagString: Untagged
@@ -21,13 +21,13 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 466334}
-  - 114: {fileID: 11419424}
-  - 114: {fileID: 11418034}
-  - 114: {fileID: 11463518}
-  - 65: {fileID: 6542244}
+  - component: {fileID: 466334}
+  - component: {fileID: 11419424}
+  - component: {fileID: 11418034}
+  - component: {fileID: 11463518}
+  - component: {fileID: 6542244}
   m_Layer: 8
   m_Name: sprButton
   m_TagString: Untagged
@@ -40,10 +40,10 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 439072}
-  - 114: {fileID: 11474468}
+  - component: {fileID: 439072}
+  - component: {fileID: 11474468}
   m_Layer: 8
   m_Name: lbCompRate
   m_TagString: Untagged
@@ -56,10 +56,10 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 410814}
-  - 114: {fileID: 11486150}
+  - component: {fileID: 410814}
+  - component: {fileID: 11486150}
   m_Layer: 8
   m_Name: PrefPageHeader
   m_TagString: Untagged
@@ -72,11 +72,11 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 466518}
-  - 114: {fileID: 11400594}
-  - 114: {fileID: 11423972}
+  - component: {fileID: 466518}
+  - component: {fileID: 11400594}
+  - component: {fileID: 11423972}
   m_Layer: 8
   m_Name: sprBackground
   m_TagString: Untagged
@@ -90,8 +90,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 151024}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -90, y: 223, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -18, y: 728, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 466518}
@@ -100,6 +100,7 @@ Transform:
   - {fileID: 466334}
   m_Father: {fileID: 0}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &439072
 Transform:
   m_ObjectHideFlags: 1
@@ -112,6 +113,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 410814}
   m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &448042
 Transform:
   m_ObjectHideFlags: 1
@@ -124,6 +126,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 410814}
   m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &466334
 Transform:
   m_ObjectHideFlags: 1
@@ -136,6 +139,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 410814}
   m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &466518
 Transform:
   m_ObjectHideFlags: 1
@@ -148,6 +152,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 410814}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &6542244
 BoxCollider:
   m_ObjectHideFlags: 1
@@ -192,7 +197,8 @@ MonoBehaviour:
   mPivot: 4
   mWidth: 640
   mHeight: 100
-  mDepth: 100
+  mDepth: 5000
+  mMat: {fileID: 0}
   autoResizeBoxCollider: 0
   hideIfOffScreen: 0
   keepAspectRatio: 0
@@ -211,7 +217,6 @@ MonoBehaviour:
   bottomType: 1
   topType: 1
   mSprite: {fileID: 21300000, guid: 70e50b1e6e51cb040a33bc5ff8acb144, type: 3}
-  mMat: {fileID: 0}
   mShader: {fileID: 4800000, guid: e75727d9555d9d14ca51d91908c681bc, type: 3}
   mBorder: {x: 0, y: 0, z: 0, w: 0}
   mFixedAspect: 0
@@ -250,6 +255,7 @@ MonoBehaviour:
   mWidth: 130
   mHeight: 40
   mDepth: 103
+  mMat: {fileID: 0}
   autoResizeBoxCollider: 1
   hideIfOffScreen: 0
   keepAspectRatio: 0
@@ -302,7 +308,8 @@ MonoBehaviour:
   mPivot: 4
   mWidth: 130
   mHeight: 36
-  mDepth: 103
+  mDepth: 5030
+  mMat: {fileID: 0}
   autoResizeBoxCollider: 1
   hideIfOffScreen: 0
   keepAspectRatio: 0
@@ -321,7 +328,6 @@ MonoBehaviour:
   bottomType: 1
   topType: 1
   mSprite: {fileID: 21300000, guid: 3a6af37e85015fb49b84f6d730fbe20a, type: 3}
-  mMat: {fileID: 0}
   mShader: {fileID: 4800000, guid: e75727d9555d9d14ca51d91908c681bc, type: 3}
   mBorder: {x: 0, y: 0, z: 0, w: 0}
   mFixedAspect: 0
@@ -360,6 +366,7 @@ MonoBehaviour:
   mWidth: 640
   mHeight: 100
   mDepth: 100
+  mMat: {fileID: 0}
   autoResizeBoxCollider: 0
   hideIfOffScreen: 0
   keepAspectRatio: 0
@@ -412,7 +419,8 @@ MonoBehaviour:
   mPivot: 3
   mWidth: 497
   mHeight: 46
-  mDepth: 101
+  mDepth: 5010
+  mMat: {fileID: 0}
   autoResizeBoxCollider: 0
   hideIfOffScreen: 0
   keepAspectRatio: 0
@@ -431,7 +439,6 @@ MonoBehaviour:
   mSymbols: 1
   mEffectDistance: {x: 1, y: 1}
   mOverflow: 0
-  mMaterial: {fileID: 0}
   mApplyGradient: 0
   mGradientTop: {r: 1, g: 1, b: 1, a: 1}
   mGradientBottom: {r: 0.7, g: 0.7, b: 0.7, a: 1}
@@ -441,6 +448,8 @@ MonoBehaviour:
   mFloatSpacingX: 0
   mFloatSpacingY: 0
   mOverflowEllipsis: 0
+  mOverflowWidth: 0
+  mModifier: 0
   mShrinkToFit: 0
   mMaxLineWidth: 0
   mMaxLineHeight: 0
@@ -507,7 +516,8 @@ MonoBehaviour:
   mPivot: 5
   mWidth: 126
   mHeight: 28
-  mDepth: 102
+  mDepth: 5020
+  mMat: {fileID: 0}
   autoResizeBoxCollider: 0
   hideIfOffScreen: 0
   keepAspectRatio: 0
@@ -526,7 +536,6 @@ MonoBehaviour:
   mSymbols: 1
   mEffectDistance: {x: 1, y: 1}
   mOverflow: 0
-  mMaterial: {fileID: 0}
   mApplyGradient: 0
   mGradientTop: {r: 1, g: 1, b: 1, a: 1}
   mGradientBottom: {r: 0.7, g: 0.7, b: 0.7, a: 1}
@@ -536,6 +545,8 @@ MonoBehaviour:
   mFloatSpacingX: 0
   mFloatSpacingY: 0
   mOverflowEllipsis: 0
+  mOverflowWidth: 0
+  mModifier: 0
   mShrinkToFit: 0
   mMaxLineWidth: 0
   mMaxLineHeight: 0
@@ -552,6 +563,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6785ca6d23b04a2682ab9657f6fcdd7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ClickButtonEvent:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
   m_intIndex: 0
   m_bButtonClicked: 0
   m_lbMessage: {fileID: 11453870}
